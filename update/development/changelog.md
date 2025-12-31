@@ -1,17 +1,12 @@
-> [!NOTE]
-> 在这个版本，我们添加了 **6** 个语言的支持！
-
 ## 更新
 
-* **本地化**
-  + 添加 `日语` 支持 [#69](https://github.com/PvzLauncher/PvzLauncher/issues/69)
-  + 添加 `法语` 支持 [#71](https://github.com/PvzLauncher/PvzLauncher/issues/71)
-  + 添加 `韩语` 支持 [#76](https://github.com/PvzLauncher/PvzLauncher/issues/76)
-  + 添加 `俄语` 支持 [#74](https://github.com/PvzLauncher/PvzLauncher/issues/74)
-  + 添加 `德语` 支持 [#72](https://github.com/PvzLauncher/PvzLauncher/issues/72)
-  + 添加 `繁体中文` 支持 [#78](https://github.com/PvzLauncher/PvzLauncher/issues/78)
-* **设置** 优化语言选项的应用逻辑
+* **下载**
+  + 更新了 **下载确认页** ，在游戏列表内点击游戏后不会开始下载，而是会跳转一个用来描述游戏的页面，还可以显示简介和截图！！！
+* **下载确认页**
+  * 添加图片缓入动画
+  * 鼠标移入时会放大图片
+* **更新/下载服务** 更换新的服务
 
-## 更改
+## 移除
 
-* **游戏管理:** 现在游戏的版本号前面不会显示游戏类型
+* **下载** 移除了游戏名后方的简述

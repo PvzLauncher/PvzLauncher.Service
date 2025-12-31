@@ -337,7 +337,7 @@
         {
             "name": "融合版修改器",
             "description": "适用于融合版的多功能修改器",
-            "screenshot": 0,
+            "screenshot": 6,
             "icon": "fe",
             "version_type": "trainer",
             "version": "Fusion trainer 2.1.1",
@@ -351,7 +351,7 @@
         {
             "name": "Cheat Engine",
             "description": "强大的单机游戏修改器!",
-            "screenshot": 0,
+            "screenshot": 1,
             "icon": "ce",
             "version_type": "trainer",
             "version": "Cheat engine 7.6",
@@ -365,7 +365,7 @@
         {
             "name": "随机数修改器",
             "description": "修改游戏内的各种随机数",
-            "screenshot": 0,
+            "screenshot": 3,
             "icon": "origin",
             "version_type": "trainer",
             "version": "Random trainer 3.2",
@@ -379,7 +379,7 @@
         {
             "name": "Pvz Toolkit 英文版",
             "description": "PvzToolkit英文版本",
-            "screenshot": 0,
+            "screenshot": 5,
             "icon": "pvztoolkit",
             "version_type": "trainer",
             "version": "PvzToolkit-EN 1.22.0",
@@ -393,7 +393,7 @@
         {
             "name": "Pvz Toolkit NT5兼容版",
             "description": "PvzToolkit的NT5兼容版，适用于Windows 200/XP",
-            "screenshot": 0,
+            "screenshot": 1,
             "icon": "pvztoolkit",
             "version_type": "trainer",
             "version": "PvzToolkit 1.22.0-NT5",
@@ -407,7 +407,7 @@
         {
             "name": "Pvz Toolkit NT5兼容英文版",
             "description": "PvzToolkit的NT5兼容英文版，适用于Windows 200/XP",
-            "screenshot": 0,
+            "screenshot": 1,
             "icon": "pvztoolkit",
             "version_type": "trainer",
             "version": "PvzToolkit-EN 1.22.0-NT5",

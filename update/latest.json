@@ -1,12 +1,12 @@
 {
     "stable": {
         "latest_version": "1.0.0-rc.22",
-        "change_log": "https://gitee.com/huamouren110/UpdateService/raw/main/PvzLauncherRemake/stable/changelog.md",
-        "url": "https://gitee.com/huamouren110/UpdateService/raw/main/PvzLauncherRemake/stable/bin.zip"
+        "change_log": "https://gitee.com/huamouren110/PvzLauncher.Service/raw/main/update/stable/changelog.md",
+        "url": "https://gitee.com/huamouren110/PvzLauncher.Service/raw/main/update/stable/bin.zip"
     },
     "development": {
         "latest_version": "1.0.0-rc.22",
-        "change_log": "https://gitee.com/huamouren110/UpdateService/raw/main/PvzLauncherRemake/development/changelog.md",
-        "url": "https://gitee.com/huamouren110/UpdateService/raw/main/PvzLauncherRemake/development/bin.zip"
+        "change_log": "https://gitee.com/huamouren110/PvzLauncher.Service/raw/main/update/development/changelog.md",
+        "url": "https://gitee.com/huamouren110/PvzLauncher.Service/raw/main/update/development/bin.zip"
     }
 }

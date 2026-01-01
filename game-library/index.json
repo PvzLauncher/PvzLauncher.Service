@@ -2,7 +2,7 @@
     "en_origin": [
         {
             "name": "植物大战僵尸 v1.0.0.1051",
-            "description": "首次发行版，最经典，支持修改器最多的版本",
+            "description": "最早出品的版本，最经典的版本",
             "screenshot": 6,
             "icon": "origin",
             "version_type": "en_origin",
@@ -15,7 +15,7 @@
         },
         {
             "name": "植物大战僵尸 v1.2.0.1065",
-            "description": "经典版",
+            "description": "  修正了分裂射手前后均发射双豌豆的BUG\n据说修正了屋顶“上届之风”玉米炮落地偏移问题",
             "screenshot": 6,
             "icon": "origin",
             "version_type": "en_origin",
@@ -40,12 +40,12 @@
             "url": "https://lz.qaiu.top/parser?url=https://hhzyx.lanzouv.com/iB0kz3cp4yaj&pwd=94c3"
         },
         {
-            "name": "植物大战僵尸 Steam正版",
+            "name": "植物大战僵尸 Steam年度正版",
             "description": "在Steam上发行的\"正版\"游戏",
             "screenshot": 5,
             "icon": "steam",
             "version_type": "en_origin",
-            "version": "1.2.0.1069-Steam",
+            "version": "1.2.0.1096-Steam",
             "size": 35.98,
             "execute_name": "popcapgame1.exe",
             "is_recommend": false,
@@ -148,30 +148,17 @@
     ],
     "zh_revision": [
         {
-            "name": "植物大战僵尸 无名版",
-            "description": "无名版",
-            "screenshot": 10,
-            "icon": "unnamed",
+            "name": "植物大战僵尸 精华版",
+            "description": "集成了几乎所有Pvz官方版本！",
+            "screenshot": 0,
+            "icon": "essence",
             "version_type": "zh_revision",
-            "version": "Unnamed 1.2.5-preview3.1",
-            "size": 157.0,
-            "execute_name": "PlantsVsZombies.exe",
+            "version": "Essence 1.7.2",
+            "size": 214.0,
+            "execute_name": "Lawn_PCDX.exe",
             "is_recommend": false,
             "is_new": true,
-            "url": "https://lz.qaiu.top/parser?url=https://www.ilanzou.com/s/7bGnLwG1"
-        },
-        {
-            "name": "植物大战僵尸 Eagrace Max",
-            "description": "E版支线！！！",
-            "screenshot": 10,
-            "icon": "eagrace",
-            "version_type": "zh_revision",
-            "version": "Eagrace 1.9.7",
-            "size": 62.6,
-            "execute_name": "PlantsVsZombies.exe",
-            "is_recommend": false,
-            "is_new": true,
-            "url": "https://lz.qaiu.top/parser?url=https://hhzyx.lanzouv.com/iUgrv3eutfif&pwd=bgao"
+            "url": "https://lz.qaiu.top/parser?url=https://www.ilanzou.com/s/CCsnll5w"
         },
         {
             "name": "植物大战僵尸 β版 v6.66",
@@ -211,6 +198,19 @@
             "is_recommend": true,
             "is_new": false,
             "url": "https://lz.qaiu.top/parser?url=https://www.ilanzou.com/s/rA2N5pmk"
+        },
+        {
+            "name": "植物大战僵尸 无名版",
+            "description": "无名版",
+            "screenshot": 10,
+            "icon": "unnamed",
+            "version_type": "zh_revision",
+            "version": "Unnamed 1.2.5-preview3.1",
+            "size": 157.0,
+            "execute_name": "PlantsVsZombies.exe",
+            "is_recommend": false,
+            "is_new": false,
+            "url": "https://lz.qaiu.top/parser?url=https://www.ilanzou.com/s/7bGnLwG1"
         },
         {
             "name": "植物大战僵尸 时空环游之旅",

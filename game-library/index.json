@@ -226,6 +226,20 @@
             "url": "https://lz.qaiu.top/parser?url=https://www.ilanzou.com/s/7bGnLwG1"
         },
         {
+            "name": "植物大战僵尸 Eagrace Max",
+            "description": "E版支线！！！",
+            "screenshot": 10,
+            "icon": "eagrace",
+            "version_type": "zh_revision",
+            "version": "Eagrace 1.9.7",
+            "size": 62.6,
+            "execute_name": "PlantsVsZombies.exe",
+            "is_recommend": false,
+            "is_new": true,
+            "url": "https://lz.qaiu.top/parser?url=https://hhzyx.lanzouv.com/iUgrv3eutfif&pwd=bgao"
+        }
+        ,
+        {
             "name": "植物大战僵尸 时空环游之旅",
             "description": "2代风格的改版",
             "screenshot": 6,

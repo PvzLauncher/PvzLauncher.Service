@@ -148,6 +148,19 @@
     ],
     "zh_revision": [
         {
+            "name": "植物大战僵尸 随机版",
+            "description": " 随机卡片、随机僵尸、随机模仿者！\n注意: 进入游戏需要点击右下角控制台进行设置，否则就是原版游戏！",
+            "screenshot": 6,
+            "icon": "random",
+            "version_type": "zh_revision",
+            "version": "Random Ultimate Edition",
+            "size": 54.4,
+            "execute_name": "PlantsVsZombies.exe",
+            "is_recommend": false,
+            "is_new": true,
+            "url": "https://lz.qaiu.top/parser?url=https://hhzyx.lanzouv.com/ihTdy3ezicoh&pwd=2nju"
+        },
+        {
             "name": "植物大战僵尸 精华版",
             "description": "集成了几乎所有Pvz官方版本！",
             "screenshot": 6,

@@ -4,6 +4,9 @@
             "name": "植物大战僵尸 v1.0.0.1051",
             "description": "最早出品的版本，最经典的版本",
             "screenshot": 6,
+            "author": [
+                "PopCap"
+            ],
             "icon": "origin",
             "version_type": "en_origin",
             "version": "1.0.0.1051",
@@ -17,6 +20,9 @@
             "name": "植物大战僵尸 v1.2.0.1065",
             "description": "  修正了分裂射手前后均发射双豌豆的BUG\n据说修正了屋顶“上届之风”玉米炮落地偏移问题",
             "screenshot": 6,
+            "author": [
+                "PopCap"
+            ],
             "icon": "origin",
             "version_type": "en_origin",
             "version": "1.2.0.1065",
@@ -30,6 +36,9 @@
             "name": "植物大战僵尸 年度加强版",
             "description": "更新了成就以及僵尸大头贴！！！",
             "screenshot": 9,
+            "author": [
+                "PopCap"
+            ],
             "icon": "goty",
             "version_type": "en_origin",
             "version": "1.2.0.1073-GOTY-Plus",
@@ -43,6 +52,9 @@
             "name": "植物大战僵尸 Steam年度正版",
             "description": "在Steam上发行的\"正版\"游戏",
             "screenshot": 5,
+            "author": [
+                "PopCap"
+            ],
             "icon": "steam",
             "version_type": "en_origin",
             "version": "1.2.0.1096-Steam",
@@ -56,6 +68,9 @@
             "name": "植物大战僵尸 测试版",
             "description": "测试版",
             "screenshot": 5,
+            "author": [
+                "PopCap"
+            ],
             "icon": "test",
             "version_type": "en_origin",
             "version": "0.9.9.1029",
@@ -69,6 +84,9 @@
             "name": "开花与终结 测试版",
             "description": "开花与凋零测试版",
             "screenshot": 7,
+            "author": [
+                "PopCap"
+            ],
             "icon": "test",
             "version_type": "en_origin",
             "version": "0.1.1.1014",
@@ -84,6 +102,9 @@
             "name": "植物大战僵尸 汉化第一版",
             "description": "最经典的版本，最经典的汉化",
             "screenshot": 6,
+            "author": [
+                "urf及其民间汉化团队"
+            ],
             "icon": "origin",
             "version_type": "zh_origin",
             "version": "1.0.0.1051-ZH1",
@@ -97,6 +118,10 @@
             "name": "植物大战僵尸 汉化第二版",
             "description": "最经典的版本，不错的汉化",
             "screenshot": 4,
+            "author": [
+                "urf",
+                "LMAO汉化组"
+            ],
             "icon": "origin",
             "version_type": "zh_origin",
             "version": "1.0.0.1051-ZH2",
@@ -110,6 +135,9 @@
             "name": "植物大战僵尸 v1.2.0.1065汉化版",
             "description": "v1.2.0.1065汉化版",
             "screenshot": 3,
+            "author": [
+                "lijingjie"
+            ],
             "icon": "origin",
             "version_type": "zh_origin",
             "version": "1.2.0.1065-ZH",
@@ -123,6 +151,9 @@
             "name": "植物大战僵尸 植吧完美汉化版",
             "description": "由百度植物大战僵尸吧制作的年度完美汉化版，此版本完全修复所有BUG完美免广告",
             "screenshot": 6,
+            "author": [
+                "植物大战僵尸吧 (百度贴吧)"
+            ],
             "icon": "goty",
             "version_type": "zh_origin",
             "version": "1.2.0.1073-ZH",
@@ -136,6 +167,9 @@
             "name": "植物大战僵尸 年度加强汉化版",
             "description": "年度加强汉化版",
             "screenshot": 7,
+            "author": [
+                "民间汉化组"
+            ],
             "icon": "goty",
             "version_type": "zh_origin",
             "version": "1.2.0.1073-GOTY-Plus-ZH",
@@ -151,6 +185,10 @@
             "name": "植物大战僵尸 随机版",
             "description": " 随机卡片、随机僵尸、随机模仿者！\n注意: 进入游戏需要点击右下角控制台进行设置，否则就是原版游戏！",
             "screenshot": 6,
+            "author": [
+                "叔丁基_锂",
+                "D_2135"
+            ],
             "icon": "random",
             "version_type": "zh_revision",
             "version": "Random Ultimate Edition",
@@ -164,6 +202,9 @@
             "name": "植物大战僵尸 精华版",
             "description": "集成了几乎所有Pvz官方版本！",
             "screenshot": 6,
+            "author": [
+                "萌新迎风听雨"
+            ],
             "icon": "ultimate",
             "version_type": "zh_revision",
             "version": "Ultimate 1.7.2",
@@ -177,6 +218,14 @@
             "name": "植物大战僵尸 β版 v6.66",
             "description": "添加众多小游戏！",
             "screenshot": 8,
+            "author": [
+                "Dr`小黑",
+                "此名字不能正常显示",
+                "天谴之羊",
+                "不活跃的罐子",
+                "千羽冰封",
+                "Hao_Ge278"
+            ],
             "icon": "beta",
             "version_type": "zh_revision",
             "version": "β 6.66-Test.31",
@@ -190,6 +239,12 @@
             "name": "植物大战僵尸 杂交版 (经典)",
             "description": "新增大量杂交植物! ",
             "screenshot": 8,
+            "author": [
+                "潜艇伟伟迷",
+                "小小咩MS",
+                "AXH弦",
+                "一只吴铭仕哒"
+            ],
             "icon": "he",
             "version_type": "zh_revision",
             "version": "Hybridization Edition 3.13.2",
@@ -203,6 +258,11 @@
             "name": "植物大战僵尸 融合版",
             "description": "把植物放在一起，合成一个新的植物！",
             "screenshot": 5,
+            "author": [
+                "蓝飘飘fly",
+                "蓝蝶",
+                "机鱼吐司"
+            ],
             "icon": "fe",
             "version_type": "zh_revision",
             "version": "Fusion Edition 3.1.1",
@@ -216,6 +276,12 @@
             "name": "植物大战僵尸 无名版",
             "description": "无名版",
             "screenshot": 10,
+            "author": [
+                "奇才丿",
+                "末影",
+                "伴九九",
+                "小杰"
+            ],
             "icon": "unnamed",
             "version_type": "zh_revision",
             "version": "Unnamed 1.2.5-preview3.1",
@@ -229,6 +295,9 @@
             "name": "植物大战僵尸 Eagrace Max",
             "description": "E版支线！！！",
             "screenshot": 10,
+            "author": [
+                "Henry-joestar"
+            ],
             "icon": "eagrace",
             "version_type": "zh_revision",
             "version": "Eagrace 1.9.7",
@@ -237,12 +306,15 @@
             "is_recommend": false,
             "is_new": true,
             "url": "https://lz.qaiu.top/parser?url=https://hhzyx.lanzouv.com/iUgrv3eutfif&pwd=bgao"
-        }
-        ,
+        },
         {
             "name": "植物大战僵尸 时空环游之旅",
             "description": "2代风格的改版",
             "screenshot": 6,
+            "author": [
+                "江南游戏",
+                "玩窝头网络工作室"
+            ],
             "icon": "tat",
             "version_type": "zh_revision",
             "version": "TAT 3.9.9",
@@ -256,6 +328,14 @@
             "name": "植物大战僵尸 β版 v6.30",
             "description": "修改了游戏的一些特性，并且还内置了十多页的小游戏！",
             "screenshot": 8,
+            "author": [
+                "Dr`小黑",
+                "此名字不能正常显示",
+                "天谴之羊",
+                "不活跃的罐子",
+                "千羽冰封",
+                "Hao_Ge278"
+            ],
             "icon": "beta",
             "version_type": "zh_revision",
             "version": "β 6.30",
@@ -269,6 +349,9 @@
             "name": "植物大战僵尸 95版",
             "description": "历经95次魔改的版本",
             "screenshot": 1,
+            "author": [
+                "冥谷川恋"
+            ],
             "icon": "ninefive",
             "version_type": "zh_revision",
             "version": "Version 95",
@@ -282,6 +365,9 @@
             "name": "胆小菇之梦",
             "description": "胆小菇被潮水一般的僵尸吓得晕了过去，做了场梦……",
             "screenshot": 5,
+            "author": [
+                "北窗遥望"
+            ],
             "icon": "dream",
             "version_type": "zh_revision",
             "version": "Scaredy-Shroom's Dream 0.2.2",
@@ -295,6 +381,12 @@
             "name": "植物大战僵尸 杂交版 (重置)",
             "description": "使用全新引擎重置的杂交版！",
             "screenshot": 5,
+            "author": [
+                "潜艇伟伟迷",
+                "小小咩MS",
+                "AXH弦",
+                "一只吴铭仕哒"
+            ],
             "icon": "he",
             "version_type": "zh_revision",
             "version": "Hybridization Edition-Remake 0.10.2",
@@ -308,6 +400,9 @@
             "name": "植物大战僵尸 GhTr版",
             "description": "使用全新引擎重置的高质量改版！",
             "screenshot": 3,
+            "author": [
+                "Ghastasaucey"
+            ],
             "icon": "ghtr",
             "version_type": "zh_revision",
             "version": "GhTr ~ Perfect Voyage 0.17m-Fixed.1",
@@ -323,6 +418,9 @@
             "name": "Pvz Toolkit",
             "description": "全版本通用修改器!",
             "screenshot": 5,
+            "author": [
+                "Lmintlcx"
+            ],
             "icon": "pvztoolkit",
             "version_type": "trainer",
             "version": "PvzToolkit 1.22.0",
@@ -337,6 +435,9 @@
             "name": "血量显示器",
             "description": "在游戏内显示血量，还可以显示鼠标键状态!",
             "screenshot": 1,
+            "author": [
+                "未知"
+            ],
             "icon": "origin",
             "version_type": "trainer",
             "version": "血量显示器 1.0.0.0",
@@ -351,6 +452,9 @@
             "name": "经典杂交版修改器",
             "description": "适用于经典杂交版的多功能修改器!",
             "screenshot": 9,
+            "author": [
+                "未知"
+            ],
             "icon": "he",
             "version_type": "trainer",
             "version": "Hybridization trainer 0.69",
@@ -365,6 +469,9 @@
             "name": "融合版修改器",
             "description": "适用于融合版的多功能修改器",
             "screenshot": 6,
+            "author": [
+                "高数带我飞"
+            ],
             "icon": "fe",
             "version_type": "trainer",
             "version": "Fusion trainer 2.1.1",
@@ -379,6 +486,9 @@
             "name": "Cheat Engine",
             "description": "强大的单机游戏修改器!",
             "screenshot": 1,
+            "author": [
+                "Eric Heijnen (Dark Byte)"
+            ],
             "icon": "ce",
             "version_type": "trainer",
             "version": "Cheat engine 7.6",
@@ -393,6 +503,9 @@
             "name": "随机数修改器",
             "description": "修改游戏内的各种随机数",
             "screenshot": 3,
+            "author": [
+                "未知"
+            ],
             "icon": "origin",
             "version_type": "trainer",
             "version": "Random trainer 3.2",
@@ -407,6 +520,9 @@
             "name": "Pvz Toolkit 英文版",
             "description": "PvzToolkit英文版本",
             "screenshot": 5,
+            "author": [
+                "Lmintlcx"
+            ],
             "icon": "pvztoolkit",
             "version_type": "trainer",
             "version": "PvzToolkit-EN 1.22.0",
@@ -421,6 +537,9 @@
             "name": "Pvz Toolkit NT5兼容版",
             "description": "PvzToolkit的NT5兼容版，适用于Windows 200/XP",
             "screenshot": 1,
+            "author": [
+                "Lmintlcx"
+            ],
             "icon": "pvztoolkit",
             "version_type": "trainer",
             "version": "PvzToolkit 1.22.0-NT5",
@@ -435,6 +554,9 @@
             "name": "Pvz Toolkit NT5兼容英文版",
             "description": "PvzToolkit的NT5兼容英文版，适用于Windows 200/XP",
             "screenshot": 1,
+            "author": [
+                "Lmintlcx"
+            ],
             "icon": "pvztoolkit",
             "version_type": "trainer",
             "version": "PvzToolkit-EN 1.22.0-NT5",

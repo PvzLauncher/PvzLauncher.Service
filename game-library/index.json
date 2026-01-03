@@ -116,7 +116,7 @@
         },
         {
             "name": "植物大战僵尸 汉化第二版",
-            "description": "最经典的版本，不错的汉化",
+            "description": "最经典的版本，汉化第一版的迭代版本",
             "screenshot": 4,
             "author": [
                 "urf",
@@ -183,7 +183,7 @@
     "zh_revision": [
         {
             "name": "植物大战僵尸 随机版",
-            "description": " 随机卡片、随机僵尸、随机模仿者！\n注意: 进入游戏需要点击右下角控制台进行设置，否则就是原版游戏！",
+            "description": "随机卡片、随机僵尸、随机模仿者！\n进入游戏需要点击右下角控制台进行设置，否则就是原版游戏！",
             "screenshot": 6,
             "author": [
                 "叔丁基_锂",
@@ -216,7 +216,7 @@
         },
         {
             "name": "植物大战僵尸 β版 v6.66",
-            "description": "添加众多小游戏！",
+            "description": "添加非常多的有趣小游戏以及新植物、新僵尸！",
             "screenshot": 8,
             "author": [
                 "Dr`小黑",
@@ -256,7 +256,7 @@
         },
         {
             "name": "植物大战僵尸 融合版",
-            "description": "把植物放在一起，合成一个新的植物！",
+            "description": "融合版！",
             "screenshot": 5,
             "author": [
                 "蓝飘飘fly",
@@ -293,7 +293,7 @@
         },
         {
             "name": "植物大战僵尸 Eagrace Max",
-            "description": "E版支线！！！",
+            "description": "以二战作为游戏背景。难度超高，不适合一般人游玩",
             "screenshot": 10,
             "author": [
                 "Henry-joestar"
@@ -326,7 +326,7 @@
         },
         {
             "name": "植物大战僵尸 β版 v6.30",
-            "description": "修改了游戏的一些特性，并且还内置了十多页的小游戏！",
+            "description": "添加非常多的有趣小游戏以及新植物、新僵尸！",
             "screenshot": 8,
             "author": [
                 "Dr`小黑",

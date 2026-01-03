@@ -182,39 +182,6 @@
     ],
     "zh_revision": [
         {
-            "name": "植物大战僵尸 随机版",
-            "description": "随机卡片、随机僵尸、随机模仿者！\n进入游戏需要点击右下角控制台进行设置，否则就是原版游戏！",
-            "screenshot": 6,
-            "author": [
-                "叔丁基_锂",
-                "D_2135"
-            ],
-            "icon": "random",
-            "version_type": "zh_revision",
-            "version": "Random Ultimate Edition",
-            "size": 54.4,
-            "execute_name": "PlantsVsZombies.exe",
-            "is_recommend": false,
-            "is_new": true,
-            "url": "https://lz.qaiu.top/parser?url=https://hhzyx.lanzouv.com/ihTdy3ezicoh&pwd=2nju"
-        },
-        {
-            "name": "植物大战僵尸 精华版",
-            "description": "集成了几乎所有Pvz官方版本！",
-            "screenshot": 6,
-            "author": [
-                "萌新迎风听雨"
-            ],
-            "icon": "ultimate",
-            "version_type": "zh_revision",
-            "version": "Ultimate 1.7.2",
-            "size": 214.0,
-            "execute_name": "Lawn_PCDX.exe",
-            "is_recommend": false,
-            "is_new": true,
-            "url": "https://lz.qaiu.top/parser?url=https://www.ilanzou.com/s/CCsnll5w"
-        },
-        {
             "name": "植物大战僵尸 β版 v6.66",
             "description": "添加非常多的有趣小游戏以及新植物、新僵尸！",
             "screenshot": 8,
@@ -271,6 +238,39 @@
             "is_recommend": true,
             "is_new": false,
             "url": "https://lz.qaiu.top/parser?url=https://www.ilanzou.com/s/rA2N5pmk"
+        },
+        {
+            "name": "植物大战僵尸 随机版",
+            "description": "随机卡片、随机僵尸、随机模仿者！\n进入游戏需要点击右下角控制台进行设置，否则就是原版游戏！",
+            "screenshot": 6,
+            "author": [
+                "叔丁基_锂",
+                "D_2135"
+            ],
+            "icon": "random",
+            "version_type": "zh_revision",
+            "version": "Random Ultimate Edition",
+            "size": 54.4,
+            "execute_name": "PlantsVsZombies.exe",
+            "is_recommend": false,
+            "is_new": false,
+            "url": "https://lz.qaiu.top/parser?url=https://hhzyx.lanzouv.com/ihTdy3ezicoh&pwd=2nju"
+        },
+        {
+            "name": "植物大战僵尸 精华版",
+            "description": "集成了几乎所有Pvz官方版本！",
+            "screenshot": 6,
+            "author": [
+                "萌新迎风听雨"
+            ],
+            "icon": "ultimate",
+            "version_type": "zh_revision",
+            "version": "Ultimate 1.7.2",
+            "size": 214.0,
+            "execute_name": "Lawn_PCDX.exe",
+            "is_recommend": false,
+            "is_new": false,
+            "url": "https://lz.qaiu.top/parser?url=https://www.ilanzou.com/s/CCsnll5w"
         },
         {
             "name": "植物大战僵尸 无名版",

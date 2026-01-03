@@ -182,6 +182,22 @@
     ],
     "zh_revision": [
         {
+            "name": "植物大战僵尸 新指导版",
+            "description": "我们至今还不知道头牛是在帮僵尸还是帮植物...",
+            "screenshot": 3,
+            "author": [
+                "头牛o"
+            ],
+            "icon": "guidance",
+            "version_type": "zh_revision",
+            "version": "Guidance 0.37",
+            "size": 108.0,
+            "execute_name": "PvZ新指导.exe",
+            "is_recommend": false,
+            "is_new": true,
+            "url": "https://lz.qaiu.top/parser?url=https://www.ilanzou.com/s/x5wn7WKn"
+        },
+        {
             "name": "植物大战僵尸 β版 v6.66",
             "description": "添加非常多的有趣小游戏以及新植物、新僵尸！",
             "screenshot": 8,

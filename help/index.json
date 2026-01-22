@@ -23,8 +23,87 @@
                     "icon": "origin",
                     "childrens": [
                         {
+                            "title": "如何管理游戏/修改器",
+                            "subtitle": "查看关于管理游戏/修改器的答疑",
+                            "icon": "origin",
+                            "childrens": [
+                                {
+                                    "title": "如何管理游戏",
+                                    "subtitle": "查看关于管理游戏的答疑",
+                                    "icon": "origin",
+                                    "childrens": [],
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "content": "此教程基于启动器版本 1.1.0-beta.3 制作，不同版本可能有差异"
+                                        },
+                                        {
+                                            "type": "image",
+                                            "content": "https://gitee.com/huamouren110/PvzLauncher.Service/raw/main/help/launcher/manage/manage/1.png"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "content": "切换到管理页，这里会列出游戏库内的所有游戏"
+                                        },
+                                        {
+                                            "type": "image",
+                                            "content": "https://gitee.com/huamouren110/PvzLauncher.Service/raw/main/help/launcher/manage/manage/2.png"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "content": "双击某个游戏，可将它选为活动游戏。启动游戏启动的就是它"
+                                        },
+                                        {
+                                            "type": "image",
+                                            "content": "https://gitee.com/huamouren110/PvzLauncher.Service/raw/main/help/launcher/manage/manage/3.png"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "content": "右击某个游戏，可打开它的管理页面。这里会显示游戏的基本信息、一行操作按钮、以及统计信息"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "content": "- 上方的基本信息会显示游戏名、游戏图标、游戏版本"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "content": "- 操作按钮可以 打开游戏文件夹、删除游戏、更改名称、更改版本信息、更改可执行文件"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "content": "- 下方的统计信息可查看你游戏的各项信息：入库时间、游玩时间、启动次数"
+                                        },
+                                        {
+                                            "type": "image",
+                                            "content": "https://gitee.com/huamouren110/PvzLauncher.Service/raw/main/help/launcher/manage/manage/4.png"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "content": "点击更改版本信息可以更改此游戏的图标以及版本号，图标可以使用启动器内置的所有图标。如果你是通过导入游戏来将此游戏导入进游戏库的，可以更改版本号以及图标来自定义你的游戏！"
+                                        },
+                                        {
+                                            "type": "image",
+                                            "content": "https://gitee.com/huamouren110/PvzLauncher.Service/raw/main/help/launcher/manage/manage/5.png"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "content": "如果游戏目录下有多个可执行文件，你可以通过\"更改可执行文件\"功能来切换启动时调用的可执行文件"
+                                        },
+                                    ]
+                                },
+                                {
+                                    "title": "如何管理修改器",
+                                    "subtitle": "查看关于管理修改器的答疑",
+                                    "icon": "pvztoolkit",
+                                    "childrens": [],
+                                    "content": []
+                                }
+                            ],
+                            "content": []
+                        },
+                        {
                             "title": "如何导入游戏",
-                            "subtitle": "查看关于管理游戏的答疑",
+                            "subtitle": "查看关于导入游戏的答疑",
                             "icon": "origin",
                             "childrens": [],
                             "content": [

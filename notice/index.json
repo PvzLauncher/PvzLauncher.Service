@@ -5,7 +5,6 @@
             "content": "Content",
             "primary-button": "PrimaryButton",
             "secondary-button": "SecondaryButton",
-            "close-button": "CloseButton",
             "primary-actions": [
                 {
                     "type": "to-url",

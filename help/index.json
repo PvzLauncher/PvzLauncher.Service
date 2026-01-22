@@ -11,8 +11,21 @@
             "title": "游戏相关",
             "subtitle": "在此处可以找到关于启动器的所有答疑",
             "icon": "origin",
-            "childrens": [],
-            "content": []
+            "childrens": [
+                {
+                    "title": "启动器相关aa",
+                    "subtitle": "asd ",
+                    "icon": "app",
+                    "childrens": [],
+                    "content": []
+                }
+            ],
+            "content": [
+                {
+                    "type": "text",
+                    "content": "this is a text."
+                }
+            ]
         }
     ]
 }

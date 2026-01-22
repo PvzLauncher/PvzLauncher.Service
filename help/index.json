@@ -2,15 +2,17 @@
     "root": [
         {
             "title": "启动器相关",
-            "content": "在此处可以找到关于启动器的所有答疑",
+            "subtitle": "在此处可以找到关于启动器的所有答疑",
             "icon": "app",
-            "childrens": []
+            "childrens": [],
+            "content": []
         },
         {
             "title": "游戏相关",
-            "content": "在此处可以找到关于启动器的所有答疑",
+            "subtitle": "在此处可以找到关于启动器的所有答疑",
             "icon": "origin",
-            "childrens": []
+            "childrens": [],
+            "content": []
         }
     ]
 }

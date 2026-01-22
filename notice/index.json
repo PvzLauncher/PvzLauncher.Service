@@ -1,66 +1,17 @@
 {
     "notices": [
         {
-            "title": "Title",
-            "content": "Content",
-            "primary-button": "PrimaryButton",
-            "secondary-button": "SecondaryButton",
+            "title": "公告系统上线",
+            "content": "公告系统上线了，你看到的这个对话框就是公告系统！公告系统可以在启动器启动时显示一条或多条公告，以便获得最新消息\n\n下方的按钮还可以绑定多个动作，跳转Url、关闭启动器、跳转页面等！",
+            "primary-button": "跳转到启动器仓库主页",
+            "secondary-button": "这个按钮没有绑定任何动作",
             "primary-actions": [
                 {
                     "type": "to-url",
-                    "url": "https://www.example.com"
+                    "url": "https://github.com/PvzLauncher/PvzLauncher"
                 }
             ],
-            "secondary-actions": [
-                {
-                    "type": "to-url",
-                    "url": "https://www.example.com"
-                }
-            ]
-        },
-        {
-            "title": "Title2",
-            "content": "Content",
-            "primary-button": "PrimaryButton",
-            "secondary-button": "SecondaryButton",
-            "primary-actions": [
-                {
-                    "type": "to-url",
-                    "url": "https://www.example.com"
-                }
-            ],
-            "secondary-actions": [
-                {
-                    "type": "to-url",
-                    "url": "https://www.example.com"
-                }
-            ]
-        },
-        {
-            "title": "Title3",
-            "content": "Content",
-            "primary-button": "PrimaryButton",
-            "secondary-button": "SecondaryButton",
-            "primary-actions": [
-                {
-                    "type": "to-url",
-                    "url": "https://www.example.com"
-                },
-                {
-                    "type": "to-url",
-                    "url": "https://www.example.com"
-                },
-                {
-                    "type": "to-url",
-                    "url": "https://www.example.com"
-                }
-            ],
-            "secondary-actions": [
-                {
-                    "type": "to-url",
-                    "url": "https://www.example.com"
-                }
-            ]
+            "secondary-actions": []
         }
     ]
 }

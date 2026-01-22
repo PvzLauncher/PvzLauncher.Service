@@ -17,6 +17,50 @@
                     "url": "https://www.example.com"
                 }
             ]
+        },
+        {
+            "title": "Title2",
+            "content": "Content",
+            "primary-button": "PrimaryButton",
+            "secondary-button": "SecondaryButton",
+            "primary-actions": [
+                {
+                    "type": "to-url",
+                    "url": "https://www.example.com"
+                }
+            ],
+            "secondary-actions": [
+                {
+                    "type": "to-url",
+                    "url": "https://www.example.com"
+                }
+            ]
+        },
+        {
+            "title": "Title3",
+            "content": "Content",
+            "primary-button": "PrimaryButton",
+            "secondary-button": "SecondaryButton",
+            "primary-actions": [
+                {
+                    "type": "to-url",
+                    "url": "https://www.example.com"
+                },
+                {
+                    "type": "to-url",
+                    "url": "https://www.example.com"
+                },
+                {
+                    "type": "to-url",
+                    "url": "https://www.example.com"
+                }
+            ],
+            "secondary-actions": [
+                {
+                    "type": "to-url",
+                    "url": "https://www.example.com"
+                }
+            ]
         }
     ]
 }

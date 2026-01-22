@@ -4,28 +4,93 @@
             "title": "启动器相关",
             "subtitle": "在此处可以找到关于启动器的所有答疑",
             "icon": "app",
-            "childrens": [],
-            "content": []
-        },
-        {
-            "title": "游戏相关",
-            "subtitle": "在此处可以找到关于启动器的所有答疑",
-            "icon": "origin",
             "childrens": [
                 {
-                    "title": "启动器相关aa",
-                    "subtitle": "asd ",
-                    "icon": "app",
+                    "title": "启动相关",
+                    "subtitle": "查看关于启动游戏的答疑",
+                    "icon": "origin",
                     "childrens": [],
+                    "content": [
+                        {
+                            "type": "text",
+                            "content": "这里似乎什么也没有"
+                        }
+                    ]
+                },
+                {
+                    "title": "管理相关",
+                    "subtitle": "查看关于管理游戏的答疑",
+                    "icon": "origin",
+                    "childrens": [
+                        {
+                            "title": "如何导入游戏",
+                            "subtitle": "查看关于管理游戏的答疑",
+                            "icon": "origin",
+                            "childrens": [],
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "content": "此教程基于启动器版本 1.1.0-beta.3 制作，不同版本可能有差异"
+                                },
+                                {
+                                    "type": "image",
+                                    "content": "https://gitee.com/huamouren110/PvzLauncher.Service/raw/main/help/launcher/manage/import/1.png"
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "导入游戏在游戏管理页的右上角"
+                                },
+                                {
+                                    "type": "image",
+                                    "content": "https://gitee.com/huamouren110/PvzLauncher.Service/raw/main/help/launcher/manage/import/2.png"
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "点击后，弹出类型选择，可导入游戏/修改器，这里使用\"游戏\"作为示范"
+                                },
+                                {
+                                    "type": "image",
+                                    "content": "https://gitee.com/huamouren110/PvzLauncher.Service/raw/main/help/launcher/manage/import/3.png"
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "选择想要导入游戏的路径，选择文件夹。"
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "如果目标文件夹不包含可执行文件会导致导入失败!"
+                                },
+                                {
+                                    "type": "image",
+                                    "content": "https://gitee.com/huamouren110/PvzLauncher.Service/raw/main/help/launcher/manage/import/4.png"
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "如果目录内包括多个可执行文件，会弹出可执行文件选择弹窗。选择正确的那一个即可"
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "如果目录内只有一个可执行文件，那么会自动选择它作为目标可执行文件。不会弹出选择对话框"
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "如果目录内没有任何可执行文件，导入流程会被取消！"
+                                },
+                                {
+                                    "type": "image",
+                                    "content": "https://gitee.com/huamouren110/PvzLauncher.Service/raw/main/help/launcher/manage/import/5.png"
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "最后确定导入即可导入你的游戏！"
+                                }
+                            ]
+                        }
+                    ],
                     "content": []
                 }
             ],
-            "content": [
-                {
-                    "type": "text",
-                    "content": "this is a text."
-                }
-            ]
+            "content": []
         }
     ]
 }

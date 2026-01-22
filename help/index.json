@@ -96,7 +96,36 @@
                                     "subtitle": "查看关于管理修改器的答疑",
                                     "icon": "pvztoolkit",
                                     "childrens": [],
-                                    "content": []
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "content": "此教程基于启动器版本 1.1.0-beta.3 制作，不同版本可能有差异"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "content": "进入修改器管理页面，这里会列出库内所有的修改器"
+                                        },
+                                        {
+                                            "type": "image",
+                                            "content": "https://gitee.com/huamouren110/PvzLauncher.Service/raw/main/help/launcher/manage/manage/6.png"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "content": "双击某个修改器可将它设置为活动修改器，启动修改器时启动的就是它"
+                                        },
+                                        {
+                                            "type": "image",
+                                            "content": "https://gitee.com/huamouren110/PvzLauncher.Service/raw/main/help/launcher/manage/manage/7.png"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "content": "右击某个修改器，可打开它的管理菜单，这里可以删除修改器、修改名称、打开修改器文件夹"
+                                        },
+                                        {
+                                            "type": "image",
+                                            "content": "https://gitee.com/huamouren110/PvzLauncher.Service/raw/main/help/launcher/manage/manage/8.png"
+                                        }
+                                    ]
                                 }
                             ],
                             "content": []

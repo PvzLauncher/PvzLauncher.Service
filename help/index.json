@@ -236,6 +236,58 @@
                         }
                     ],
                     "content": []
+                },
+                {
+                    "title": "下载相关",
+                    "subtitle": "查看关于下载游戏的答疑",
+                    "icon": "beta",
+                    "childrens": [
+                        {
+                            "title": "如何下载游戏",
+                            "subtitle": "在此可以查看关于下载游戏的答疑",
+                            "icon": "beta",
+                            "childrens": [],
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "content": "此教程基于启动器版本 1.1.0-beta.3 制作，不同版本可能有差异"
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "切换至下载标签页，此处有四大分类：中文原版、中文改版、英文原版、修改器；所有可下载内容都可享受启动器提供的高速下载服务"
+                                },
+                                {
+                                    "type": "image",
+                                    "content": "https://gitee.com/huamouren110/PvzLauncher.Service/raw/main/help/launcher/download/download/1.png"
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "点击任意一个项后，会进入它的详细页，在此可以查看描述、作者与屏幕截图"
+                                },
+                                {
+                                    "type": "image",
+                                    "content": "https://gitee.com/huamouren110/PvzLauncher.Service/raw/main/help/launcher/download/download/2.png"
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "点击上方的下载按钮后，下载任务会被添加进任务列表，可切换到任务页查看"
+                                },
+                                {
+                                    "type": "image",
+                                    "content": "https://gitee.com/huamouren110/PvzLauncher.Service/raw/main/help/launcher/download/download/3.png"
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "稍等片刻，下载完成后，游戏/修改器会被自动添加进你的库内并设置为活动状态"
+                                },
+                                {
+                                    "type": "image",
+                                    "content": "https://gitee.com/huamouren110/PvzLauncher.Service/raw/main/help/launcher/download/download/4.png"
+                                }
+                            ]
+                        }
+                    ],
+                    "content": []
                 }
             ],
             "content": []

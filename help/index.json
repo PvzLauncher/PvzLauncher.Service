@@ -296,6 +296,127 @@
                         }
                     ],
                     "content": []
+                },
+                {
+                    "title": "设置相关",
+                    "subtitle": "查看关于启动器设置的答疑",
+                    "icon": "app",
+                    "childrens": [
+                        {
+                            "title": "启动器设置",
+                            "subtitle": "关于启动器的设置",
+                            "icon": "app",
+                            "childrens": [
+                                {
+                                    "title": "启动后操作",
+                                    "subtitle": "游戏启动后，启动器该干什么",
+                                    "icon": "app",
+                                    "childrens": [],
+                                    "content": []
+                                },
+                                {
+                                    "title": "主题",
+                                    "subtitle": "控制启动器的亮暗主题",
+                                    "icon": "app",
+                                    "childrens": [],
+                                    "content": []
+                                },
+                                {
+                                    "title": "语言",
+                                    "subtitle": "控制启动器的显示语言",
+                                    "icon": "app",
+                                    "childrens": [],
+                                    "content": []
+                                },
+                                {
+                                    "title": "窗口标题",
+                                    "subtitle": "控制启动器窗口的标题",
+                                    "icon": "app",
+                                    "childrens": [],
+                                    "content": []
+                                },
+                                {
+                                    "title": "标题图片",
+                                    "subtitle": "控制启动页上方的游戏标题样式",
+                                    "icon": "app",
+                                    "childrens": [],
+                                    "content": []
+                                },
+                                {
+                                    "title": "背景",
+                                    "subtitle": "控制启动页后方的背景",
+                                    "icon": "app",
+                                    "childrens": [],
+                                    "content": []
+                                },
+                                {
+                                    "title": "回声洞",
+                                    "subtitle": "控制启动页左下角回声洞的显示状态",
+                                    "icon": "app",
+                                    "childrens": [],
+                                    "content": []
+                                },
+                                {
+                                    "title": "公告",
+                                    "subtitle": "控制启动器启动时是否从服务器获取公告并显示",
+                                    "icon": "app",
+                                    "childrens": [],
+                                    "content": []
+                                },
+                                {
+                                    "title": "导航栏位置",
+                                    "subtitle": "控制启动器导航视图(上方或左侧的那一栏标签页)显示位置",
+                                    "icon": "app",
+                                    "childrens": [],
+                                    "content": []
+                                },
+                                {
+                                    "title": "检测更新",
+                                    "subtitle": "会检查当前更新通道中启动器的最新版本并更新",
+                                    "icon": "app",
+                                    "childrens": [],
+                                    "content": []
+                                },
+                                {
+                                    "title": "更新通道",
+                                    "subtitle": "控制检测更新时获取的内容，不同更新通道有不同的更新内容",
+                                    "icon": "app",
+                                    "childrens": [],
+                                    "content": []
+                                },
+                                {
+                                    "title": "启动时检查更新",
+                                    "subtitle": "启动器启动时是否检查更新",
+                                    "icon": "app",
+                                    "childrens": [],
+                                    "content": []
+                                },
+                                {
+                                    "title": "离线模式",
+                                    "subtitle": "禁用启动器的网络功能(下载服务、回声洞、检测更新等)",
+                                    "icon": "app",
+                                    "childrens": [],
+                                    "content": []
+                                },
+                                {
+                                    "title": "通知",
+                                    "subtitle": "进入管理页如果没有游戏/修改器，会提示你去下载",
+                                    "icon": "app",
+                                    "childrens": [],
+                                    "content": []
+                                },
+                                {
+                                    "title": "清理下载缓存",
+                                    "subtitle": "清理启动器更新、下载内容时留下的临时文件",
+                                    "icon": "app",
+                                    "childrens": [],
+                                    "content": []
+                                }
+                            ],
+                            "content": []
+                        }
+                    ],
+                    "content": []
                 }
             ],
             "content": []

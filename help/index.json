@@ -278,6 +278,14 @@
                                 },
                                 {
                                     "type": "text",
+                                    "content": "可同时下载多个内容，互不干扰。但是不可以添加重复的任务"
+                                },
+                                {
+                                    "type": "image",
+                                    "content": "https://gitee.com/huamouren110/PvzLauncher.Service/raw/main/help/launcher/download/download/5.png"
+                                },
+                                {
+                                    "type": "text",
                                     "content": "稍等片刻，下载完成后，游戏/修改器会被自动添加进你的库内并设置为活动状态"
                                 },
                                 {

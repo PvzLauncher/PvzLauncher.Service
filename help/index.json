@@ -193,6 +193,46 @@
                                     "content": "最后确定导入即可导入你的游戏！"
                                 }
                             ]
+                        },
+                        {
+                            "title": "如何搜索游戏/修改器",
+                            "subtitle": "查看关于搜索游戏/修改器的答疑",
+                            "icon": "origin",
+                            "childrens": [],
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "content": "此教程基于启动器版本 1.1.0-beta.3 制作，不同版本可能有差异"
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "切换至搜索标签页，可以搜索你游戏库内所有的游戏/修改器"
+                                },
+                                {
+                                    "type": "image",
+                                    "content": "https://gitee.com/huamouren110/PvzLauncher.Service/raw/main/help/launcher/manage/search/1.png"
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "键入内容后，点击回车或搜索按键，下方会显示出游戏名包含你键入内容的所有游戏/修改器"
+                                },
+                                {
+                                    "type": "image",
+                                    "content": "https://gitee.com/huamouren110/PvzLauncher.Service/raw/main/help/launcher/manage/search/2.png"
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "如果不输入任何内容则会列出库内所有的游戏/修改器"
+                                },
+                                {
+                                    "type": "image",
+                                    "content": "https://gitee.com/huamouren110/PvzLauncher.Service/raw/main/help/launcher/manage/search/3.png"
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "你仍然可以通过双击搜索页的项来选择或管理"
+                                }
+                            ]
                         }
                     ],
                     "content": []

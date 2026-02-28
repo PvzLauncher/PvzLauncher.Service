@@ -3,10 +3,15 @@
         {
             "title": "2026.2.28 - 游戏库更新",
             "content": "更新 \"植物大战僵尸β版\" 至最新的6.66.Test.34版本",
-            "primary-button": "确定",
+            "primary-button": "前往查看",
             "secondary-button": null,
             "close-button": null,
-            "primary-actions": [],
+            "primary-actions": [
+                {
+                    "type": "to-page",
+                    "url": "Download"
+                }
+            ],
             "secondary-actions": []
         }
     ]

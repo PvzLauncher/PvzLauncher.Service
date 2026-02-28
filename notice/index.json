@@ -2,7 +2,10 @@
     "notices": [
         {
             "title": "2026.2.28 - 游戏库更新",
-            "content": "更新 \"植物大战僵尸β版\" 至最新的6.66.Test.34版本",
+            "content": "启动器版本过低，请更新至最新版本",
+            "contents": [
+                "更新 \"植物大战僵尸β版\" 至最新的6.66.Test.34版本"
+            ],
             "primary-button": "前往查看",
             "secondary-button": null,
             "close-button": null,

@@ -99,22 +99,6 @@
     ],
     "zh_origin": [
         {
-            "name": "祖玛 v1.3 豪华版",
-            "description": "同样是宝开的游戏，但为什么会出现在 \"植物大战僵尸\" 启动器的游戏库里？",
-            "screenshot": 3,
-            "author": [
-                "PopCap"
-            ],
-            "icon": "origin",
-            "version_type": "zh_origin",
-            "version": "Zuma Deluxe 1.3",
-            "size": 14.7,
-            "execute_name": "Zuma.exe",
-            "is_recommend": false,
-            "is_new": true,
-            "url": "https://lz.qaiu.top/parser?url=https://hhzyx.lanzouv.com/if5PY3jq11md&pwd=giqe"
-        },
-        {
             "name": "植物大战僵尸 汉化第一版",
             "description": "最经典的版本，最经典的汉化",
             "screenshot": 6,
@@ -194,6 +178,22 @@
             "is_recommend": false,
             "is_new": false,
             "url": "https://lz.qaiu.top/parser?url=https://hhzyx.lanzouv.com/itYB33cp5kpg&pwd=bryj"
+        },
+        {
+            "name": "祖玛 v1.3 豪华版",
+            "description": "同样是宝开的游戏，但为什么会出现在 \"植物大战僵尸\" 启动器的游戏库里？",
+            "screenshot": 3,
+            "author": [
+                "PopCap"
+            ],
+            "icon": "origin",
+            "version_type": "zh_origin",
+            "version": "Zuma Deluxe 1.3",
+            "size": 14.7,
+            "execute_name": "Zuma.exe",
+            "is_recommend": false,
+            "is_new": false,
+            "url": "https://lz.qaiu.top/parser?url=https://hhzyx.lanzouv.com/if5PY3jq11md&pwd=giqe"
         }
     ],
     "zh_revision": [

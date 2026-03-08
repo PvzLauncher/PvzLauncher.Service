@@ -1,7 +1,7 @@
 {
-    "echo-cave": true,
-    "game-library": true,
-    "notice": true,
-    "sponsors": true,
-    "update": true
+    "echo-cave": false,
+    "game-library": false,
+    "notice": false,
+    "sponsors": false,
+    "update": false
 }

@@ -1,0 +1,29 @@
+{
+    "title": "Title",
+    "content": "启动器版本过低，请更新至最新版本",
+    "contents": [
+        "Content"
+    ],
+    "primary-button": "Primary button",
+    "secondary-button": "Secondary button",
+    "primary-actions": [
+        {
+            "type": "to-page",
+            "url": "Download"
+        },
+        {
+            "type": "tp-url",
+            "url": "https://www.example.com"
+        }
+    ],
+    "secondary-actions": [
+        {
+            "type": "to-page",
+            "url": "Download"
+        },
+        {
+            "type": "tp-url",
+            "url": "https://www.example.com"
+        }
+    ]
+}

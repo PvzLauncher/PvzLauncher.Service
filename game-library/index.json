@@ -198,6 +198,25 @@
     ],
     "zh_revision": [
         {
+            "name": "植物大战僵尸 无名版",
+            "description": "无名版",
+            "screenshot": 10,
+            "author": [
+                "奇才丿",
+                "末影",
+                "伴九九",
+                "小杰"
+            ],
+            "icon": "unnamed",
+            "version_type": "zh_revision",
+            "version": "Unnamed 1.3-beta.3",
+            "size": 158.0,
+            "execute_name": "PlantsVsZombies.exe",
+            "is_recommend": false,
+            "is_new": true,
+            "url": "https://lz.qaiu.top/parser?url=https://www.ilanzou.com/s/7bGnLwG1"
+        },
+        {
             "name": "植物大战僵尸 β版 v6.66",
             "description": "添加非常多的有趣小游戏以及新植物、新僵尸！",
             "screenshot": 8,
@@ -303,25 +322,6 @@
             "is_recommend": false,
             "is_new": false,
             "url": "https://lz.qaiu.top/parser?url=https://www.ilanzou.com/s/CCsnll5w"
-        },
-        {
-            "name": "植物大战僵尸 无名版",
-            "description": "无名版",
-            "screenshot": 10,
-            "author": [
-                "奇才丿",
-                "末影",
-                "伴九九",
-                "小杰"
-            ],
-            "icon": "unnamed",
-            "version_type": "zh_revision",
-            "version": "Unnamed 1.2.5-preview3.1",
-            "size": 157.0,
-            "execute_name": "PlantsVsZombies.exe",
-            "is_recommend": false,
-            "is_new": false,
-            "url": "https://lz.qaiu.top/parser?url=https://www.ilanzou.com/s/7bGnLwG1"
         },
         {
             "name": "植物大战僵尸 Eagrace Max",

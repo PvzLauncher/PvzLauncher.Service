@@ -426,6 +426,23 @@
     ],
     "trainer": [
         {
+            "name": "融合版修改器",
+            "description": "适用于融合版的多功能修改器",
+            "screenshot": 6,
+            "author": [
+                "高数带我飞"
+            ],
+            "icon": "fe",
+            "version_type": "trainer",
+            "version": "Fusion trainer 2.1.7",
+            "support_version": "Fusion Edition 3.4.2",
+            "size": 5.44,
+            "execute_name": "PvZRHModfied.exe",
+            "is_recommend": true,
+            "is_new": true,
+            "url": "https://lz.qaiu.top/parser?url=https://hhzyx.lanzouv.com/i9AcH3k3qvpe&pwd=dtz6"
+        },
+        {
             "name": "经典杂交版修改器",
             "description": "适用于经典杂交版的多功能修改器!",
             "screenshot": 9,
@@ -492,23 +509,6 @@
             "is_recommend": true,
             "is_new": false,
             "url": "https://lz.qaiu.top/parser?url=https://hhzyx.lanzouv.com/iKSGC3cp7ocj&pwd=bpbp"
-        },
-        {
-            "name": "融合版修改器",
-            "description": "适用于融合版的多功能修改器",
-            "screenshot": 6,
-            "author": [
-                "高数带我飞"
-            ],
-            "icon": "fe",
-            "version_type": "trainer",
-            "version": "Fusion trainer 2.1.1",
-            "support_version": "Fusion Edition 3.1 (.1)",
-            "size": 3.96,
-            "execute_name": "PvZRHModfied.exe",
-            "is_recommend": true,
-            "is_new": false,
-            "url": "https://lz.qaiu.top/parser?url=https://hhzyx.lanzouv.com/iejrW3cp7o5c&pwd=g5vp"
         },
         {
             "name": "Cheat Engine",

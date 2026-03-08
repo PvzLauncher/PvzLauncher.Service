@@ -198,6 +198,24 @@
     ],
     "zh_revision": [
         {
+            "name": "植物大战僵尸 融合版",
+            "description": "融合版！",
+            "screenshot": 5,
+            "author": [
+                "蓝飘飘fly",
+                "蓝蝶",
+                "机鱼吐司"
+            ],
+            "icon": "fe",
+            "version_type": "zh_revision",
+            "version": "Fusion Edition 3.4.2",
+            "size": 446.0,
+            "execute_name": "PlantsVsZombiesRH.exe",
+            "is_recommend": true,
+            "is_new": true,
+            "url": "https://lz.qaiu.top/parser?url=https://www.ilanzou.com/s/VLfMVGTZ"
+        },
+        {
             "name": "植物大战僵尸 杂交版 (经典)",
             "description": "新增大量杂交植物! ",
             "screenshot": 8,
@@ -255,24 +273,6 @@
             "is_recommend": true,
             "is_new": false,
             "url": "https://lz.qaiu.top/parser?url=https://hhzyx.lanzouv.com/iT4HV3j6mmha&pwd=9ga8"
-        },
-        {
-            "name": "植物大战僵尸 融合版",
-            "description": "融合版！",
-            "screenshot": 5,
-            "author": [
-                "蓝飘飘fly",
-                "蓝蝶",
-                "机鱼吐司"
-            ],
-            "icon": "fe",
-            "version_type": "zh_revision",
-            "version": "Fusion Edition 3.1.1",
-            "size": 441.42,
-            "execute_name": "PlantsVsZombiesRH.exe",
-            "is_recommend": true,
-            "is_new": false,
-            "url": "https://lz.qaiu.top/parser?url=https://www.ilanzou.com/s/rA2N5pmk"
         },
         {
             "name": "植物大战僵尸 随机版",

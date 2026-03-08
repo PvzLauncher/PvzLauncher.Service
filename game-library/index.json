@@ -198,6 +198,25 @@
     ],
     "zh_revision": [
         {
+            "name": "植物大战僵尸 杂交版 (经典)",
+            "description": "新增大量杂交植物! ",
+            "screenshot": 8,
+            "author": [
+                "潜艇伟伟迷",
+                "小小咩MS",
+                "AXH弦",
+                "一只吴铭仕哒"
+            ],
+            "icon": "he",
+            "version_type": "zh_revision",
+            "version": "Hybridization Edition 3.15",
+            "size": 188.0,
+            "execute_name": "pvzHE-Launcher.exe",
+            "is_recommend": true,
+            "is_new": true,
+            "url": "https://lz.qaiu.top/parser?url=https://www.ilanzou.com/s/KoBMV8FZ"
+        },
+        {
             "name": "植物大战僵尸 无名版",
             "description": "无名版",
             "screenshot": 10,
@@ -234,27 +253,8 @@
             "size": 31.5,
             "execute_name": "beta6.66.test.34.click-to-play.exe",
             "is_recommend": true,
-            "is_new": true,
-            "url": "https://lz.qaiu.top/parser?url=https://hhzyx.lanzouv.com/iT4HV3j6mmha&pwd=9ga8"
-        },
-        {
-            "name": "植物大战僵尸 杂交版 (经典)",
-            "description": "新增大量杂交植物! ",
-            "screenshot": 8,
-            "author": [
-                "潜艇伟伟迷",
-                "小小咩MS",
-                "AXH弦",
-                "一只吴铭仕哒"
-            ],
-            "icon": "he",
-            "version_type": "zh_revision",
-            "version": "Hybridization Edition 3.14",
-            "size": 369.0,
-            "execute_name": "pvzHE-Launcher.exe",
-            "is_recommend": true,
             "is_new": false,
-            "url": "https://lz.qaiu.top/parser?url=https://www.ilanzou.com/s/ckkn7IgW"
+            "url": "https://lz.qaiu.top/parser?url=https://hhzyx.lanzouv.com/iT4HV3j6mmha&pwd=9ga8"
         },
         {
             "name": "植物大战僵尸 融合版",

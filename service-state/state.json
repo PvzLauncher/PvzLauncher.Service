@@ -1,0 +1,8 @@
+{
+    "echo-cave": true,
+    "game-library": true,
+    "help": false,
+    "notice": true,
+    "sponsors": true,
+    "update": true
+}

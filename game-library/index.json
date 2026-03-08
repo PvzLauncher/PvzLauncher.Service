@@ -254,7 +254,7 @@
             "url": "https://lz.qaiu.top/parser?url=https://www.ilanzou.com/s/T0lMVjCk"
         },
         {
-            "name": "植物大战僵尸 β版 v6.66",
+            "name": "植物大战僵尸 β版",
             "description": "添加非常多的有趣小游戏以及新植物、新僵尸！",
             "screenshot": 8,
             "author": [
@@ -355,27 +355,6 @@
             "is_recommend": false,
             "is_new": false,
             "url": "https://lz.qaiu.top/parser?url=https://www.ilanzou.com/s/P59N5pMT"
-        },
-        {
-            "name": "植物大战僵尸 β版 v6.30",
-            "description": "添加非常多的有趣小游戏以及新植物、新僵尸！",
-            "screenshot": 8,
-            "author": [
-                "Dr`小黑",
-                "此名字不能正常显示",
-                "天谴之羊",
-                "不活跃的罐子",
-                "千羽冰封",
-                "Hao_Ge278"
-            ],
-            "icon": "beta",
-            "version_type": "zh_revision",
-            "version": "β 6.30",
-            "size": 38.81,
-            "execute_name": "beta6.30.exe",
-            "is_recommend": false,
-            "is_new": false,
-            "url": "https://lz.qaiu.top/parser?url=https://hhzyx.lanzouv.com/i1KUz3cp6osj&pwd=ftun"
         },
         {
             "name": "植物大战僵尸 95版",

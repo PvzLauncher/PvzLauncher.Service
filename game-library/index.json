@@ -426,6 +426,23 @@
     ],
     "trainer": [
         {
+            "name": "经典杂交版修改器",
+            "description": "适用于经典杂交版的多功能修改器!",
+            "screenshot": 9,
+            "author": [
+                "未知"
+            ],
+            "icon": "he",
+            "version_type": "trainer",
+            "version": "Hybridization trainer 0.71",
+            "support_version": "Hybridization Edition 3.15",
+            "size": 24.1,
+            "execute_name": "PVZHybrid_Editor_b0.71.exe",
+            "is_recommend": true,
+            "is_new": true,
+            "url": "https://lz.qaiu.top/parser?url=https://hhzyx.lanzouv.com/iwdSQ3k3qfqj&pwd=ee3n"
+        },
+        {
             "name": "Pvz Toolkit",
             "description": "全版本通用修改器!",
             "screenshot": 5,
@@ -475,23 +492,6 @@
             "is_recommend": true,
             "is_new": false,
             "url": "https://lz.qaiu.top/parser?url=https://hhzyx.lanzouv.com/iKSGC3cp7ocj&pwd=bpbp"
-        },
-        {
-            "name": "经典杂交版修改器",
-            "description": "适用于经典杂交版的多功能修改器!",
-            "screenshot": 9,
-            "author": [
-                "未知"
-            ],
-            "icon": "he",
-            "version_type": "trainer",
-            "version": "Hybridization trainer 0.70",
-            "support_version": "Hybridization Edition 3.14",
-            "size": 38.3,
-            "execute_name": "PVZHybrid_Editor_b0.70.exe",
-            "is_recommend": true,
-            "is_new": false,
-            "url": "https://lz.qaiu.top/parser?url=https://hhzyx.lanzouv.com/iYuGS3f5oh2h&pwd=hz0q"
         },
         {
             "name": "融合版修改器",

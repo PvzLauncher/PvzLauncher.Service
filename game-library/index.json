@@ -2,7 +2,14 @@
     "en_origin": [
         {
             "name": "植物大战僵尸 v1.0.0.1051",
-            "description": "最早出品的版本，最经典的版本",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [
+                "    《植物大战僵尸》（Plants vs. Zombies，PVZ）是由美国宝开游戏公司（PopCap Games）设计师范乔治（George Fan）主导开发的一款益智策略类塔防御战游戏，其创作灵感源于《怪鱼水族馆》续集企划，后转型为以植物对抗僵尸为主题的塔防玩法。游戏最早被命名为《活死人之园》，影射僵尸电影《活死人黎明》。因法律原因，最终改名为《植物大战僵尸》。游戏于2009年5月5日发售， 支持平台包含PC, Mac, Mobile等。",
+                "",
+                "    玩家通过武装多种植物切换不同的功能，快速有效地把僵尸阻挡在入侵的道路上。多达50个的冒险模式关卡设定，从白天到夜晚，从房顶到游泳池，场景变化多样。有26种不同的僵尸敌人，50多种功能强大的植物，而每个场景最多只能选用10种植物，这就需要玩家根据自己的游戏策略来作出取舍；可收集硬币购买宠物蜗牛等多种可选道具。游戏提供五种主要模式：冒险模式；迷你游戏与解谜模式；生存模式；禅境花园。2025年10月24日，《植物大战僵尸：重植版》于Steam开放预购，新增本地联机合作、PvP对战，于同年正式登陆PS5、Xbox 及PC平台。",
+                "",
+                "   (来自百度百科)"
+            ],
             "screenshot": 6,
             "author": [
                 "PopCap"
@@ -18,7 +25,17 @@
         },
         {
             "name": "植物大战僵尸 v1.2.0.1065",
-            "description": "  修正了分裂射手前后均发射双豌豆的BUG\n据说修正了屋顶“上届之风”玉米炮落地偏移问题",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [
+                "    《植物大战僵尸》（Plants vs. Zombies），由于1.0.0.1051存在若干游戏机制bug，影响关卡平衡与策略深度。1.2.0.1065于2009年7月28日发布，为首个官方更新（Bug Fixes），未添加新植物、僵尸、关卡或功能（如成就系统、Zombatar，后续于1.2.0.1073引入），仅针对核心bug优化稳定性。",
+                "",
+                "    两个BUG修复:",
+                "        1.0.0.1051中，屋顶关卡斜坡上种植的投射植物（如玉米投手、玉米炮）射击轨迹异常，落点向上偏离，导致炮弹打向平地而非目标僵尸，或误击上方行僵尸。该bug源于屋顶角度计算错误，严重影响5-4至5-10等关卡策略。1.2.0.1065完全修复，轨迹精确对准斜坡目标，提升游戏公平性。",
+                "",
+                "        1.0.0.1051版中，玉米投手单独使用正常（后投玉米核，前发豌豆），但与另一玉米投手并排时，后排双投玉米核，前排额外双发豌豆，造成输出过剩。该bug源于投射逻辑冲突。1.2版修复为标准行为：后排双投，前排单发。",
+                "",
+                "    (来自AI生成)"
+            ],
             "screenshot": 6,
             "author": [
                 "PopCap"
@@ -34,7 +51,12 @@
         },
         {
             "name": "植物大战僵尸 年度加强版",
-            "description": "更新了成就以及僵尸大头贴！！！",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [
+                "    《植物大战僵尸》年度加强版（Game of the Year Edition，简称年度版，1.2.0.1073）于2010年7月11日发布。该版继承1065所有修复（如玉米投手双射、屋顶瞄准），新增成就与自定义功能，并优化平衡与UI，未添加新植物、僵尸或关卡。",
+                "",
+                "    (来自AI生成)"
+            ],
             "screenshot": 9,
             "author": [
                 "PopCap"
@@ -50,7 +72,10 @@
         },
         {
             "name": "植物大战僵尸 Steam年度正版",
-            "description": "在Steam上发行的\"正版\"游戏",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [
+                "   《植物大战僵尸》Steam年度正版（GOTY Edition，版本1.2.0.1073或Steam补丁1.2.0.1096）于2010年8月10日在Steam平台发行，为官方英文版，支持Steam生态。年度加强版（基于1.2.0.1073汉化版）为中文社区优化版，常由宝开或植吧汉化，容量约50-90MB，新增便利功能。两者核心内容相同（成就系统、Zombatar、Disco Zombie替换舞王），继承1.2.0.1065修复，无新植物/僵尸。"
+            ],
             "screenshot": 5,
             "author": [
                 "PopCap"
@@ -66,7 +91,10 @@
         },
         {
             "name": "植物大战僵尸 测试版",
-            "description": "测试版",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [
+                "   《植物大战僵尸》测试版0.9.9.1029（Beta）于2009年2月17日发布，为正式版1.0.0.1051（2009年5月5日）前三个月构建。游戏核心机制已趋成熟，但UI、音乐与部分行为存在细微差异，未引入新植物/僵尸/关卡，主要优化视觉与音频。"
+            ],
             "screenshot": 5,
             "author": [
                 "PopCap"
@@ -82,7 +110,10 @@
         },
         {
             "name": "开花与终结 测试版",
-            "description": "开花与凋零测试版",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [
+                "   《植物大战僵尸》测试版0.1.1.1014（Bloom and Doom BETA）于2008年12月2日构建，为已知最早可玩原型，距正式版1.0.0.1051约5个月。游戏核心机制初步成型，但UI、图形、音频粗糙，残留大量未用内容（如Iceberg Lettuce、Stinger植物，Dog Zombie等），无结束动画。冒险模式可通关，但无智慧树和成就系统。"
+            ],
             "screenshot": 7,
             "author": [
                 "PopCap"
@@ -100,7 +131,8 @@
     "zh_origin": [
         {
             "name": "植物大战僵尸 汉化第一版",
-            "description": "最经典的版本，最经典的汉化",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [],
             "screenshot": 6,
             "author": [
                 "urf及其民间汉化团队"
@@ -116,7 +148,8 @@
         },
         {
             "name": "植物大战僵尸 汉化第二版",
-            "description": "最经典的版本，汉化第一版的迭代版本",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [],
             "screenshot": 4,
             "author": [
                 "urf",
@@ -133,7 +166,8 @@
         },
         {
             "name": "植物大战僵尸 v1.2.0.1065汉化版",
-            "description": "v1.2.0.1065汉化版",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [],
             "screenshot": 3,
             "author": [
                 "lijingjie"
@@ -149,7 +183,8 @@
         },
         {
             "name": "植物大战僵尸 植吧完美汉化版",
-            "description": "由百度植物大战僵尸吧制作的年度完美汉化版，此版本完全修复所有BUG完美免广告",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [],
             "screenshot": 6,
             "author": [
                 "植物大战僵尸吧 (百度贴吧)"
@@ -165,7 +200,8 @@
         },
         {
             "name": "植物大战僵尸 年度加强汉化版",
-            "description": "年度加强汉化版",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [],
             "screenshot": 7,
             "author": [
                 "民间汉化组"
@@ -181,7 +217,8 @@
         },
         {
             "name": "祖玛 v1.3 豪华版",
-            "description": "同样是宝开的游戏，但为什么会出现在 \"植物大战僵尸\" 启动器的游戏库里？",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [],
             "screenshot": 3,
             "author": [
                 "PopCap"
@@ -199,7 +236,8 @@
     "zh_revision": [
         {
             "name": "植物大战僵尸 融合版",
-            "description": "融合版！",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [],
             "screenshot": 5,
             "author": [
                 "蓝飘飘fly",
@@ -217,7 +255,8 @@
         },
         {
             "name": "植物大战僵尸 杂交版 (经典)",
-            "description": "新增大量杂交植物! ",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [],
             "screenshot": 8,
             "author": [
                 "潜艇伟伟迷",
@@ -236,7 +275,8 @@
         },
         {
             "name": "植物大战僵尸 无名版",
-            "description": "无名版",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [],
             "screenshot": 10,
             "author": [
                 "奇才丿",
@@ -255,7 +295,8 @@
         },
         {
             "name": "植物大战僵尸 β版",
-            "description": "添加非常多的有趣小游戏以及新植物、新僵尸！",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [],
             "screenshot": 8,
             "author": [
                 "Dr`小黑",
@@ -276,7 +317,8 @@
         },
         {
             "name": "植物大战僵尸 随机版",
-            "description": "随机卡片、随机僵尸、随机模仿者！\n进入游戏需要点击右下角控制台进行设置，否则就是原版游戏！",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [],
             "screenshot": 6,
             "author": [
                 "叔丁基_锂",
@@ -293,7 +335,8 @@
         },
         {
             "name": "植物大战僵尸 新指导版",
-            "description": "我们至今还不知道头牛是在帮僵尸还是帮植物...",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [],
             "screenshot": 3,
             "author": [
                 "头牛o"
@@ -309,7 +352,8 @@
         },
         {
             "name": "植物大战僵尸 精华版",
-            "description": "集成了几乎所有Pvz官方版本！",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [],
             "screenshot": 6,
             "author": [
                 "萌新迎风听雨"
@@ -325,7 +369,8 @@
         },
         {
             "name": "植物大战僵尸 Eagrace Max",
-            "description": "以二战作为游戏背景。难度超高，不适合一般人游玩",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [],
             "screenshot": 10,
             "author": [
                 "Henry-joestar"
@@ -341,7 +386,8 @@
         },
         {
             "name": "植物大战僵尸 时空环游之旅",
-            "description": "2代风格的改版",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [],
             "screenshot": 6,
             "author": [
                 "江南游戏",
@@ -358,7 +404,8 @@
         },
         {
             "name": "植物大战僵尸 95版",
-            "description": "历经95次魔改的版本",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [],
             "screenshot": 1,
             "author": [
                 "冥谷川恋"
@@ -374,7 +421,8 @@
         },
         {
             "name": "胆小菇之梦",
-            "description": "胆小菇被潮水一般的僵尸吓得晕了过去，做了场梦……",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [],
             "screenshot": 5,
             "author": [
                 "北窗遥望"
@@ -390,7 +438,8 @@
         },
         {
             "name": "植物大战僵尸 杂交版 (重置)",
-            "description": "使用全新引擎重置的杂交版！",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [],
             "screenshot": 5,
             "author": [
                 "潜艇伟伟迷",
@@ -409,7 +458,8 @@
         },
         {
             "name": "植物大战僵尸 GhTr版",
-            "description": "使用全新引擎重置的高质量改版！",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [],
             "screenshot": 3,
             "author": [
                 "Ghastasaucey"
@@ -427,7 +477,8 @@
     "trainer": [
         {
             "name": "融合版修改器",
-            "description": "适用于融合版的多功能修改器",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [],
             "screenshot": 6,
             "author": [
                 "高数带我飞"
@@ -444,7 +495,8 @@
         },
         {
             "name": "经典杂交版修改器",
-            "description": "适用于经典杂交版的多功能修改器!",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [],
             "screenshot": 9,
             "author": [
                 "未知"
@@ -461,7 +513,8 @@
         },
         {
             "name": "Pvz Toolkit",
-            "description": "全版本通用修改器!",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [],
             "screenshot": 5,
             "author": [
                 "Lmintlcx"
@@ -478,7 +531,8 @@
         },
         {
             "name": "植物大战僵尸终极修改器",
-            "description": "全版本通用修改器!",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [],
             "screenshot": 6,
             "author": [
                 "未知"
@@ -495,7 +549,8 @@
         },
         {
             "name": "血量显示器",
-            "description": "在游戏内显示血量，还可以显示鼠标键状态!",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [],
             "screenshot": 1,
             "author": [
                 "未知"
@@ -512,7 +567,8 @@
         },
         {
             "name": "Cheat Engine",
-            "description": "强大的单机游戏修改器!",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [],
             "screenshot": 1,
             "author": [
                 "Eric Heijnen (Dark Byte)"
@@ -529,7 +585,8 @@
         },
         {
             "name": "随机数修改器",
-            "description": "修改游戏内的各种随机数",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [],
             "screenshot": 3,
             "author": [
                 "未知"
@@ -546,7 +603,8 @@
         },
         {
             "name": "Pvz Toolkit 英文版",
-            "description": "PvzToolkit英文版本",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [],
             "screenshot": 5,
             "author": [
                 "Lmintlcx"
@@ -563,7 +621,8 @@
         },
         {
             "name": "Pvz Toolkit NT5兼容版",
-            "description": "PvzToolkit的NT5兼容版，适用于Windows 200/XP",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [],
             "screenshot": 1,
             "author": [
                 "Lmintlcx"
@@ -580,7 +639,8 @@
         },
         {
             "name": "Pvz Toolkit NT5兼容英文版",
-            "description": "PvzToolkit的NT5兼容英文版，适用于Windows 200/XP",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [],
             "screenshot": 1,
             "author": [
                 "Lmintlcx"

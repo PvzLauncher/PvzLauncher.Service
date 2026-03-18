@@ -1,3 +1,21 @@
 {
-    "notices": []
+    "notices": [
+        {
+            "title": "2026.3.18 - 修改器库更新",
+            "content": "启动器版本过低，请更新至最新版本",
+            "contents": [
+                "移除修改器 \"Pvz Toolkit NT5兼容版\"",
+                "移除修改器 \"Pvz Toolkit NT5兼容英文版\""
+            ],
+            "primary-button": "查看",
+            "secondary-button": null,
+            "primary-actions": [
+                {
+                    "type": "to-page",
+                    "url": "Download"
+                }
+            ],
+            "secondary-actions": []
+        }
+    ]
 }

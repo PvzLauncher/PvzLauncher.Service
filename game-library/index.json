@@ -705,42 +705,6 @@
             "is_recommend": false,
             "is_new": false,
             "url": "https://lz.qaiu.top/parser?url=https://hhzyx.lanzouv.com/iFQls3cp7ouh&pwd=fczc"
-        },
-        {
-            "name": "Pvz Toolkit NT5兼容版",
-            "description": "启动器版本过低，请更新至最新版本",
-            "descriptions": [],
-            "screenshot": 1,
-            "author": [
-                "Lmintlcx"
-            ],
-            "icon": "pvztoolkit",
-            "version_type": "trainer",
-            "version": "PvzToolkit 1.22.0-NT5",
-            "support_version": "全版本",
-            "size": 0.54,
-            "execute_name": "PvZ_Toolkit_v1.22.0_ZH_NT5.exe",
-            "is_recommend": false,
-            "is_new": false,
-            "url": "https://lz.qaiu.top/parser?url=https://hhzyx.lanzouv.com/iqMBV3cp7oqd&pwd=hfim"
-        },
-        {
-            "name": "Pvz Toolkit NT5兼容英文版",
-            "description": "启动器版本过低，请更新至最新版本",
-            "descriptions": [],
-            "screenshot": 1,
-            "author": [
-                "Lmintlcx"
-            ],
-            "icon": "pvztoolkit",
-            "version_type": "trainer",
-            "version": "PvzToolkit-EN 1.22.0-NT5",
-            "support_version": "全版本",
-            "size": 0.53,
-            "execute_name": "PvZ_Toolkit_v1.22.0_EN_NT5.exe",
-            "is_recommend": false,
-            "is_new": false,
-            "url": "https://lz.qaiu.top/parser?url=https://hhzyx.lanzouv.com/iz1Ok3cp7ore&pwd=2byf"
         }
     ]
 }

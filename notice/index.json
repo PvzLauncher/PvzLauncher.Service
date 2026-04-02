@@ -1,21 +1,27 @@
 {
     "notices": [
         {
-            "title": "2026.4.1 - 启动器更新",
+            "title": "2026.4.2 - 新功能发布",
             "content": "启动器版本过低，请更新至最新版本",
             "contents": [
-                "我们已经完成了PvzLauncher - Remake - Remake的制作",
-                "此版本重置了当前的重置版，你可以点击下方按钮抢先体验！"
+                "在最新的测试版中，我们更新了 \"游戏内覆盖界面\" ，你可以在游戏进行时随时打开它。来进行一些快捷操作 (就像Steam那样)",
+                "",
+                "目前已发布在 Development 分支内的最新测试版内。欢迎更新测试！"
             ],
-            "primary-button": "查看",
-            "secondary-button": null,
+            "primary-button": "前往关于页检查更新",
+            "secondary-button": "前往Release界面下载",
             "primary-actions": [
                 {
-                    "type": "to-url",
-                    "url": "https://www.bilibili.com/video/BV1GJ411x7h7/"
+                    "type": "to-page",
+                    "url": "About"
                 }
             ],
-            "secondary-actions": []
+            "secondary-actions": [
+                {
+                    "type": "tp-url",
+                    "url": "https://github.com/PvzLauncher/PvzLauncher/releases/tag/1.4.0-beta.1"
+                }
+            ]
         }
     ]
 }

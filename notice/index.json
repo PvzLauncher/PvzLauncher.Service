@@ -1,25 +1,23 @@
 {
     "notices": [
         {
-            "title": "2026.4.2 - 新功能发布",
+            "title": "2026.4.4 - 宣传视频发布",
             "content": "启动器版本过低，请更新至最新版本",
             "contents": [
-                "在最新的测试版中，我们更新了 \"游戏内覆盖界面\" ，你可以在游戏进行时随时打开它。来进行一些快捷操作 (就像Steam那样)",
-                "",
-                "目前已发布在 Development 分支内的最新测试版内。欢迎更新测试！"
+                "距离第一个正式版发布已经过去三个月，我们终于在两个平台发布了宣传消息！"
             ],
-            "primary-button": "前往关于页检查更新",
-            "secondary-button": "前往Release界面下载",
+            "primary-button": "前往Bilibili查看宣传视频",
+            "secondary-button": "前往百度贴吧查看宣传贴",
             "primary-actions": [
                 {
-                    "type": "to-page",
-                    "url": "About"
+                    "type": "to-url",
+                    "url": "https://www.bilibili.com/video/BV1iuDKBME1Z/"
                 }
             ],
             "secondary-actions": [
                 {
                     "type": "tp-url",
-                    "url": "https://github.com/PvzLauncher/PvzLauncher/releases/tag/1.4.0-beta.1"
+                    "url": "https://tieba.baidu.com/p/10593636163"
                 }
             ]
         }

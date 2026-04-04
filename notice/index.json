@@ -16,7 +16,7 @@
             ],
             "secondary-actions": [
                 {
-                    "type": "tp-url",
+                    "type": "to-url",
                     "url": "https://tieba.baidu.com/p/10593636163"
                 }
             ]

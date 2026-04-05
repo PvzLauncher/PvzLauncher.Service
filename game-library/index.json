@@ -122,6 +122,31 @@
             "url": "https://lz.qaiu.top/parser?url=https://hhzyx.lanzouv.com/iyslU3cp3o6j&pwd=8yyz"
         }
     ],
+    "en_revision": [
+        {
+            "name": "植物大战僵尸 扩展与增强版",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [
+                "   《植物大战僵尸 扩展与增强版》（EaE版）是基于原作GOTY版的流行模组，通过全面改动为玩家提供更丰富且具挑战性的塔防体验。",
+                "",
+                "   其主要改动包括：新增世界4等扩展冒险模式，延长游戏流程并引入全新环境与关卡设计；增加多种新植物（部分融入PvZ2机制），并对原有植物进行平衡调整与升级优化，提升策略深度；引入多样精英僵尸与特殊变种，以及Boss级威胁，显著增强战斗紧张感与战术要求；新增多个迷你游戏、生存模式变体与成就系统，同时优化画面细节与动画流畅度。",
+                "",
+                "   整体保留原作核心，却通过这些创新改动大幅提高重玩价值与长期可玩性。"
+            ],
+            "screenshot": 7,
+            "author": [
+                "Raducu"
+            ],
+            "icon": "eae",
+            "version_type": "en_revision",
+            "version": "Expanded and Enhanced 2.5",
+            "size": 153.22,
+            "execute_name": "LAUNCH THE GAME!.exe",
+            "is_recommend": true,
+            "is_new": true,
+            "url": "https://lz.qaiu.top/parser?url=https://www.ilanzou.com/s/2ndIDuWJ"
+        }
+    ],
     "zh_origin": [
         {
             "name": "植物大战僵尸 汉化第一版",

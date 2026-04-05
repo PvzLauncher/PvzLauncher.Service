@@ -124,6 +124,29 @@
     ],
     "en_revision": [
         {
+            "name": "植物大战僵尸 DLC版",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [
+                "   《植物大战僵尸》DLC版（Plants vs. Zombies: DLC Edition Mod）是由社区团队Samen及其成员开发的免费模组，基于原版PvZ1进行扩展。最新版本已更新至2.7.x系列。",
+                "",
+                "   该模组新增多个世界关卡（如森林、黑夜屋顶等）、数十种全新植物与僵尸、扩展的小游戏、生存模式以及万圣节特别事件。同时引入对战模式（Versus Mode）、升级机制、可自定义键位等功能，并优化了音乐、平衡与加载体验。",
+                "",
+                "   DLC版大幅丰富了单机内容，保留经典塔防玩法的同时提升了挑战性与可玩度，是原作爱好者的优质扩展选择。整体保持原作轻松幽默风格，适合长期游玩。"
+            ],
+            "screenshot": 5,
+            "author": [
+                "Samen"
+            ],
+            "icon": "dlc",
+            "version_type": "en_revision",
+            "version": "DLC Edition 2.7.2",
+            "size": 204.78,
+            "execute_name": "PlantsVsZombies.exe",
+            "is_recommend": true,
+            "is_new": true,
+            "url": "https://lz.qaiu.top/parser?url=https://www.ilanzou.com/s/8NFIDfwo"
+        },
+        {
             "name": "植物大战僵尸 Delturbia",
             "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [

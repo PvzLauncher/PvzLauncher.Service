@@ -124,6 +124,29 @@
     ],
     "en_revision": [
         {
+            "name": "植物大战僵尸 Delturbia",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [
+                "   植物大战僵尸 Delturbia 版是由开发者NiqKidd创作的《植物大战僵尸》大型改版，于2025年发布1.0版本，2025年12月推出2.0更新。该模组对原作进行全面改造，采用全新画风，视觉风格独特且精致，被玩家誉为“最接近PvZ3的民间作品”。",
+                "",
+                "   核心亮点包括：新增多款原创植物与僵尸；重新设计冒险模式，引入全新世界地图，如Sunnyvale Suburbs、Cratered Trail及Rainfall Lake，每个区域均配备独特机制与 gimmick（如地形互动、特殊环境效果）；优化游戏品质，提升平衡性与趣味性，同时保留经典塔防玩法并融入创新元素。",
+                "",
+                "   2.0版本重制了部分内容，新增小游戏、档案系统，并对早期关卡进行视觉与机制升级。该改版深受国际PvZ社区好评，为经典游戏注入新鲜活力，适合追求新颖体验的玩家探索。"
+            ],
+            "screenshot": 5,
+            "author": [
+                "NiqKidd"
+            ],
+            "icon": "delturbia",
+            "version_type": "en_revision",
+            "version": "Delturbia 2.0",
+            "size": 181.46,
+            "execute_name": "Delturbia.exe",
+            "is_recommend": true,
+            "is_new": true,
+            "url": "https://lz.qaiu.top/parser?url=https://www.ilanzou.com/s/5hsIDtUn"
+        },
+        {
             "name": "植物大战僵尸 扩展与增强版",
             "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [

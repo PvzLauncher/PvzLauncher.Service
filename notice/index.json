@@ -7,9 +7,14 @@
                 "重新上架游戏 \"植物大战僵尸 杂交版 (经典)\" 并更新至最新版 \"3.16.1\"",
                 "重新上架游戏 \"植物大战僵尸 杂交版 (重置)\" 并更新至最新版 \"0.18.1\""
             ],
-            "primary-button": null,
+            "primary-button": "查看",
             "secondary-button": null,
-            "primary-actions": [],
+            "primary-actions": [
+                {
+                    "type": "to-page",
+                    "url": "Download"
+                }
+            ],
             "secondary-actions": []
         }
     ]

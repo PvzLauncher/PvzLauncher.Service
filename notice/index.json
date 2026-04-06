@@ -1,7 +1,20 @@
 {
     "notices": [
         {
-            "title": "4.6 - 游戏库更新",
+            "title": "2026.4.6 - 云服务异常",
+            "content": "启动器版本过低，请更新至最新版本",
+            "contents": [
+                "PvzLauncher 的云服务提供方 Gitee 目前因未知原因导致加载缓慢。游戏下载列表、游戏截图等可能会无法加载。",
+                "",
+                "不过不用担心。游戏下载功能还是正常的，你仍然可以享受高速下载服务！"
+            ],
+            "primary-button": "确定",
+            "secondary-button": null,
+            "primary-actions": [],
+            "secondary-actions": []
+        },
+        {
+            "title": "2026.4.6 - 游戏库更新",
             "content": "启动器版本过低，请更新至最新版本",
             "contents": [
                 "重新上架游戏 \"植物大战僵尸 杂交版 (经典)\" 并更新至最新版 \"3.16.1\"",

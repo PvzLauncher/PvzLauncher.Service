@@ -6,28 +6,11 @@
             "contents": [
                 "PvzLauncher 的云服务提供方 Gitee 目前因未知原因导致加载缓慢。这会导致启动器无法更新、游戏截图无法加载、游戏列表加载缓慢等问题",
                 "",
-                "在服务恢复之前。此公告会一直保留，直到服务全部恢复正常"
+                "请耐心等待服务恢复正常"
             ],
             "primary-button": "确定",
             "secondary-button": null,
             "primary-actions": [],
-            "secondary-actions": []
-        },
-        {
-            "title": "2026.4.6 - 游戏库更新",
-            "content": "启动器版本过低，请更新至最新版本",
-            "contents": [
-                "重新上架游戏 \"植物大战僵尸 杂交版 (经典)\" 并更新至最新版 \"3.16.1\"",
-                "重新上架游戏 \"植物大战僵尸 杂交版 (重置)\" 并更新至最新版 \"0.18.1\""
-            ],
-            "primary-button": "查看",
-            "secondary-button": null,
-            "primary-actions": [
-                {
-                    "type": "to-page",
-                    "url": "Download"
-                }
-            ],
             "secondary-actions": []
         }
     ]

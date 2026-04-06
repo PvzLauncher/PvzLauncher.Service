@@ -1,3 +1,16 @@
 {
-    "notices": []
+    "notices": [
+        {
+            "title": "4.6 - 游戏库更新",
+            "content": "启动器版本过低，请更新至最新版本",
+            "contents": [
+                "暂时下架游戏 \"植物大战僵尸 杂交版 (经典)\"",
+                "暂时下架游戏 \"植物大战僵尸 杂交版 (重置)\""
+            ],
+            "primary-button": null,
+            "secondary-button": null,
+            "primary-actions": [],
+            "secondary-actions": []
+        }
+    ]
 }

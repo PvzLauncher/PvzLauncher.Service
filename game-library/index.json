@@ -316,6 +316,29 @@
     ],
     "zh_revision": [
         {
+            "name": "植物大战僵尸 屑版",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [
+                "   该版本对原作的植物与僵尸系统进行了全面调整，引入大量全新特性与机制。植物阵容获得显著强化，攻击力、技能效果及辅助能力大幅提升，使玩家在防守过程中更具掌控感和成就体验。",
+                "",
+                "   同时，僵尸阵容也随之升级，新增多种特殊变体与植物属性僵尸，甚至出现植物背叛元素，极大增加了进攻的多样性和难度。游戏保留了原作的核心塔防玩法——玩家需精心布置植物防线，合理利用阳光与地形，抵御一波波来袭的僵尸大军。",
+                "",
+                "   与原版相比，屑版在平衡性上更注重挑战性与乐趣的结合：火力输出更极致，策略深度更丰富，既适合追求爽快的玩家，也考验老玩家的战术布局能力。整体而言，这是一款极具创意与重玩价值的魔改作品，为经典塔防注入全新活力。"
+            ],
+            "screenshot": 6,
+            "author": [
+                "未知"
+            ],
+            "icon": "origin",
+            "version_type": "zh_revision",
+            "version": "Xie Edition Reset 1.24-test.11",
+            "size": 27.51,
+            "execute_name": "屑resetV1.24测试版11.exe",
+            "is_recommend": false,
+            "is_new": true,
+            "url": "https://lz.qaiu.top/parser?url=https://hhzyx.lanzouv.com/iM94I3mv05if&pwd=hfwo"
+        },
+        {
             "name": "植物大战僵尸 杂交版 (经典)",
             "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [

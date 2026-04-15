@@ -143,7 +143,7 @@
             "size": 204.78,
             "execute_name": "PlantsVsZombies.exe",
             "is_recommend": true,
-            "is_new": true,
+            "is_new": false,
             "url": "https://lz.qaiu.top/parser?url=https://www.ilanzou.com/s/8NFIDfwo"
         },
         {
@@ -166,7 +166,7 @@
             "size": 181.46,
             "execute_name": "Delturbia.exe",
             "is_recommend": true,
-            "is_new": true,
+            "is_new": false,
             "url": "https://lz.qaiu.top/parser?url=https://www.ilanzou.com/s/5hsIDtUn"
         },
         {
@@ -189,7 +189,7 @@
             "size": 153.22,
             "execute_name": "LAUNCH THE GAME!.exe",
             "is_recommend": true,
-            "is_new": true,
+            "is_new": false,
             "url": "https://lz.qaiu.top/parser?url=https://www.ilanzou.com/s/2ndIDuWJ"
         }
     ],
@@ -316,6 +316,25 @@
     ],
     "zh_revision": [
         {
+            "name": "植物大战僵尸 原？版",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [
+                "(暂无描述)"
+            ],
+            "screenshot": 4,
+            "author": [
+                "los gdi42"
+            ],
+            "icon": "random",
+            "version_type": "zh_revision",
+            "version": "Original? Edition Final Version",
+            "size": 27.73,
+            "execute_name": "原？版End.exe",
+            "is_recommend": false,
+            "is_new": true,
+            "url": "https://lz.qaiu.top/parser?url=https://hhzyx.lanzouv.com/i2Qcm3nbywgf&pwd=coj5"
+        },
+        {
             "name": "植物大战僵尸 屑版",
             "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [
@@ -335,7 +354,7 @@
             "size": 27.51,
             "execute_name": "屑resetV1.24测试版11.exe",
             "is_recommend": false,
-            "is_new": true,
+            "is_new": false,
             "url": "https://lz.qaiu.top/parser?url=https://hhzyx.lanzouv.com/iM94I3mv05if&pwd=hfwo"
         },
         {
@@ -361,7 +380,7 @@
             "size": 0.0,
             "execute_name": null,
             "is_recommend": true,
-            "is_new": true,
+            "is_new": false,
             "url": null,
             "link_url": "https://pan.quark.cn/s/34858c66234e"
         },
@@ -388,7 +407,7 @@
             "size": 0.0,
             "execute_name": null,
             "is_recommend": false,
-            "is_new": true,
+            "is_new": false,
             "url": null,
             "link_url": "https://pan.quark.cn/s/7f112d09669a"
         },

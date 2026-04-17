@@ -1,12 +1,12 @@
 {
     "stable": {
-        "latest_version": "1.5.1",
+        "latest_version": "1.5.2",
         "change_log": "https://gitee.com/huamouren110/PvzLauncher.Service/raw/main/update/stable/changelog.md",
         "url": "https://gitee.com/huamouren110/PvzLauncher.Service/raw/main/update/stable/bin.zip",
         "url_shell": "https://gitee.com/huamouren110/PvzLauncher.Service/raw/main/update/stable/shell.zip"
     },
     "development": {
-        "latest_version": "1.5.2-beta.1",
+        "latest_version": "1.5.2",
         "change_log": "https://gitee.com/huamouren110/PvzLauncher.Service/raw/main/update/development/changelog.md",
         "url": "https://gitee.com/huamouren110/PvzLauncher.Service/raw/main/update/development/bin.zip",
         "url_shell": "https://gitee.com/huamouren110/PvzLauncher.Service/raw/main/update/development/shell.zip"

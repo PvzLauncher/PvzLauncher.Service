@@ -316,6 +316,31 @@
     ],
     "zh_revision": [
         {
+            "name": "植物大战僵尸 融合版",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [
+                "   植物大战僵尸融合版是由B站UP主蓝飘飘fly开发的同人塔防游戏，于2024年6月30日正式发布。它基于原版《植物大战僵尸》核心玩法，使用Unity引擎重制，最大创新在于引入“植物融合”系统，成为2024年最受好评的PvZ同人作品之一。",
+                "",
+                "   该版本的核心特点是玩家可将两株植物叠加种植进行融合，生成具备复合能力的新植物。例如豌豆射手与向日葵融合后，既能生产阳光又能射击；樱桃炸弹与豌豆融合则变为爆炸射手。融合支持多阶升级与道具叠加，配方随关卡逐步解锁，同时新增大量原创植物、僵尸及机制，阳光消耗与平衡均重新调整，使策略深度大幅提升。",
+                "",
+                "   此外，融合版包含冒险、挑战、解谜、生存及独特的旅行模式（Roguelike究极对战），还设有副卡选卡、肥料增益等特色玩法。画面保留原作风趣，更新持续活跃，因平衡性优秀且无争议而备受玩家推崇，成为融合种植塔防的代表之作。"
+            ],
+            "screenshot": 5,
+            "author": [
+                "蓝飘飘fly",
+                "蓝蝶",
+                "机鱼吐司"
+            ],
+            "icon": "fe",
+            "version_type": "zh_revision",
+            "version": "Fusion Edition 3.6.1",
+            "size": 473.08,
+            "execute_name": "PlantsVsZombiesRH.exe",
+            "is_recommend": true,
+            "is_new": true,
+            "url": "https://lz.qaiu.top/parser?url=https://www.ilanzou.com/s/LBn6Abz6"
+        },
+        {
             "name": "植物大战僵尸 原？版",
             "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [
@@ -331,7 +356,7 @@
             "size": 27.73,
             "execute_name": "原？版End.exe",
             "is_recommend": false,
-            "is_new": true,
+            "is_new": false,
             "url": "https://lz.qaiu.top/parser?url=https://hhzyx.lanzouv.com/i2Qcm3nbywgf&pwd=coj5"
         },
         {
@@ -410,31 +435,6 @@
             "is_new": false,
             "url": null,
             "link_url": "https://pan.quark.cn/s/7f112d09669a"
-        },
-        {
-            "name": "植物大战僵尸 融合版",
-            "description": "启动器版本过低，请更新至最新版本",
-            "descriptions": [
-                "   植物大战僵尸融合版是由B站UP主蓝飘飘fly开发的同人塔防游戏，于2024年6月30日正式发布。它基于原版《植物大战僵尸》核心玩法，使用Unity引擎重制，最大创新在于引入“植物融合”系统，成为2024年最受好评的PvZ同人作品之一。",
-                "",
-                "   该版本的核心特点是玩家可将两株植物叠加种植进行融合，生成具备复合能力的新植物。例如豌豆射手与向日葵融合后，既能生产阳光又能射击；樱桃炸弹与豌豆融合则变为爆炸射手。融合支持多阶升级与道具叠加，配方随关卡逐步解锁，同时新增大量原创植物、僵尸及机制，阳光消耗与平衡均重新调整，使策略深度大幅提升。",
-                "",
-                "   此外，融合版包含冒险、挑战、解谜、生存及独特的旅行模式（Roguelike究极对战），还设有副卡选卡、肥料增益等特色玩法。画面保留原作风趣，更新持续活跃，因平衡性优秀且无争议而备受玩家推崇，成为融合种植塔防的代表之作。"
-            ],
-            "screenshot": 5,
-            "author": [
-                "蓝飘飘fly",
-                "蓝蝶",
-                "机鱼吐司"
-            ],
-            "icon": "fe",
-            "version_type": "zh_revision",
-            "version": "Fusion Edition 3.5",
-            "size": 452.51,
-            "execute_name": "PlantsVsZombiesRH.exe",
-            "is_recommend": true,
-            "is_new": false,
-            "url": "https://lz.qaiu.top/parser?url=https://www.ilanzou.com/s/9oTIfeXR"
         },
         {
             "name": "植物大战僵尸 β版",
@@ -687,13 +687,13 @@
             ],
             "icon": "fe",
             "version_type": "trainer",
-            "version": "Fusion trainer 2.1.8",
-            "support_version": "Fusion Edition 3.5",
-            "size": 5.44,
+            "version": "Fusion trainer 2.1.9",
+            "support_version": "Fusion Edition 3.6 (.1)",
+            "size": 5.46,
             "execute_name": "PvZRHModfied.exe",
             "is_recommend": true,
             "is_new": true,
-            "url": "https://lz.qaiu.top/parser?url=https://hhzyx.lanzouv.com/iapFp3mf2osf&pwd=ajf8"
+            "url": "https://lz.qaiu.top/parser?url=https://hhzyx.lanzouv.com/iEtUh3odpfde&pwd=1g4b"
         },
         {
             "name": "Pvz Toolkit",

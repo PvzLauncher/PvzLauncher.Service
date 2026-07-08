@@ -1,6 +1,17 @@
 {
     "notices": [
         {
+            "title": "2026.7.8 - 游戏库修复",
+            "content": "启动器版本过低，请更新至最新版本",
+            "contents": [
+                "修复游戏 \"植物大战僵尸 时空环游之旅\" 无法下载的问题"
+            ],
+            "primary-button": null,
+            "secondary-button": null,
+            "primary-actions": [],
+            "secondary-actions": []
+        },
+        {
             "title": "2026.7.4 - 游戏库更新",
             "content": "启动器版本过低，请更新至最新版本",
             "contents": [

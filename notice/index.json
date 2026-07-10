@@ -1,6 +1,22 @@
 {
     "notices": [
         {
+            "title": "2026.7.10 - 提出建议",
+            "content": "启动器版本过低，请更新至最新版本",
+            "contents": [
+                "启动器没有灵感了！欢迎前往Github Issues页面提出意见或者BUG反馈！有什么希望添加的新功能尽管提！"
+            ],
+            "primary-button": "前往",
+            "secondary-button": null,
+            "primary-actions": [
+                {
+                    "type": "tp-url",
+                    "url": "https://github.com/PvzLauncher/PvzLauncher/issues/new/choose"
+                }
+            ],
+            "secondary-actions": []
+        },
+        {
             "title": "2026.7.8 - 游戏库修复",
             "content": "启动器版本过低，请更新至最新版本",
             "contents": [

@@ -316,6 +316,32 @@
     ],
     "zh_revision": [
         {
+            "name": "植物大战僵尸 嫁接板",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [
+                
+            ],
+            "screenshot": 5,
+            "author": [
+                "通话小责(程序策划)",
+                "叶工好学(美术)",
+                "黯月(美术策划)",
+                "架空白音(美术)",
+                "致明笑笑(美术策划)",
+                "机鱼吐司(美术)",
+                "星空浪客小黑(美术)",
+                "八雲桐(美术)"
+            ],
+            "icon": "graft",
+            "version_type": "zh_revision",
+            "version": "Graft Edition 1.131",
+            "size": 82.9,
+            "execute_name": "植物大战僵尸嫁接版1.131电脑端.exe",
+            "is_recommend": false,
+            "is_new": true,
+            "url": "https://lz.qaiu.top/parser?url=https://hhzyx.lanzouv.com/iIPii3vuob9e&pwd=gb87"
+        },
+        {
             "name": "植物大战僵尸 融合版",
             "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [
@@ -419,7 +445,7 @@
             "size": 30.1,
             "execute_name": "beta6.66TEST36点击即玩.exe",
             "is_recommend": true,
-            "is_new": true,
+            "is_new": false,
             "url": "https://lz.qaiu.top/parser?url=https://hhzyx.lanzouv.com/iB8BB3uejkna&pwd=c956"
         },
         {

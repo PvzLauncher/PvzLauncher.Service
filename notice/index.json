@@ -1,6 +1,26 @@
 {
     "notices": [
         {
+            "title": "2026.7.11 - 游戏库更新",
+            "content": "启动器版本过低，请更新至最新版本",
+            "contents": [
+                "我们上线了2个新的改版！",
+                "",
+                "中文改版:",
+                "   植物大战僵尸 嫁接版",
+                "   植物大战僵尸 威化版"
+            ],
+            "primary-button": "查看",
+            "secondary-button": null,
+            "primary-actions": [
+                {
+                    "type": "to-page",
+                    "url": "Download"
+                }
+            ],
+            "secondary-actions": []
+        },
+        {
             "title": "2026.7.10 - 提出建议",
             "content": "启动器版本过低，请更新至最新版本",
             "contents": [
@@ -34,22 +54,6 @@
             "primary-button": null,
             "secondary-button": null,
             "primary-actions": [],
-            "secondary-actions": []
-        },
-        {
-            "title": "2026.7.4 - 游戏库更新",
-            "content": "启动器版本过低，请更新至最新版本",
-            "contents": [
-                "更新游戏 \"植物大战僵尸 β版\": 6.66-test.34 -> 6.66-test.36"
-            ],
-            "primary-button": "查看",
-            "secondary-button": null,
-            "primary-actions": [
-                {
-                    "type": "to-page",
-                    "url": "Download"
-                }
-            ],
             "secondary-actions": []
         }
     ]

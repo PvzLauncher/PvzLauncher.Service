@@ -316,7 +316,7 @@
     ],
     "zh_revision": [
         {
-            "name": "植物大战僵尸 嫁接板",
+            "name": "植物大战僵尸 嫁接版",
             "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [
                 "   《植物大战僵尸嫁接版》是一款以植物嫁接为核心玩法的创意塔防游戏。",
@@ -344,6 +344,29 @@
             "is_recommend": false,
             "is_new": true,
             "url": "https://lz.qaiu.top/parser?url=https://hhzyx.lanzouv.com/iIPii3vuob9e&pwd=gb87"
+        },
+        {
+            "name": "植物大战僵尸 威化版",
+            "description": "启动器版本过低，请更新至最新版本",
+            "descriptions": [
+                "   《植物大战僵尸 威化版》是一款基于经典《植物大战僵尸》改编的同人塔防游戏，在保留原版核心玩法的基础上，加入了大量原创植物、僵尸和特色机制。游戏既延续了熟悉的策略体验，也带来了更多新鲜内容，让每一局战斗都充满变化与挑战。",
+                "",
+                "   游戏中，玩家需要收集阳光、合理种植植物，并根据僵尸的种类和进攻节奏不断调整阵容。许多植物拥有全新的攻击方式和特殊技能，僵尸也获得了不同能力，需要灵活搭配植物、把握种植时机，才能建立稳固防线，成功抵挡一波又一波的进攻。",
+                "",
+                "   相比原版，《植物大战僵尸 威化版》拥有更加丰富的战术组合和更高的策略性。不同关卡加入了新的地图设计、敌人配置和玩法机制，考验玩家的临场应变能力。无论是喜欢研究阵容搭配，还是挑战高难度关卡，都能在游戏中体验到独特而有趣的塔防乐趣。"
+            ],
+            "screenshot": 5,
+            "author": [
+                "咸威化"
+            ],
+            "icon": "wafer",
+            "version_type": "zh_revision",
+            "version": "Wafer Edition 0.4.6.1",
+            "size": 32.2,
+            "execute_name": "PlantsVsZombies.exe",
+            "is_recommend": false,
+            "is_new": true,
+            "url": "https://lz.qaiu.top/parser?url=https://hhzyx.lanzouv.com/i2gPx3vutv9e&pwd=4d6j"
         },
         {
             "name": "植物大战僵尸 融合版",

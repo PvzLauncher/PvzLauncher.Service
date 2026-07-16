@@ -1,6 +1,25 @@
 {
     "notices": [
         {
+            "title": "2025.7.16 - 游戏库更新",
+            "contents": [
+                "添加游戏:",
+                "  植物大战僵尸2 无尽花园",
+                "",
+                "",
+                "注意: 必须更新到最新测试版才可以看到游戏图标！"
+            ],
+            "primary-button": "查看",
+            "secondary-button": null,
+            "primary-actions": [
+                {
+                    "type": "to-page",
+                    "url": "Download"
+                }
+            ],
+            "secondary-actions": []
+        },
+        {
             "title": "2026.7.16 - 关于云服务清理的告知",
             "contents": [
                 "    我们已经清理了云服务弃用键值，如果您当前不是最新版本，请立即更新至启动器最新版本以保证启动器可用！"

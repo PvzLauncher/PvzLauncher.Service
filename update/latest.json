@@ -1,6 +1,6 @@
 {
     "stable": {
-        "latest_version": "1.5.4",
+        "latest_version": "1.5.4-hotfix.1",
         "change_log": "https://gitee.com/huamouren110/PvzLauncher.Service/raw/main/update/stable/changelog.md",
         "url": "https://gitee.com/huamouren110/PvzLauncher.Service/raw/main/update/stable/bin.zip",
         "url_shell": "https://gitee.com/huamouren110/PvzLauncher.Service/raw/main/update/stable/shell.zip"

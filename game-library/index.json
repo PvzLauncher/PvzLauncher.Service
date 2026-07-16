@@ -316,6 +316,30 @@
     ],
     "zh_revision": [
         {
+            "name": "植物大战僵尸2 无尽花园",
+            "descriptions": [
+                "   完全重制的全桌面平台PvZ2",
+                "",
+                "    注意: 此版本体积较大(1.01GB)，启动器下载可能会出现下载中断等问题，如无法下载请跳转官网下载！"
+            ],
+            "screenshot": 6,
+            "author": [
+                "Gzh0821",
+                "IceandFire04",
+                "ItsRomeostar"
+            ],
+            "icon": "ge",
+            "version": "Pvz2 Gardendless 0.11.0",
+            "size": 1042.8,
+            "execute_name": "pvzge-0.11.0.exe",
+            "is_recommend": false,
+            "is_new": true,
+            "share_url": "https://pan.huang1111.cn/s/DVYb5f4",
+            "share_password": null,
+            "url": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/DVYb5f4",
+            "link_url": "https://pvzge.com/"
+        },
+        {
             "name": "植物大战僵尸 嫁接版",
             "descriptions": [
                 "   《植物大战僵尸嫁接版》是一款以植物嫁接为核心玩法的创意塔防游戏。",
@@ -340,7 +364,7 @@
             "size": 82.9,
             "execute_name": "植物大战僵尸嫁接版1.131电脑端.exe",
             "is_recommend": false,
-            "is_new": true,
+            "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/iIPii3vuob9e",
             "share_password": "gb87",
             "url": "https://lz.qaiu.top/parser?url=https://hhzyx.lanzouv.com/iIPii3vuob9e&pwd=gb87"
@@ -363,7 +387,7 @@
             "size": 32.2,
             "execute_name": "PlantsVsZombies.exe",
             "is_recommend": false,
-            "is_new": true,
+            "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/i2gPx3vutv9e",
             "share_password": "4d6j",
             "url": "https://lz.qaiu.top/parser?url=https://hhzyx.lanzouv.com/i2gPx3vutv9e&pwd=4d6j"

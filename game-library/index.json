@@ -2,7 +2,6 @@
     "en_origin": [
         {
             "name": "植物大战僵尸 v1.0.0.1051",
-            "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [
                 "    《植物大战僵尸》（Plants vs. Zombies，PVZ）是由美国宝开游戏公司（PopCap Games）设计师范乔治（George Fan）主导开发的一款益智策略类塔防御战游戏，其创作灵感源于《怪鱼水族馆》续集企划，后转型为以植物对抗僵尸为主题的塔防玩法。游戏最早被命名为《活死人之园》，影射僵尸电影《活死人黎明》。因法律原因，最终改名为《植物大战僵尸》。游戏于2009年5月5日发售， 支持平台包含PC, Mac, Mobile等。",
                 "",
@@ -13,7 +12,6 @@
                 "PopCap"
             ],
             "icon": "origin",
-            "version_type": "en_origin",
             "version": "1.0.0.1051",
             "size": 25.91,
             "execute_name": "PlantsVsZombies.exe",
@@ -25,7 +23,6 @@
         },
         {
             "name": "植物大战僵尸 v1.2.0.1065",
-            "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [
                 "    《植物大战僵尸》（Plants vs. Zombies），由于1.0.0.1051存在若干游戏机制bug，影响关卡平衡与策略深度。1.2.0.1065于2009年7月28日发布，为首个官方更新（Bug Fixes），未添加新植物、僵尸、关卡或功能（如成就系统、Zombatar，后续于1.2.0.1073引入），仅针对核心bug优化稳定性。",
                 "",
@@ -39,7 +36,6 @@
                 "PopCap"
             ],
             "icon": "origin",
-            "version_type": "en_origin",
             "version": "1.2.0.1065",
             "size": 23.45,
             "execute_name": "PlantsVsZombies.exe",
@@ -51,7 +47,6 @@
         },
         {
             "name": "植物大战僵尸 年度加强版",
-            "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [
                 "    《植物大战僵尸》年度加强版（Game of the Year Edition，简称年度版，1.2.0.1073）于2010年7月11日发布。该版继承1065所有修复（如玉米投手双射、屋顶瞄准），新增成就与自定义功能，并优化平衡与UI，未添加新植物、僵尸或关卡。"
             ],
@@ -60,7 +55,6 @@
                 "PopCap"
             ],
             "icon": "goty",
-            "version_type": "en_origin",
             "version": "1.2.0.1073-GOTY-Plus",
             "size": 35.77,
             "execute_name": "PlantsVsZombies.exe",
@@ -72,7 +66,6 @@
         },
         {
             "name": "植物大战僵尸 Steam年度正版",
-            "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [
                 "   《植物大战僵尸》Steam年度正版（GOTY Edition，版本1.2.0.1073或Steam补丁1.2.0.1096）于2010年8月10日在Steam平台发行，为官方英文版，支持Steam生态。年度加强版（基于1.2.0.1073汉化版）为中文社区优化版，常由宝开或植吧汉化，容量约50-90MB，新增便利功能。两者核心内容相同（成就系统、Zombatar、Disco Zombie替换舞王），继承1.2.0.1065修复，无新植物/僵尸。"
             ],
@@ -81,7 +74,6 @@
                 "PopCap"
             ],
             "icon": "steam",
-            "version_type": "en_origin",
             "version": "1.2.0.1096-Steam",
             "size": 35.98,
             "execute_name": "popcapgame1.exe",
@@ -93,7 +85,6 @@
         },
         {
             "name": "植物大战僵尸 测试版",
-            "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [
                 "   《植物大战僵尸》测试版0.9.9.1029（Beta）于2009年2月17日发布，为正式版1.0.0.1051（2009年5月5日）前三个月构建。游戏核心机制已趋成熟，但UI、音乐与部分行为存在细微差异，未引入新植物/僵尸/关卡，主要优化视觉与音频。"
             ],
@@ -102,7 +93,6 @@
                 "PopCap"
             ],
             "icon": "test",
-            "version_type": "en_origin",
             "version": "0.9.9.1029",
             "size": 24.45,
             "execute_name": "PlantsVsZombies0.9.9nologin.exe",
@@ -114,7 +104,6 @@
         },
         {
             "name": "开花与终结 测试版",
-            "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [
                 "   《植物大战僵尸》测试版0.1.1.1014（Bloom and Doom BETA）于2008年12月2日构建，为已知最早可玩原型，距正式版1.0.0.1051约5个月。游戏核心机制初步成型，但UI、图形、音频粗糙，残留大量未用内容（如Iceberg Lettuce、Stinger植物，Dog Zombie等），无结束动画。冒险模式可通关，但无智慧树和成就系统。"
             ],
@@ -123,7 +112,6 @@
                 "PopCap"
             ],
             "icon": "test",
-            "version_type": "en_origin",
             "version": "0.1.1.1014",
             "size": 39.27,
             "execute_name": "BloomAndDoom0.1.1nologin.exe",
@@ -137,7 +125,6 @@
     "en_revision": [
         {
             "name": "植物大战僵尸 DLC版",
-            "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [
                 "   《植物大战僵尸》DLC版（Plants vs. Zombies: DLC Edition Mod）是由社区团队Samen及其成员开发的免费模组，基于原版PvZ1进行扩展。最新版本已更新至2.7.x系列。",
                 "",
@@ -150,7 +137,6 @@
                 "Samen"
             ],
             "icon": "dlc",
-            "version_type": "en_revision",
             "version": "DLC Edition 2.7.2",
             "size": 204.78,
             "execute_name": "PlantsVsZombies.exe",
@@ -162,7 +148,6 @@
         },
         {
             "name": "植物大战僵尸 Delturbia",
-            "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [
                 "   植物大战僵尸 Delturbia 版是由开发者NiqKidd创作的《植物大战僵尸》大型改版，于2025年发布1.0版本，2025年12月推出2.0更新。该模组对原作进行全面改造，采用全新画风，视觉风格独特且精致，被玩家誉为“最接近PvZ3的民间作品”。",
                 "",
@@ -175,7 +160,6 @@
                 "NiqKidd"
             ],
             "icon": "delturbia",
-            "version_type": "en_revision",
             "version": "Delturbia 2.0",
             "size": 181.46,
             "execute_name": "Delturbia.exe",
@@ -187,7 +171,6 @@
         },
         {
             "name": "植物大战僵尸 扩展与增强版",
-            "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [
                 "   《植物大战僵尸 扩展与增强版》（EaE版）是基于原作GOTY版的流行模组，通过全面改动为玩家提供更丰富且具挑战性的塔防体验。",
                 "",
@@ -200,7 +183,6 @@
                 "Raducu"
             ],
             "icon": "eae",
-            "version_type": "en_revision",
             "version": "Expanded and Enhanced 2.5",
             "size": 153.22,
             "execute_name": "LAUNCH THE GAME!.exe",
@@ -214,7 +196,6 @@
     "zh_origin": [
         {
             "name": "植物大战僵尸 汉化第一版",
-            "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [
                 "   《植物大战僵尸》汉化第一版基于英文原版1.0.0.1051（2009年5月5日发布），由民间汉化组于2009年5月底迅速推出。该版为中国玩家引入简体中文界面与译名，无新内容或bug修复，完全保留原版机制，是最早流传的中文完整版，深受mod与速通社区青睐。"
             ],
@@ -223,7 +204,6 @@
                 "urf及其民间汉化团队"
             ],
             "icon": "origin",
-            "version_type": "zh_origin",
             "version": "1.0.0.1051-ZH1",
             "size": 28.72,
             "execute_name": "PlantsVsZombies.exe",
@@ -235,7 +215,6 @@
         },
         {
             "name": "植物大战僵尸 汉化第二版",
-            "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [
                 "   《植物大战僵尸》汉化第一版由游侠网（LMAO汉化组）于2009年5月底基于英文原版1.0.0.1051制作，为中国玩家最早完整中文版。汉化第二版由同一团队迅速推出，同为基础版本，无新内容、植物、僵尸或bug修复，完全保留原版机制（如玉米投手双射、屋顶瞄准偏移），译名与对话一致。"
             ],
@@ -245,7 +224,6 @@
                 "LMAO汉化组"
             ],
             "icon": "origin",
-            "version_type": "zh_origin",
             "version": "1.0.0.1051-ZH2",
             "size": 26.99,
             "execute_name": "PlantsVsZombies.exe",
@@ -257,7 +235,6 @@
         },
         {
             "name": "植物大战僵尸 v1.2.0.1065汉化版",
-            "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [
                 "   《植物大战僵尸》v1.2.0.1065汉化版（又称汉化第三版）于2010年3月由游侠网社区基于英文修复版1.2.0.1065制作。该版移植1.0.0.1051汉化第二版资源，实现全简体中文界面与译名，继承官方bug修复，无新内容、成就或Zombatar。"
             ],
@@ -266,7 +243,6 @@
                 "lijingjie"
             ],
             "icon": "origin",
-            "version_type": "zh_origin",
             "version": "1.2.0.1065-ZH",
             "size": 25.53,
             "execute_name": "PlantsVsZombies.exe",
@@ -278,7 +254,6 @@
         },
         {
             "name": "植物大战僵尸 植吧完美汉化版",
-            "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [
                 "   《植物大战僵尸》植吧完美汉化版（简称植吧年度版）由植物大战僵尸吧（植吧）社区制作，基于英文年度加强版1.2.0.1073（2010年7月）制作。该版全简体中文优化，继承1065修复（玉米投手双射、屋顶瞄准），新增成就、Zombatar、Disco舞王等年度内容，无广告、无崩溃，推荐避开“粘汗版”年度汉化bug。"
             ],
@@ -287,7 +262,6 @@
                 "植物大战僵尸吧 (百度贴吧)"
             ],
             "icon": "goty",
-            "version_type": "zh_origin",
             "version": "1.2.0.1073-ZH",
             "size": 61.83,
             "execute_name": "PlantsVsZombies.exe",
@@ -299,7 +273,6 @@
         },
         {
             "name": "植物大战僵尸 年度加强汉化版",
-            "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [
                 "   《植物大战僵尸》年度加强汉化版（简称年度加强版）基于英文GOTY版1.2.0.1073，由社区汉化优化。该版继承1065修复及年度新增（成就、Zombatar、Disco舞王），全简体中文，无广告崩溃。"
             ],
@@ -308,7 +281,6 @@
                 "民间汉化组"
             ],
             "icon": "goty",
-            "version_type": "zh_origin",
             "version": "1.2.0.1073-GOTY-Plus-ZH",
             "size": 49.76,
             "execute_name": "PlantsVsZombies.exe",
@@ -320,7 +292,6 @@
         },
         {
             "name": "祖玛 v1.3 豪华版",
-            "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [
                 "   《祖玛》是由Popcap Games开发的一款益智类系列游戏，发行于2003年，于2006年8月30日在PC平台发售。游戏以阿兹特克文明为背景，美术风格独特。",
                 "",
@@ -333,7 +304,6 @@
                 "PopCap"
             ],
             "icon": "origin",
-            "version_type": "zh_origin",
             "version": "Zuma Deluxe 1.3",
             "size": 14.7,
             "execute_name": "Zuma.exe",
@@ -347,7 +317,6 @@
     "zh_revision": [
         {
             "name": "植物大战僵尸 嫁接版",
-            "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [
                 "   《植物大战僵尸嫁接版》是一款以植物嫁接为核心玩法的创意塔防游戏。",
                 "",
@@ -367,7 +336,6 @@
                 "八雲桐(美术)"
             ],
             "icon": "graft",
-            "version_type": "zh_revision",
             "version": "Graft Edition 1.131",
             "size": 82.9,
             "execute_name": "植物大战僵尸嫁接版1.131电脑端.exe",
@@ -379,7 +347,6 @@
         },
         {
             "name": "植物大战僵尸 威化版",
-            "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [
                 "   《植物大战僵尸 威化版》是一款基于经典《植物大战僵尸》改编的同人塔防游戏，在保留原版核心玩法的基础上，加入了大量原创植物、僵尸和特色机制。游戏既延续了熟悉的策略体验，也带来了更多新鲜内容，让每一局战斗都充满变化与挑战。",
                 "",
@@ -392,7 +359,6 @@
                 "咸威化"
             ],
             "icon": "wafer",
-            "version_type": "zh_revision",
             "version": "Wafer Edition 0.4.6.1",
             "size": 32.2,
             "execute_name": "PlantsVsZombies.exe",
@@ -404,7 +370,6 @@
         },
         {
             "name": "植物大战僵尸 融合版",
-            "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [
                 "   植物大战僵尸融合版是由B站UP主蓝飘飘fly开发的同人塔防游戏，于2024年6月30日正式发布。它基于原版《植物大战僵尸》核心玩法，使用Unity引擎重制，最大创新在于引入“植物融合”系统，成为2024年最受好评的PvZ同人作品之一。",
                 "",
@@ -419,7 +384,6 @@
                 "机鱼吐司"
             ],
             "icon": "fe",
-            "version_type": "zh_revision",
             "version": "Fusion Edition 3.6.1",
             "size": 473.08,
             "execute_name": "PlantsVsZombiesRH.exe",
@@ -431,7 +395,6 @@
         },
         {
             "name": "植物大战僵尸 杂交版 (经典)",
-            "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [
                 "   植物大战僵尸杂交版是由B站UP主潜艇伟伟迷主导开发的一款同人塔防游戏，于2024年3月27日正式发布。它基于原版PopCap引擎制作，忠实保留经典塔防核心玩法，同时创新引入“植物杂交”系统，成为2024年备受老玩家推崇的经典改版代表作，并于同年6月19日正式入驻《植物大战僵尸》官方创意模式。",
                 "",
@@ -447,7 +410,6 @@
                 "一只吴铭仕哒"
             ],
             "icon": "he",
-            "version_type": "zh_revision",
             "version": "Hybridization Edition 3.16.1",
             "size": 0.0,
             "execute_name": null,
@@ -458,7 +420,6 @@
         },
         {
             "name": "植物大战僵尸 杂交版 (重置)",
-            "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [
                 "   植物大战僵尸杂交版（重置版）是由B站UP主潜艇伟伟迷主导开发的同人塔防重制游戏，于2025年正式发布并持续更新至今。它是原2024年杂交版的全面重制，采用现代化全新引擎重构底层代码，彻底解决原PopCap引擎闪退卡顿问题，成为优化后的经典杂交代表作。",
                 "",
@@ -474,7 +435,6 @@
                 "一只吴铭仕哒"
             ],
             "icon": "he",
-            "version_type": "zh_revision",
             "version": "Hybridization Edition-Remake 0.18.1",
             "size": 0.0,
             "execute_name": null,
@@ -485,7 +445,6 @@
         },
         {
             "name": "植物大战僵尸 β版",
-            "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [
                 "    植物大战僵尸β版是由国内玩家团队基于植物大战僵尸原版开发的改版，于2019年左右发布并持续更新。它保留了经典的塔防核心玩法，但通过大量数据重做和机制调整，形成了独特的改版风格。",
                 "",
@@ -503,7 +462,6 @@
                 "Hao_Ge278"
             ],
             "icon": "beta",
-            "version_type": "zh_revision",
             "version": "β 6.66-Test.36",
             "size": 30.1,
             "execute_name": "beta6.66TEST36点击即玩.exe",
@@ -515,7 +473,6 @@
         },
         {
             "name": "植物大战僵尸 无名版",
-            "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [
                 "   植物大战僵尸无名版是一款由国内玩家自制开发的经典魔改版本，早期于2013年前后发布并持续更新至今。它基于原版PopCap引擎制作，忠实保留经典塔防核心玩法，同时通过大幅数据加强与特性移植，成为PvZ魔改史上高难度挑战的代表作，常被B站“猪哥游戏解说”用于视频演示，故又称“猪哥同款”。",
                 "",
@@ -531,7 +488,6 @@
                 "小杰"
             ],
             "icon": "unnamed",
-            "version_type": "zh_revision",
             "version": "Unnamed 1.3-beta.3",
             "size": 158.0,
             "execute_name": "PlantsVsZombies.exe",
@@ -543,7 +499,6 @@
         },
         {
             "name": "植物大战僵尸 原？版",
-            "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [
                 "(暂无描述)"
             ],
@@ -552,7 +507,6 @@
                 "los gdi42"
             ],
             "icon": "random",
-            "version_type": "zh_revision",
             "version": "Original? Edition Final Version",
             "size": 27.73,
             "execute_name": "原？版End.exe",
@@ -564,7 +518,6 @@
         },
         {
             "name": "植物大战僵尸 屑版",
-            "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [
                 "   该版本对原作的植物与僵尸系统进行了全面调整，引入大量全新特性与机制。植物阵容获得显著强化，攻击力、技能效果及辅助能力大幅提升，使玩家在防守过程中更具掌控感和成就体验。",
                 "",
@@ -577,7 +530,6 @@
                 "未知"
             ],
             "icon": "origin",
-            "version_type": "zh_revision",
             "version": "Xie Edition Reset 1.24-test.11",
             "size": 27.51,
             "execute_name": "屑resetV1.24测试版11.exe",
@@ -589,7 +541,6 @@
         },
         {
             "name": "植物大战僵尸 随机版",
-            "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [
                 "   植物大战僵尸随机版（又称随机模仿者版或终极随机版）是由B站UP主叔丁基_锂独立制作的一款同人改版游戏，于2023年前后发布并持续更新。它基于原版PopCap引擎制作，忠实保留经典塔防核心玩法，同时通过极致随机机制，成为PvZ魔改中以“不确定性”为最大亮点的挑战代表作之一。",
                 "",
@@ -603,7 +554,6 @@
                 "D_2135"
             ],
             "icon": "random",
-            "version_type": "zh_revision",
             "version": "Random Ultimate Edition",
             "size": 54.4,
             "execute_name": "PlantsVsZombies.exe",
@@ -615,7 +565,6 @@
         },
         {
             "name": "植物大战僵尸 新指导版",
-            "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [
                 "   植物大战僵尸新指导版是由B站UP主头牛o独立开发的一款同人塔防游戏，于2025年前后发布并持续更新至今。它基于经典《植物大战僵尸》核心玩法制作，最大创新在于引入“牛头指导员”系统，成为2025-2026年以随机指导与干扰闻名的魔改代表作之一。",
                 "",
@@ -628,7 +577,6 @@
                 "头牛o"
             ],
             "icon": "guidance",
-            "version_type": "zh_revision",
             "version": "Guidance 0.37",
             "size": 108.0,
             "execute_name": "PvZ新指导.exe",
@@ -640,7 +588,6 @@
         },
         {
             "name": "植物大战僵尸 精华版",
-            "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [
                 "   植物大战僵尸精华版是由B站UP主“萌新迎风听雨”开发的同人塔防整合游戏，于2025年初正式发布并持续更新至今。它基于PvZ.net项目制作，以“集成官方各版本独占内容”为核心目标，成为2025-2026年最完整的多版本融合改版之一。",
                 "",
@@ -653,7 +600,6 @@
                 "萌新迎风听雨"
             ],
             "icon": "ultimate",
-            "version_type": "zh_revision",
             "version": "Ultimate 1.7.2",
             "size": 214.0,
             "execute_name": "Lawn_PCDX.exe",
@@ -665,7 +611,6 @@
         },
         {
             "name": "植物大战僵尸 Eagrace Max",
-            "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [
                 "   植物大战僵尸 Eagrace Max（又称E版支线）是由Henry-joestar（B&Eteam）独立开发的同人魔改版本，于2021年发布并持续更新至2024年。它基于原版PopCap引擎制作，定位为战争类高难度PVZ改版，成为硬核玩家推崇的极致挑战代表作之一。",
                 "",
@@ -678,7 +623,6 @@
                 "Henry-joestar"
             ],
             "icon": "eagrace",
-            "version_type": "zh_revision",
             "version": "Eagrace 1.9.7",
             "size": 62.6,
             "execute_name": "PlantsVsZombies.exe",
@@ -690,7 +634,6 @@
         },
         {
             "name": "植物大战僵尸 时空环游之旅",
-            "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [
                 "   植物大战僵尸时空环游之旅（简称TAT版）是由江南游戏社与玩窝头网络工作室联合开发的一款同人塔防改版游戏，于2020年5月16日正式发布并持续更新至今（最新至v4.0系列）。它基于原版PopCap引擎制作，却采用PvZ2画风与全新剧情，成为PvZ魔改中以“时空穿越”主题闻名的优质作品之一。",
                 "",
@@ -704,7 +647,6 @@
                 "玩窝头网络工作室"
             ],
             "icon": "tat",
-            "version_type": "zh_revision",
             "version": "TAT 3.9.9",
             "size": 352.92,
             "execute_name": "PlantsVSZombies.exe",
@@ -716,7 +658,6 @@
         },
         {
             "name": "植物大战僵尸 95版",
-            "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [
                 "   植物大战僵尸95版（全称植物大战僵尸加强版第95版本）是由贴吧吧友冥谷川恋（B站早期UP主，账号因负面新闻已清空）独立制作的一款经典魔改版本，于2017年至2019年间发布。它基于原版PopCap引擎制作，是PvZ魔改史上最早的实质性加强版之一，成为老玩家从原版过渡到高难度改版的入门代表作，常因读报僵尸被戏称为“二爷版”。",
                 "",
@@ -729,7 +670,6 @@
                 "冥谷川恋"
             ],
             "icon": "ninefive",
-            "version_type": "zh_revision",
             "version": "Version 95",
             "size": 27.36,
             "execute_name": "PlantsVsZombies.exe",
@@ -741,7 +681,6 @@
         },
         {
             "name": "胆小菇之梦",
-            "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [
                 "   植物大战僵尸胆小菇之梦是由B站UP主北窗遥望个人开发的一款同人魔改版本，于2024年初以自制关卡形式发布并持续更新至今。它基于原版PopCap引擎制作，围绕“胆小菇的梦境”主题展开，成为B站热门自制关卡与魔改代表作之一。",
                 "",
@@ -753,7 +692,6 @@
                 "北窗遥望"
             ],
             "icon": "dream",
-            "version_type": "zh_revision",
             "version": "Scaredy-Shroom's Dream 0.2.2",
             "size": 27.2,
             "execute_name": "胆小菇之梦启动器.exe",
@@ -765,7 +703,6 @@
         },
         {
             "name": "植物大战僵尸 GhTr版",
-            "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [
                 "   植物大战僵尸GhTr版，即《植物大战僵尸：远征》，是由GHTR绮想馆独立开发的同人塔防作品。它以经典原作为基础，却讲述了全新的冒险故事：植物们在击退僵尸入侵后，收到指向敌方巢穴的神秘信件，由此踏上从防御转向主动远征的征程。这种叙事驱动的设计，让游戏充满沉浸感和探索张力。",
                 "",
@@ -778,7 +715,6 @@
                 "Ghastasaucey"
             ],
             "icon": "ghtr",
-            "version_type": "zh_revision",
             "version": "GhTr ~ Perfect Voyage 0.17m-Fixed.1",
             "size": 138.77,
             "execute_name": "PlantsVsZombies.exe",
@@ -792,14 +728,12 @@
     "trainer": [
         {
             "name": "Pvz Toolkit",
-            "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [],
             "screenshot": 5,
             "author": [
                 "Lmintlcx"
             ],
             "icon": "pvztoolkit",
-            "version_type": "trainer",
             "version": "PvzToolkit 1.22.0",
             "support_version": "全版本",
             "size": 0.56,
@@ -812,14 +746,12 @@
         },
         {
             "name": "融合版修改器",
-            "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [],
             "screenshot": 6,
             "author": [
                 "高数带我飞"
             ],
             "icon": "fe",
-            "version_type": "trainer",
             "version": "Fusion trainer 2.1.9",
             "support_version": "Fusion Edition 3.6 (.1)",
             "size": 5.46,
@@ -832,14 +764,12 @@
         },
         {
             "name": "植物大战僵尸终极修改器",
-            "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [],
             "screenshot": 6,
             "author": [
                 "未知"
             ],
             "icon": "origin",
-            "version_type": "trainer",
             "version": "Ultimate Pvz trainer",
             "support_version": "全版本",
             "size": 2.85,
@@ -852,14 +782,12 @@
         },
         {
             "name": "血量显示器",
-            "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [],
             "screenshot": 1,
             "author": [
                 "未知"
             ],
             "icon": "origin",
-            "version_type": "trainer",
             "version": "血量显示器 1.0.0.0",
             "support_version": "1.0.0.1051 ~ 1.2.0.1065",
             "size": 19.95,
@@ -872,14 +800,12 @@
         },
         {
             "name": "Cheat Engine",
-            "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [],
             "screenshot": 1,
             "author": [
                 "Eric Heijnen (Dark Byte)"
             ],
             "icon": "ce",
-            "version_type": "trainer",
             "version": "Cheat engine 7.6",
             "support_version": "全版本",
             "size": 34.8,
@@ -892,14 +818,12 @@
         },
         {
             "name": "随机数修改器",
-            "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [],
             "screenshot": 3,
             "author": [
                 "未知"
             ],
             "icon": "origin",
-            "version_type": "trainer",
             "version": "Random trainer 3.2",
             "support_version": "1.0.0.1051 ~ 1.2.0.1065",
             "size": 11.49,
@@ -912,14 +836,12 @@
         },
         {
             "name": "Pvz Toolkit 英文版",
-            "description": "启动器版本过低，请更新至最新版本",
             "descriptions": [],
             "screenshot": 5,
             "author": [
                 "Lmintlcx"
             ],
             "icon": "pvztoolkit",
-            "version_type": "trainer",
             "version": "PvzToolkit-EN 1.22.0",
             "support_version": "全版本",
             "size": 0.55,

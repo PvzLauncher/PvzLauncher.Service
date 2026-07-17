@@ -1,13 +1,10 @@
 {
     "notices": [
         {
-            "title": "2025.7.16 - 游戏库更新",
+            "title": "2026.7.17 - 游戏库更新",
             "contents": [
-                "添加游戏:",
-                "  植物大战僵尸2 无尽花园",
-                "",
-                "",
-                "注意: 必须更新到最新测试版才可以看到游戏图标！"
+                "添加以下改版:",
+                "  植物大战僵尸 Extra"
             ],
             "primary-button": "查看",
             "secondary-button": null,
@@ -18,26 +15,6 @@
                 }
             ],
             "secondary-actions": []
-        },
-        {
-            "title": "2026.7.16 - 关于云服务清理的告知",
-            "contents": [
-                "    我们已经清理了云服务弃用键值，如果您当前不是最新版本，请立即更新至启动器最新版本以保证启动器可用！"
-            ],
-            "primary-button": "跳转关于页检查更新",
-            "secondary-button": "手动下载最新版",
-            "primary-actions": [
-                {
-                    "type": "to-page",
-                    "url": "About"
-                }
-            ],
-            "secondary-actions": [
-                {
-                    "type": "to-url",
-                    "url": "https://github.com/PvzLauncher/PvzLauncher/releases/tag/1.5.4"
-                }
-            ]
         }
     ]
 }

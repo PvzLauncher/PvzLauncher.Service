@@ -1,10 +1,9 @@
 {
     "notices": [
         {
-            "title": "2026.7.17 - 游戏库更新",
+            "title": "2026.7.23 - 游戏库更新",
             "contents": [
-                "添加以下改版:",
-                "  植物大战僵尸 Extra"
+                "添加修改器 Pvz Tools"
             ],
             "primary-button": "查看",
             "secondary-button": null,

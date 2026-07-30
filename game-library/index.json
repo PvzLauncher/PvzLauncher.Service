@@ -340,7 +340,8 @@
             "is_recommend": false,
             "is_new": true,
             "share_url": "https://pan.huang1111.cn/s/VLvOkUd",
-            "share_password": null
+            "share_password": null,
+            "link_url": "https://space.bilibili.com/1230432752/dynamic"
         },
         {
             "name": "植物大战僵尸 融合版",
@@ -364,7 +365,8 @@
             "is_recommend": true,
             "is_new": false,
             "share_url": "https://pan.huang1111.cn/s/byLdzIY",
-            "share_password": null
+            "share_password": null,
+            "link_url": "https://space.bilibili.com/3546619314178489/dynamic"
         },
         {
             "name": "植物大战僵尸 杂交版 (经典)",
@@ -383,13 +385,13 @@
                 "一只吴铭仕哒"
             ],
             "icon": "he",
-            "version": "Hybridization Edition 3.16.1",
+            "version": "Hybridization Edition",
             "size": 0.0,
             "execute_name": null,
             "is_recommend": true,
             "is_new": false,
             "url": null,
-            "link_url": "https://pan.quark.cn/s/34858c66234e"
+            "link_url": "https://space.bilibili.com/97213827/dynamic"
         },
         {
             "name": "植物大战僵尸 β版",
@@ -416,7 +418,8 @@
             "is_recommend": true,
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/iB8BB3uejkna",
-            "share_password": "c956"
+            "share_password": "c956",
+            "link_url": "https://pvz-beta.site"
         },
         {
             "name": "植物大战僵尸2 无尽花园",
@@ -458,13 +461,13 @@
                 "一只吴铭仕哒"
             ],
             "icon": "he",
-            "version": "Hybridization Edition-Remake 0.18.1",
+            "version": "Hybridization Edition-Remake",
             "size": 0.0,
             "execute_name": null,
             "is_recommend": false,
             "is_new": false,
             "url": null,
-            "link_url": "https://pan.quark.cn/s/7f112d09669a"
+            "link_url": "https://space.bilibili.com/97213827/dynamic"
         },
         {
             "name": "植物大战僵尸 嫁接版",
@@ -477,7 +480,7 @@
             ],
             "screenshot": 6,
             "author": [
-                "通话小责(程序策划)",
+                "童话小责(程序策划)",
                 "叶工好学(美术)",
                 "黯月(美术策划)",
                 "架空白音(美术)",
@@ -493,7 +496,8 @@
             "is_recommend": false,
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/iIPii3vuob9e",
-            "share_password": "gb87"
+            "share_password": "gb87",
+            "link_url": "https://space.bilibili.com/124524440/dynamic"
         },
         {
             "name": "植物大战僵尸 威化版",
@@ -515,7 +519,8 @@
             "is_recommend": false,
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/i2gPx3vutv9e",
-            "share_password": "4d6j"
+            "share_password": "4d6j",
+            "link_url": "https://space.bilibili.com/1369831472/dynamic"
         },
         {
             "name": "植物大战僵尸 无名版",
@@ -625,7 +630,8 @@
             "is_recommend": false,
             "is_new": false,
             "share_url": "https://pan.huang1111.cn/s/Wz4q1H3",
-            "share_password": null
+            "share_password": null,
+            "link_url": "https://space.bilibili.com/3546562489748303/dynamic"
         },
         {
             "name": "植物大战僵尸 精华版",
@@ -647,7 +653,8 @@
             "is_recommend": false,
             "is_new": false,
             "share_url": "https://pan.huang1111.cn/s/mxgV8C1",
-            "share_password": null
+            "share_password": null,
+            "link_url": "https://space.bilibili.com/411256864/dynamic"
         },
         {
             "name": "植物大战僵尸 Eagrace Max",
@@ -735,7 +742,8 @@
             "is_recommend": false,
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/iOgML3cp6rod",
-            "share_password": "ak2n"
+            "share_password": "ak2n",
+            "link_url": "https://space.bilibili.com/484494032"
         },
         {
             "name": "植物大战僵尸 GhTr版",

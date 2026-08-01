@@ -323,25 +323,23 @@
     ],
     "zh_revision": [
         {
-            "name": "植物大战僵尸 生态版",
+            "name": "植物大战僵尸 Universe",
             "descriptions": [
-                "   整个游戏由作者一个人耗时三个月从零制作，原版全部植物以及僵尸均制作完毕，非改版。三个新植物美术资源均由作者绘制，后续会持续更新全新植物僵尸，以及新机制。更新一段时间后会发布免费游戏下载。",
-                "",
-                "   新机制-多人联机，目前支持合作模式任何关卡1-4人一起玩，卡槽数多人平分，多余的给房主，目前只有不可重复选卡的合作模式，多地图关卡，任何玩家都可以随意察看每个地图，左边玩家列表会显示该玩家所在地图，玩家右边方块点，黄色表示房主，绿色表示选卡完成并准备。阳光共享，场上的阳光每个玩家都可以去收集，总数不变。"
+                "   PVZUniverse是一款制作非常精良的同人游戏，作为从0开始的作品能够达到今天的质量真的令人惊喜，在所有改版/同人作品中都能排到超大杯中起步，由于关卡设计略显平庸导致有些减分，但无伤大雅，游戏的美术、植物与僵尸的创意和平衡性均非常优秀。"
             ],
-            "screenshot": 5,
+            "screenshot": 4,
             "author": [
-                "无脸的程序"
+                "尤尼维斯工作室"
             ],
-            "icon": "ecology",
-            "version": "Ecology Edition 0.7.1",
-            "size": 112.39,
-            "execute_name": "植物大战僵尸生态版.exe",
+            "icon": "universe",
+            "version": "Universe Edition 1.1.0.1",
+            "size": 1263.99,
+            "execute_name": "PVZUniverse2.exe",
             "is_recommend": false,
             "is_new": true,
-            "share_url": "https://pan.huang1111.cn/s/VLvOkUd",
+            "share_url": "https://pan.huang1111.cn/s/YLAkQhA",
             "share_password": null,
-            "link_url": "https://space.bilibili.com/1230432752/dynamic"
+            "link_url": "https://space.bilibili.com/356608228/dynamic"
         },
         {
             "name": "植物大战僵尸 融合版",
@@ -420,6 +418,27 @@
             "share_url": "https://hhzyx.lanzouv.com/iB8BB3uejkna",
             "share_password": "c956",
             "link_url": "https://pvz-beta.site"
+        },
+        {
+            "name": "植物大战僵尸 生态版",
+            "descriptions": [
+                "   整个游戏由作者一个人耗时三个月从零制作，原版全部植物以及僵尸均制作完毕，非改版。三个新植物美术资源均由作者绘制，后续会持续更新全新植物僵尸，以及新机制。更新一段时间后会发布免费游戏下载。",
+                "",
+                "   新机制-多人联机，目前支持合作模式任何关卡1-4人一起玩，卡槽数多人平分，多余的给房主，目前只有不可重复选卡的合作模式，多地图关卡，任何玩家都可以随意察看每个地图，左边玩家列表会显示该玩家所在地图，玩家右边方块点，黄色表示房主，绿色表示选卡完成并准备。阳光共享，场上的阳光每个玩家都可以去收集，总数不变。"
+            ],
+            "screenshot": 5,
+            "author": [
+                "无脸的程序"
+            ],
+            "icon": "ecology",
+            "version": "Ecology Edition 0.7.1",
+            "size": 112.39,
+            "execute_name": "植物大战僵尸生态版.exe",
+            "is_recommend": false,
+            "is_new": false,
+            "share_url": "https://pan.huang1111.cn/s/VLvOkUd",
+            "share_password": null,
+            "link_url": "https://space.bilibili.com/1230432752/dynamic"
         },
         {
             "name": "植物大战僵尸2 无尽花园",

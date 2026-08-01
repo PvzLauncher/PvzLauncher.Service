@@ -1,29 +1,10 @@
 {
     "notices": [
         {
-            "title": "2026.7.30 - 游戏库更新",
+            "title": "2026.8.1 - 游戏库更新",
             "contents": [
-                "添加游戏 \"植物大战僵尸 生态版\"",
-                "",
-                "补齐了各大改版的官方网址"
-            ],
-            "primary-button": "查看",
-            "secondary-button": null,
-            "primary-actions": [
-                {
-                    "type": "to-page",
-                    "url": "Download"
-                }
-            ],
-            "secondary-actions": []
-        },
-        {
-            "title": "2026.7.29 - 游戏库更新",
-            "contents": [
-                "整合 \"植物大战僵尸 汉化第一版\" 游戏文件并重新上传",
-                "整合 \"植物大战僵尸 汉化第二版\" 游戏文件并重新上传",
-                "整合 \"植物大战僵尸 v1.2.0.1065汉化版\" 游戏文件并重新上传",
-                "替换来自jspvz.com的 完整版 \"植物大战僵尸 年度加强汉化版\" (带有Flash工程文件)"
+                "添加游戏 \"植物大战僵尸 Universe\"",
+                "添加游戏 \"植物大战僵尸 疯狂的多元宇宙\""
             ],
             "primary-button": "查看",
             "secondary-button": null,

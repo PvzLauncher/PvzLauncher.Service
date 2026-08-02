@@ -1,6 +1,14 @@
 ## 更新
 
-* **游戏库**:
-  * 添加游戏 `植物大战僵尸 Universe` [#217](https://github.com/PvzLauncher/PvzLauncher/issues/217)
-  * 添加游戏 `植物大战僵尸 疯狂的多元宇宙` [#219](https://github.com/PvzLauncher/PvzLauncher/issues/219)
-* **下载**: 下载游戏时如果游戏较大 *(≥500MB)* ，则会建议手动下载
+* **游戏管理**: 添加收藏功能，收藏的游戏会被标记并置顶 [#227](https://github.com/PvzLauncher/PvzLauncher/issues/227)
+* **彩蛋**: 愚人节会切换主题色为绿色
+
+## 更改
+
+* **关于**: 调整 `赞助` 为 `支持开发者`
+* **杂项**: 下载缓存文件名改为Guid生成，而非之前的随机数生成
+* **图标**: 微调香蒲的右眼
+
+## 优化
+
+* **游戏**: 结束游戏后不会显示退出代码，而是显示此次游玩时间

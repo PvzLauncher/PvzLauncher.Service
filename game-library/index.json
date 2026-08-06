@@ -323,6 +323,25 @@
     ],
     "zh_revision": [
         {
+            "name": "植物大战僵尸 Rouge版",
+            "descriptions": [
+                ""
+            ],
+            "screenshot": 4,
+            "author": [
+                "一坨馬"
+            ],
+            "icon": "rouge",
+            "version": "Rouge Edition 1.5.0",
+            "size": 81.2,
+            "execute_name": "PVZ-Rouge.exe",
+            "is_recommend": false,
+            "is_new": true,
+            "share_url": "https://hhzyx.lanzouv.com/itul340tlc6d",
+            "share_password": "45g0",
+            "link_url": "https://www.bilibili.com/video/BV1vZ421y7h2"
+        },
+        {
             "name": "植物大战僵尸 大哥版",
             "descriptions": [
                 ""

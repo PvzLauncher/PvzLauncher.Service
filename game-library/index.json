@@ -323,6 +323,26 @@
     ],
     "zh_revision": [
         {
+            "name": "植物大战僵尸 Legend",
+            "descriptions": [
+                ""
+            ],
+            "screenshot": 5,
+            "author": [
+                "宅宅萝卜",
+                "d白了个白b"
+            ],
+            "icon": "radish",
+            "version": "Legend Edition 2.731",
+            "size": 42.9,
+            "execute_name": "Plants vs. Zombies Legend.exe",
+            "is_recommend": false,
+            "is_new": true,
+            "share_url": "https://hhzyx.lanzouv.com/iS0oE40tq35i",
+            "share_password": "d2rs",
+            "link_url": "https://space.bilibili.com/38078309/dynamic"
+        },
+        {
             "name": "植物大战僵尸 Rouge版",
             "descriptions": [
                 ""

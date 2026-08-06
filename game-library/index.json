@@ -323,6 +323,25 @@
     ],
     "zh_revision": [
         {
+            "name": "植物大战僵尸 BT版",
+            "descriptions": [
+                ""
+            ],
+            "screenshot": 4,
+            "author": [
+                "宅宅萝卜"
+            ],
+            "icon": "radish",
+            "version": "Beautiful Town 0.59.06",
+            "size": 47.08,
+            "execute_name": "PVZ_BT.exe",
+            "is_recommend": false,
+            "is_new": true,
+            "share_url": "https://hhzyx.lanzouv.com/irYiG40vvj1c",
+            "share_password": "9odi",
+            "link_url": "https://space.bilibili.com/38078309/dynamic"
+        },
+        {
             "name": "植物娘大战僵尸",
             "descriptions": [
                 ""

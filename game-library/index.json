@@ -323,6 +323,27 @@
     ],
     "zh_revision": [
         {
+            "name": "植物大战僵尸 塔防路线地图版",
+            "descriptions": [
+                ""
+            ],
+            "screenshot": 2,
+            "author": [
+                "潜艇伟伟迷",
+                "神奇的披萨",
+                "小小咩MS"
+            ],
+            "icon": "origin",
+            "version": "TD Edition",
+            "size": 29.35,
+            "execute_name": "PlantsVsZombies.exe",
+            "is_recommend": false,
+            "is_new": true,
+            "share_url": "https://hhzyx.lanzouv.com/iWAyo40tgsjc",
+            "share_password": "hqb8",
+            "link_url": "https://www.bilibili.com/video/BV12d4y1V76g"
+        },
+        {
             "name": "植物大战僵尸 基岩版",
             "descriptions": [
                 ""

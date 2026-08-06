@@ -1,8 +1,8 @@
 ## 更新
 
-* **任务页**: **重构**任务页。现在任务完成**不会直接消失**，而是添加进下方的完成列表，并且可以**直接启动该游戏** *`(类 Steam 的任务页面)`*
-
-## 更改
-
-* **依赖库**: 移除对 `HuaZi.Library` 的依赖
-* **本地化**: 修改文本 `保留所有权益` 为更加准确的 `保留所有权利`
+* **游戏库**:
+  + 添加游戏 `植物大战僵尸 基岩版` [#220](https://github.com/PvzLauncher/PvzLauncher/issues/220)
+  + 添加游戏 `植物大战僵尸 塔防路线地图版` [#223](https://github.com/PvzLauncher/PvzLauncher/issues/223)
+  + 添加游戏 `植物大战僵尸 大哥版` [#230](https://github.com/PvzLauncher/PvzLauncher/issues/230)
+  + 添加游戏 `植物大战僵尸 Rouge版` [#232](https://github.com/PvzLauncher/PvzLauncher/issues/232)
+  + 添加游戏 `植物大战僵尸 Legend` [#233](https://github.com/PvzLauncher/PvzLauncher/issues/233)

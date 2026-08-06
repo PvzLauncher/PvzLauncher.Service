@@ -323,6 +323,25 @@
     ],
     "zh_revision": [
         {
+            "name": "植物娘大战僵尸",
+            "descriptions": [
+                ""
+            ],
+            "screenshot": 5,
+            "author": [
+                "庄不纯"
+            ],
+            "icon": "origin",
+            "version": "Plants Girls Vs. Zombies 1.2.3",
+            "size": 779.63,
+            "execute_name": "Lawn.exe",
+            "is_recommend": false,
+            "is_new": true,
+            "share_url": "https://pan.huang1111.cn/s/xbk56cV",
+            "share_password": null,
+            "link_url": "https://space.bilibili.com/3493090151107069/dynamic"
+        },
+        {
             "name": "植物大战僵尸 Legend",
             "descriptions": [
                 ""

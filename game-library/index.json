@@ -323,6 +323,25 @@
     ],
     "zh_revision": [
         {
+            "name": "植物大战僵尸 大哥版",
+            "descriptions": [
+                ""
+            ],
+            "screenshot": 1,
+            "author": [
+                "b站南瓜酱"
+            ],
+            "icon": "origin",
+            "version": "Brother Edition",
+            "size": 42.4,
+            "execute_name": "PlantsVsZombies.exe",
+            "is_recommend": false,
+            "is_new": true,
+            "share_url": "https://hhzyx.lanzouv.com/iFdwD40tjr9e",
+            "share_password": "gnb6",
+            "link_url": "https://www.bilibili.com/opus/1223035149219790897"
+        },
+        {
             "name": "植物大战僵尸 塔防路线地图版",
             "descriptions": [
                 ""
@@ -341,7 +360,7 @@
             "is_new": true,
             "share_url": "https://hhzyx.lanzouv.com/iWAyo40tgsjc",
             "share_password": "hqb8",
-            "link_url": "https://www.bilibili.com/video/BV12d4y1V76g"
+            "link_url": null
         },
         {
             "name": "植物大战僵尸 基岩版",

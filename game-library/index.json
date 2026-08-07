@@ -323,6 +323,25 @@
     ],
     "zh_revision": [
         {
+            "name": "植物大战僵尸 鉴版",
+            "descriptions": [
+                ""
+            ],
+            "screenshot": 0,
+            "author": [
+                "未知"
+            ],
+            "icon": "radish",
+            "version": "Jian Edition 0.710",
+            "size": 35.88,
+            "execute_name": "鉴版V0.710(7-10前特性完成）(疯狂模式-畸变）.exe",
+            "is_recommend": false,
+            "is_new": true,
+            "share_url": "https://hhzyx.lanzouv.com/iobtY40zfnxg",
+            "share_password": "25g3",
+            "link_url": null
+        },
+        {
             "name": "植物大战僵尸 BT版",
             "descriptions": [
                 ""

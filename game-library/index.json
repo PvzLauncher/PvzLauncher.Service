@@ -323,6 +323,25 @@
     ],
     "zh_revision": [
         {
+            "name": "植物大战僵尸 抽卡版",
+            "descriptions": [
+                ""
+            ],
+            "screenshot": 5,
+            "author": [
+                "喵喵喵豆子"
+            ],
+            "icon": "card",
+            "version": "Card Edition 0.710",
+            "size": 127.35,
+            "execute_name": "抽卡版PVZ.exe",
+            "is_recommend": false,
+            "is_new": true,
+            "share_url": "https://pan.huang1111.cn/s/8QL3XtQ",
+            "share_password": null,
+            "link_url": "https://space.bilibili.com/167141989/dynamic"
+        },
+        {
             "name": "植物大战僵尸 鉴版",
             "descriptions": [
                 ""
@@ -331,7 +350,7 @@
             "author": [
                 "未知"
             ],
-            "icon": "radish",
+            "icon": "origin",
             "version": "Jian Edition 0.710",
             "size": 35.88,
             "execute_name": "鉴版V0.710(7-10前特性完成）(疯狂模式-畸变）.exe",

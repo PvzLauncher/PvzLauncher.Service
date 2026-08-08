@@ -323,6 +323,25 @@
     ],
     "zh_revision": [
         {
+            "name": "植物大战僵尸 二战版",
+            "descriptions": [
+                ""
+            ],
+            "screenshot": 2,
+            "author": [
+                "b站南瓜酱"
+            ],
+            "icon": "origin",
+            "version": "World War II Edition 1.31",
+            "size": 452.59,
+            "execute_name": "公测三版启动器.exe",
+            "is_recommend": false,
+            "is_new": true,
+            "share_url": "https://pan.huang1111.cn/s/RYB3ZSB",
+            "share_password": null,
+            "link_url": "https://space.bilibili.com/180277591/dynamic"
+        },
+        {
             "name": "MC大战僵尸2",
             "descriptions": [
                 "   MC大战僵尸（Minecraft VS Zombies 2，简称MVZ2）是一款由作者Cuerzor一人所制作的一款《Minecraft》、《植物大战僵尸》和《东方Project》系列的同人游戏。",

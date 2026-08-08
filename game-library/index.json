@@ -323,6 +323,25 @@
     ],
     "zh_revision": [
         {
+            "name": "戴夫大战僵尸 经典版",
+            "descriptions": [
+                ""
+            ],
+            "screenshot": 7,
+            "author": [
+                "m木糖m"
+            ],
+            "icon": "dave",
+            "version": "Dave Rush 0.2",
+            "size": 36.71,
+            "execute_name": "DaifuRushByMutangM.exe",
+            "is_recommend": false,
+            "is_new": true,
+            "share_url": "https://hhzyx.lanzouv.com/ivkMP40zofhg",
+            "share_password": "eksg",
+            "link_url": "https://space.bilibili.com/33824345"
+        },
+        {
             "name": "戴夫大战僵尸",
             "descriptions": [
                 ""

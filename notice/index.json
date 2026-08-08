@@ -1,46 +1,9 @@
 {
     "notices": [
         {
-            "title": "2026.8.7 - 游戏库更新",
+            "title": "2026.8.8 - 游戏库更新",
             "contents": [
-                "添加游戏 \"植物大战僵尸 鉴版\"",
-                "添加游戏 \"植物大战僵尸 抽卡版\"",
-                "添加游戏 \"戴夫大战僵尸\""
-            ],
-            "primary-button": "查看",
-            "secondary-button": null,
-            "primary-actions": [
-                {
-                    "type": "to-page",
-                    "url": "Download"
-                }
-            ],
-            "secondary-actions": []
-        },
-        {
-            "title": "2026.8.6 - 游戏库更新2",
-            "contents": [
-                "添加游戏 \"植物娘大战僵尸\"",
-                "添加游戏 \"植物大战僵尸 BT版\""
-            ],
-            "primary-button": "查看",
-            "secondary-button": null,
-            "primary-actions": [
-                {
-                    "type": "to-page",
-                    "url": "Download"
-                }
-            ],
-            "secondary-actions": []
-        },
-        {
-            "title": "2026.8.6 - 游戏库更新",
-            "contents": [
-                "添加游戏 \"植物大战僵尸 基岩版\"",
-                "添加游戏 \"植物大战僵尸 塔防路线地图版\"",
-                "添加游戏 \"植物大战僵尸 大哥版\"",
-                "添加游戏 \"植物大战僵尸 Rouge版\"",
-                "添加游戏 \"植物大战僵尸 Legend\""
+                "添加游戏 \"戴夫大战僵尸 经典版\""
             ],
             "primary-button": "查看",
             "secondary-button": null,

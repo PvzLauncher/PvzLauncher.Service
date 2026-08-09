@@ -341,7 +341,7 @@
             "share_password": null,
             "link_urls": {
                 "Bilibili": "https://space.bilibili.com/66804103",
-                "Steam": "https://s.team"
+                "Steam": "https://store.steampowered.com/app/2690970"
             }
         },
         {
@@ -362,7 +362,7 @@
             "share_url": "https://pan.huang1111.cn/s/RYB3ZSB",
             "share_password": null,
             "link_urls": {
-                "Bilibili": "https://space.bilibili.com/180277591/dynamic"
+                "Bilibili": "https://space.bilibili.com/180277591"
             }
         },
         {
@@ -435,7 +435,7 @@
             "share_url": "https://pan.huang1111.cn/s/DVxeyI4",
             "share_password": null,
             "link_urls": {
-                "Bilibili": "https://space.bilibili.com/3546619314178489/dynamic"
+                "Bilibili": "https://space.bilibili.com/3546619314178489"
             }
         },
         {
@@ -462,7 +462,7 @@
             "is_new": false,
             "url": null,
             "link_urls": {
-                "Bilibili": "https://space.bilibili.com/97213827/dynamic"
+                "Bilibili": "https://space.bilibili.com/97213827"
             }
         },
         {
@@ -489,7 +489,7 @@
             "is_new": false,
             "url": null,
             "link_urls": {
-                "Bilibili": "https://space.bilibili.com/97213827/dynamic"
+                "Bilibili": "https://space.bilibili.com/97213827"
             }
         },
         {
@@ -519,6 +519,7 @@
             "share_url": "https://hhzyx.lanzouv.com/iB8BB3uejkna",
             "share_password": "c956",
             "link_urls": {
+                "Bilibili": "https://space.bilibili.com/12952765",
                 "官方网站": "https://pvz-beta.site"
             }
         },
@@ -601,7 +602,7 @@
             "share_url": "https://pan.huang1111.cn/s/8QL3XtQ",
             "share_password": null,
             "link_urls": {
-                "Bilibili": "https://space.bilibili.com/167141989/dynamic"
+                "Bilibili": "https://space.bilibili.com/167141989"
             }
         },
         {
@@ -622,7 +623,7 @@
             "share_url": "https://hhzyx.lanzouv.com/i0FQn41995xc",
             "share_password": "grff",
             "link_urls": {
-                "Bilibili": "https://space.bilibili.com/38078309/dynamic"
+                "Bilibili": "https://space.bilibili.com/38078309"
             }
         },
         {
@@ -644,7 +645,7 @@
             "share_url": "https://hhzyx.lanzouv.com/iS0oE40tq35i",
             "share_password": "d2rs",
             "link_urls": {
-                "Bilibili": "https://space.bilibili.com/38078309/dynamic"
+                "Bilibili": "https://space.bilibili.com/38078309"
             }
         },
         {
@@ -665,7 +666,7 @@
             "share_url": "https://pan.huang1111.cn/s/xbk56cV",
             "share_password": null,
             "link_urls": {
-                "Bilibili": "https://space.bilibili.com/3493090151107069/dynamic"
+                "Bilibili": "https://space.bilibili.com/3493090151107069"
             }
         },
         {
@@ -686,7 +687,7 @@
             "share_url": "https://hhzyx.lanzouv.com/itul340tlc6d",
             "share_password": "45g0",
             "link_urls": {
-                "Bilibili": "https://www.bilibili.com/video/BV1vZ421y7h2"
+                "宣传视频": "https://www.bilibili.com/video/BV1vZ421y7h2"
             }
         },
         {
@@ -707,7 +708,7 @@
             "share_url": "https://pan.huang1111.cn/s/xbQ1qtV",
             "share_password": null,
             "link_urls": {
-                "Bilibili": "https://space.bilibili.com/1842904392/dynamic"
+                "Bilibili": "https://space.bilibili.com/1842904392"
             }
         },
         {
@@ -728,7 +729,7 @@
             "share_url": "https://pan.huang1111.cn/s/YLAkQhA",
             "share_password": null,
             "link_urls": {
-                "Bilibili": "https://space.bilibili.com/356608228/dynamic"
+                "Bilibili": "https://space.bilibili.com/356608228"
             }
         },
         {
@@ -751,7 +752,7 @@
             "share_url": "https://pan.huang1111.cn/s/VLvOkUd",
             "share_password": null,
             "link_urls": {
-                "Bilibili": "https://space.bilibili.com/1230432752/dynamic"
+                "Bilibili": "https://space.bilibili.com/1230432752"
             }
         },
         {
@@ -776,7 +777,7 @@
             "share_url": "https://pan.huang1111.cn/s/DVYb5f4",
             "share_password": null,
             "link_urls": {
-                "官方网站": "https://pvzge.com/"
+                "官方网站": "https://pvzge.com"
             }
         },
         {
@@ -808,7 +809,7 @@
             "share_url": "https://hhzyx.lanzouv.com/iIPii3vuob9e",
             "share_password": "gb87",
             "link_urls": {
-                "Bilibili": "https://space.bilibili.com/124524440/dynamic"
+                "Bilibili": "https://space.bilibili.com/124524440"
             }
         },
         {
@@ -833,7 +834,7 @@
             "share_url": "https://hhzyx.lanzouv.com/i2gPx3vutv9e",
             "share_password": "4d6j",
             "link_urls": {
-                "Bilibili": "https://space.bilibili.com/1369831472/dynamic"
+                "Bilibili": "https://space.bilibili.com/1369831472"
             }
         },
         {
@@ -950,7 +951,7 @@
             "share_url": "https://pan.huang1111.cn/s/Wz4q1H3",
             "share_password": null,
             "link_urls": {
-                "Bilibili": "https://space.bilibili.com/3546562489748303/dynamic"
+                "Bilibili": "https://space.bilibili.com/3546562489748303"
             }
         },
         {
@@ -975,7 +976,7 @@
             "share_url": "https://pan.huang1111.cn/s/mxgV8C1",
             "share_password": null,
             "link_urls": {
-                "Bilibili": "https://space.bilibili.com/411256864/dynamic"
+                "Bilibili": "https://space.bilibili.com/411256864"
             }
         },
         {
@@ -1086,7 +1087,7 @@
             "share_url": "https://pan.huang1111.cn/s/VLbRGfd",
             "share_password": null,
             "link_urls": {
-                "Bilibili": "https://space.bilibili.com/675272258/dynamic"
+                "Bilibili": "https://space.bilibili.com/675272258"
             }
         },
         {

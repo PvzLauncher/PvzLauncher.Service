@@ -323,6 +323,25 @@
     ],
     "zh_revision": [
         {
+            "name": "垃圾桶军团 (星铁版)",
+            "descriptions": [
+                ""
+            ],
+            "screenshot": 5,
+            "author": [
+                "房子猫猫"
+            ],
+            "icon": "trashcan",
+            "version": "Trash can army 2.5",
+            "size": 230.61,
+            "execute_name": "Trash can army.exe",
+            "is_recommend": false,
+            "is_new": true,
+            "share_url": "https://pan.huang1111.cn/s/8QLGxcQ",
+            "share_password": null,
+            "link_url": "https://space.bilibili.com/66804103"
+        },
+        {
             "name": "植物大战僵尸 二战版",
             "descriptions": [
                 ""

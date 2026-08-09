@@ -399,12 +399,12 @@
                 "机鱼吐司"
             ],
             "icon": "fe",
-            "version": "Fusion Edition 3.6.1",
-            "size": 473.08,
+            "version": "Fusion Edition 3.8.1",
+            "size": 474.14,
             "execute_name": "PlantsVsZombiesRH.exe",
             "is_recommend": true,
-            "is_new": false,
-            "share_url": "https://pan.huang1111.cn/s/byLdzIY",
+            "is_new": true,
+            "share_url": "https://pan.huang1111.cn/s/DVxeyI4",
             "share_password": null,
             "link_url": "https://space.bilibili.com/3546619314178489/dynamic"
         },
@@ -1147,23 +1147,6 @@
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/iMNzY3cp7omj",
             "share_password": "a9t5"
-        },
-        {
-            "name": "融合版修改器",
-            "descriptions": [],
-            "screenshot": 6,
-            "author": [
-                "高数带我飞"
-            ],
-            "icon": "fe",
-            "version": "Fusion trainer 2.1.9",
-            "support_version": "Fusion Edition 3.6 (.1)",
-            "size": 5.46,
-            "execute_name": "PvZRHModfied.exe",
-            "is_recommend": false,
-            "is_new": false,
-            "share_url": "https://hhzyx.lanzouv.com/iEtUh3odpfde",
-            "share_password": "1g4b"
         },
         {
             "name": "血量显示器",

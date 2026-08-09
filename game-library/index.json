@@ -339,7 +339,9 @@
             "is_new": true,
             "share_url": "https://pan.huang1111.cn/s/8QLGxcQ",
             "share_password": null,
-            "link_url": "https://space.bilibili.com/66804103"
+            "link_urls": {
+                "Bilibili": "https://space.bilibili.com/66804103"
+            }
         },
         {
             "name": "植物大战僵尸 二战版",
@@ -358,7 +360,9 @@
             "is_new": true,
             "share_url": "https://pan.huang1111.cn/s/RYB3ZSB",
             "share_password": null,
-            "link_url": "https://space.bilibili.com/180277591/dynamic"
+            "link_urls": {
+                "Bilibili": "https://space.bilibili.com/180277591/dynamic"
+            }
         },
         {
             "name": "MC大战僵尸2",
@@ -381,7 +385,9 @@
             "is_new": true,
             "share_url": "https://pan.huang1111.cn/s/YLmV9iA",
             "share_password": null,
-            "link_url": "https://space.bilibili.com/348514"
+            "link_urls": {
+                "Bilibili": "https://space.bilibili.com/348514"
+            }
         },
         {
             "name": "植物大战僵尸 Mixed版",
@@ -400,7 +406,9 @@
             "is_new": true,
             "share_url": "https://pan.huang1111.cn/s/aEKYYTG",
             "share_password": null,
-            "link_url": "https://space.bilibili.com/632302171"
+            "link_urls": {
+                "Bilibili": "https://space.bilibili.com/632302171"
+            }
         },
         {
             "name": "植物大战僵尸 融合版",
@@ -425,7 +433,9 @@
             "is_new": true,
             "share_url": "https://pan.huang1111.cn/s/DVxeyI4",
             "share_password": null,
-            "link_url": "https://space.bilibili.com/3546619314178489/dynamic"
+            "link_urls": {
+                "Bilibili": "https://space.bilibili.com/3546619314178489/dynamic"
+            }
         },
         {
             "name": "植物大战僵尸 杂交版 (经典)",
@@ -450,7 +460,9 @@
             "is_recommend": true,
             "is_new": false,
             "url": null,
-            "link_url": "https://space.bilibili.com/97213827/dynamic"
+            "link_urls": {
+                "Bilibili": "https://space.bilibili.com/97213827/dynamic"
+            }
         },
         {
             "name": "植物大战僵尸 杂交版 (重置)",
@@ -475,7 +487,9 @@
             "is_recommend": true,
             "is_new": false,
             "url": null,
-            "link_url": "https://space.bilibili.com/97213827/dynamic"
+            "link_urls": {
+                "Bilibili": "https://space.bilibili.com/97213827/dynamic"
+            }
         },
         {
             "name": "植物大战僵尸 β版",
@@ -503,7 +517,9 @@
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/iB8BB3uejkna",
             "share_password": "c956",
-            "link_url": "https://pvz-beta.site"
+            "link_urls": {
+                "官方网站": "https://pvz-beta.site"
+            }
         },
         {
             "name": "戴夫大战僵尸",
@@ -522,7 +538,9 @@
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/ivkMP40zofhg",
             "share_password": "eksg",
-            "link_url": "https://space.bilibili.com/33824345"
+            "link_urls": {
+                "Bilibili": "https://space.bilibili.com/33824345"
+            }
         },
         {
             "name": "戴夫大战僵尸 经典版",
@@ -541,7 +559,9 @@
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/iNblk416qfmf",
             "share_password": "dwqg",
-            "link_url": "https://space.bilibili.com/33824345"
+            "link_urls": {
+                "Bilibili": "https://space.bilibili.com/33824345"
+            }
         },
         {
             "name": "植物大战僵尸 鉴版",
@@ -560,7 +580,7 @@
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/iobtY40zfnxg",
             "share_password": "25g3",
-            "link_url": null
+            "link_urls": {}
         },
         {
             "name": "植物大战僵尸 抽卡版",
@@ -579,7 +599,9 @@
             "is_new": false,
             "share_url": "https://pan.huang1111.cn/s/8QL3XtQ",
             "share_password": null,
-            "link_url": "https://space.bilibili.com/167141989/dynamic"
+            "link_urls": {
+                "Bilibili": "https://space.bilibili.com/167141989/dynamic"
+            }
         },
         {
             "name": "植物大战僵尸 BT版",
@@ -598,7 +620,9 @@
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/i0FQn41995xc",
             "share_password": "grff",
-            "link_url": "https://space.bilibili.com/38078309/dynamic"
+            "link_urls": {
+                "Bilibili": "https://space.bilibili.com/38078309/dynamic"
+            }
         },
         {
             "name": "植物大战僵尸 Legend",
@@ -618,7 +642,9 @@
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/iS0oE40tq35i",
             "share_password": "d2rs",
-            "link_url": "https://space.bilibili.com/38078309/dynamic"
+            "link_urls": {
+                "Bilibili": "https://space.bilibili.com/38078309/dynamic"
+            }
         },
         {
             "name": "植物娘大战僵尸",
@@ -637,7 +663,9 @@
             "is_new": false,
             "share_url": "https://pan.huang1111.cn/s/xbk56cV",
             "share_password": null,
-            "link_url": "https://space.bilibili.com/3493090151107069/dynamic"
+            "link_urls": {
+                "Bilibili": "https://space.bilibili.com/3493090151107069/dynamic"
+            }
         },
         {
             "name": "植物大战僵尸 Rouge版",
@@ -656,7 +684,9 @@
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/itul340tlc6d",
             "share_password": "45g0",
-            "link_url": "https://www.bilibili.com/video/BV1vZ421y7h2"
+            "link_urls": {
+                "Bilibili": "https://www.bilibili.com/video/BV1vZ421y7h2"
+            }
         },
         {
             "name": "植物大战僵尸 疯狂的多元宇宙",
@@ -675,7 +705,9 @@
             "is_new": false,
             "share_url": "https://pan.huang1111.cn/s/xbQ1qtV",
             "share_password": null,
-            "link_url": "https://space.bilibili.com/1842904392/dynamic"
+            "link_urls": {
+                "Bilibili": "https://space.bilibili.com/1842904392/dynamic"
+            }
         },
         {
             "name": "植物大战僵尸 Universe",
@@ -694,7 +726,9 @@
             "is_new": false,
             "share_url": "https://pan.huang1111.cn/s/YLAkQhA",
             "share_password": null,
-            "link_url": "https://space.bilibili.com/356608228/dynamic"
+            "link_urls": {
+                "Bilibili": "https://space.bilibili.com/356608228/dynamic"
+            }
         },
         {
             "name": "植物大战僵尸 生态版",
@@ -715,7 +749,9 @@
             "is_new": false,
             "share_url": "https://pan.huang1111.cn/s/VLvOkUd",
             "share_password": null,
-            "link_url": "https://space.bilibili.com/1230432752/dynamic"
+            "link_urls": {
+                "Bilibili": "https://space.bilibili.com/1230432752/dynamic"
+            }
         },
         {
             "name": "植物大战僵尸2 无尽花园",
@@ -738,7 +774,9 @@
             "is_new": false,
             "share_url": "https://pan.huang1111.cn/s/DVYb5f4",
             "share_password": null,
-            "link_url": "https://pvzge.com/"
+            "link_urls": {
+                "官方网站": "https://pvzge.com/"
+            }
         },
         {
             "name": "植物大战僵尸 嫁接版",
@@ -768,7 +806,9 @@
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/iIPii3vuob9e",
             "share_password": "gb87",
-            "link_url": "https://space.bilibili.com/124524440/dynamic"
+            "link_urls": {
+                "Bilibili": "https://space.bilibili.com/124524440/dynamic"
+            }
         },
         {
             "name": "植物大战僵尸 威化版",
@@ -791,7 +831,9 @@
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/i2gPx3vutv9e",
             "share_password": "4d6j",
-            "link_url": "https://space.bilibili.com/1369831472/dynamic"
+            "link_urls": {
+                "Bilibili": "https://space.bilibili.com/1369831472/dynamic"
+            }
         },
         {
             "name": "植物大战僵尸 无名版",
@@ -816,7 +858,8 @@
             "is_recommend": false,
             "is_new": false,
             "share_url": "https://pan.huang1111.cn/s/A6XdghB",
-            "share_password": null
+            "share_password": null,
+            "link_urls": {}
         },
         {
             "name": "植物大战僵尸 原？版",
@@ -834,7 +877,8 @@
             "is_recommend": false,
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/i2Qcm3nbywgf",
-            "share_password": "coj5"
+            "share_password": "coj5",
+            "link_urls": {}
         },
         {
             "name": "植物大战僵尸 屑版",
@@ -856,7 +900,8 @@
             "is_recommend": false,
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/iM94I3mv05if",
-            "share_password": "hfwo"
+            "share_password": "hfwo",
+            "link_urls": {}
         },
         {
             "name": "植物大战僵尸 随机版",
@@ -879,7 +924,8 @@
             "is_recommend": false,
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/ihTdy3ezicoh",
-            "share_password": "2nju"
+            "share_password": "2nju",
+            "link_urls": {}
         },
         {
             "name": "植物大战僵尸 新指导版",
@@ -902,7 +948,9 @@
             "is_new": false,
             "share_url": "https://pan.huang1111.cn/s/Wz4q1H3",
             "share_password": null,
-            "link_url": "https://space.bilibili.com/3546562489748303/dynamic"
+            "link_urls": {
+                "Bilibili": "https://space.bilibili.com/3546562489748303/dynamic"
+            }
         },
         {
             "name": "植物大战僵尸 精华版",
@@ -925,7 +973,9 @@
             "is_new": false,
             "share_url": "https://pan.huang1111.cn/s/mxgV8C1",
             "share_password": null,
-            "link_url": "https://space.bilibili.com/411256864/dynamic"
+            "link_urls": {
+                "Bilibili": "https://space.bilibili.com/411256864/dynamic"
+            }
         },
         {
             "name": "植物大战僵尸 Eagrace Max",
@@ -947,7 +997,8 @@
             "is_recommend": false,
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/iUgrv3eutfif",
-            "share_password": "bgao"
+            "share_password": "bgao",
+            "link_urls": {}
         },
         {
             "name": "植物大战僵尸 时空环游之旅",
@@ -970,7 +1021,8 @@
             "is_recommend": false,
             "is_new": false,
             "share_url": "https://pan.huang1111.cn/s/qgyewU3",
-            "share_password": null
+            "share_password": null,
+            "link_urls": {}
         },
         {
             "name": "植物大战僵尸 塔防路线地图版",
@@ -991,6 +1043,7 @@
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/iWAyo40tgsjc",
             "share_password": "hqb8",
+            "link_urls": {},
             "link_url": null
         },
         {
@@ -1010,7 +1063,9 @@
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/iFdwD40tjr9e",
             "share_password": "gnb6",
-            "link_url": "https://www.bilibili.com/opus/1223035149219790897"
+            "link_urls": {
+                "Bilibili": "https://www.bilibili.com/opus/1223035149219790897"
+            }
         },
         {
             "name": "植物大战僵尸 基岩版",
@@ -1029,7 +1084,9 @@
             "is_new": false,
             "share_url": "https://pan.huang1111.cn/s/VLbRGfd",
             "share_password": null,
-            "link_url": "https://space.bilibili.com/675272258/dynamic"
+            "link_urls": {
+                "Bilibili": "https://space.bilibili.com/675272258/dynamic"
+            }
         },
         {
             "name": "植物大战僵尸 95版",
@@ -1051,7 +1108,8 @@
             "is_recommend": false,
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/i2oiG3cp6t4f",
-            "share_password": "87bx"
+            "share_password": "87bx",
+            "link_urls": {}
         },
         {
             "name": "胆小菇之梦",
@@ -1073,7 +1131,9 @@
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/iOgML3cp6rod",
             "share_password": "ak2n",
-            "link_url": "https://space.bilibili.com/484494032"
+            "link_urls": {
+                "Bilibili": "https://space.bilibili.com/484494032"
+            }
         },
         {
             "name": "植物大战僵尸 GhTr版",
@@ -1095,7 +1155,8 @@
             "is_recommend": false,
             "is_new": false,
             "share_url": "https://pan.huang1111.cn/s/75NkoTg",
-            "share_password": null
+            "share_password": null,
+            "link_urls": {}
         }
     ],
     "trainer": [

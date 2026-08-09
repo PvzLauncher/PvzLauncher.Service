@@ -1,26 +1,9 @@
 {
     "notices": [
         {
-            "title": "2026.8.8 - 游戏库更新2",
+            "title": "2026.8.9 - 游戏库更新",
             "contents": [
-                "添加游戏 \"植物大战僵尸 Mixed版\"",
-                "添加游戏 \"MC大战僵尸2\"",
-                "添加游戏 \"植物大战僵尸 二战版\""
-            ],
-            "primary-button": "查看",
-            "secondary-button": null,
-            "primary-actions": [
-                {
-                    "type": "to-page",
-                    "url": "Download"
-                }
-            ],
-            "secondary-actions": []
-        },
-        {
-            "title": "2026.8.8 - 游戏库更新",
-            "contents": [
-                "添加游戏 \"戴夫大战僵尸 经典版\""
+                "更新游戏 \"植物大战僵尸 融合版\" 至 最新版 3.8.1"
             ],
             "primary-button": "查看",
             "secondary-button": null,

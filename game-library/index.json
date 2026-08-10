@@ -118,6 +118,28 @@
     ],
     "en_revision": [
         {
+            "name": "植物大战僵尸 Expansion",
+            "descriptions": [
+                "   《植物大战僵尸：Expansion》是一款主要添加新内容、修复部分漏洞，并在一定程度上提升游戏挑战性的模组，但并不会让难度变得极高。该模组并未对整个游戏进行大规模的全面修改，不过包含了一些平衡性调整和新功能。"
+            ],
+            "screenshot": 5,
+            "author": [
+                "skill_issue"
+            ],
+            "icon": "origin",
+            "version": "Expansion Edition 1.0.11",
+            "size": 23.11,
+            "execute_name": "PlantsVsZombies.exe",
+            "is_recommend": true,
+            "is_new": true,
+            "share_url": "https://hhzyx.lanzouv.com/iODET41lrn5c",
+            "share_password": "gnpg",
+            "link_urls": {
+                "GameBanana": "https://gamebanana.com/mods/492397",
+                "VGTimes": "https://vgtimes.com/games/plants-vs-zombies/files/76403-plants-vs.-zombies-expansion-v1.0.11-global-game-overhaul.html"
+            }
+        },
+        {
             "name": "植物大战僵尸 Extra",
             "descriptions": [
                 "   《植物大战僵尸》Extra（Plants vs. Zombies: Extra）是由社区团队Samen及其成员开发的免费模组，基于原版PvZ1进行扩展。最新版本已更新至2.7.x系列。",

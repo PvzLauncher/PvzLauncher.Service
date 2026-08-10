@@ -345,6 +345,28 @@
     ],
     "zh_revision": [
         {
+            "name": "植物大战僵尸 无双版",
+            "descriptions": [
+                ""
+            ],
+            "screenshot": 4,
+            "author": [
+                "铜锣戏语"
+            ],
+            "icon": "unparalleled",
+            "version": "Unparalleled Edition 3.0",
+            "size": 67.4,
+            "execute_name": "植物大战僵尸无双.exe",
+            "is_recommend": false,
+            "is_new": true,
+            "share_url": "https://hhzyx.lanzouv.com/iWNfh41nb6zg",
+            "share_password": "2r5t",
+            "link_urls": {
+                "夸克网盘": "https://pan.quark.cn/s/5db04502503e",
+                "Bilibili": "https://space.bilibili.com/36155819"
+            }
+        },
+        {
             "name": "垃圾桶军团 (星铁版)",
             "descriptions": [
                 ""

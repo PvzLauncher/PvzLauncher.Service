@@ -1,9 +1,10 @@
 {
     "notices": [
         {
-            "title": "2026.8.9 - 游戏库更新",
+            "title": "2026.8.10 - 游戏库更新",
             "contents": [
-                "更新游戏 \"植物大战僵尸 融合版\" 至 最新版 3.8.1"
+                "添加游戏: 植物大战僵尸 Expansion",
+                "添加游戏: 植物大战僵尸 无双版"
             ],
             "primary-button": "查看",
             "secondary-button": null,

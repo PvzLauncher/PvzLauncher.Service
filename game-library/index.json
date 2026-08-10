@@ -484,7 +484,8 @@
             "is_new": false,
             "url": null,
             "link_urls": {
-                "Bilibili": "https://space.bilibili.com/97213827"
+                "Bilibili": "https://space.bilibili.com/97213827",
+                "官方网站": "https://www.pvzhe.com/hybrid"
             }
         },
         {
@@ -511,7 +512,8 @@
             "is_new": false,
             "url": null,
             "link_urls": {
-                "Bilibili": "https://space.bilibili.com/97213827"
+                "Bilibili": "https://space.bilibili.com/97213827",
+                "官方网站": "https://www.pvzhe.com/new"
             }
         },
         {

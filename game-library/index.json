@@ -152,7 +152,7 @@
             "size": 23.11,
             "execute_name": "PlantsVsZombies.exe",
             "is_recommend": true,
-            "is_new": true,
+            "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/iODET41lrn5c",
             "share_password": "gnpg",
             "link_urls": {
@@ -397,124 +397,6 @@
     ],
     "zh_revision": [
         {
-            "name": "植物大战僵尸 无双版",
-            "descriptions": [
-                ""
-            ],
-            "screenshot": 4,
-            "authors": {
-                "铜锣戏语": "https://space.bilibili.com/36155819"
-            },
-            "author": [
-                "铜锣戏语"
-            ],
-            "icon": "unparalleled",
-            "version": "Unparalleled Edition 3.0",
-            "size": 67.4,
-            "execute_name": "植物大战僵尸无双.exe",
-            "is_recommend": false,
-            "is_new": true,
-            "share_url": "https://hhzyx.lanzouv.com/iWNfh41nb6zg",
-            "share_password": "2r5t",
-            "link_urls": {
-                "夸克网盘": "https://pan.quark.cn/s/5db04502503e"
-            }
-        },
-        {
-            "name": "垃圾桶军团 (星铁版)",
-            "descriptions": [
-                ""
-            ],
-            "screenshot": 5,
-            "authors": {
-                "房子猫猫": "https://space.bilibili.com/66804103"
-            },
-            "author": [
-                "房子猫猫"
-            ],
-            "icon": "trashcan",
-            "version": "Trash can army 2.5",
-            "size": 230.61,
-            "execute_name": "Trash can army.exe",
-            "is_recommend": false,
-            "is_new": true,
-            "share_url": "https://pan.huang1111.cn/s/8QLGxcQ",
-            "share_password": null,
-            "link_urls": {
-                "Steam": "https://store.steampowered.com/app/2690970"
-            }
-        },
-        {
-            "name": "植物大战僵尸 二战版",
-            "descriptions": [
-                ""
-            ],
-            "screenshot": 2,
-            "authors": {
-                "b站南瓜酱": "https://space.bilibili.com/180277591"
-            },
-            "author": [
-                "b站南瓜酱"
-            ],
-            "icon": "origin",
-            "version": "World War II Edition 1.31",
-            "size": 452.59,
-            "execute_name": "公测三版启动器.exe",
-            "is_recommend": false,
-            "is_new": true,
-            "share_url": "https://pan.huang1111.cn/s/RYB3ZSB",
-            "share_password": null,
-            "link_urls": {}
-        },
-        {
-            "name": "MC大战僵尸2",
-            "descriptions": [
-                "   MC大战僵尸（Minecraft VS Zombies 2，简称MVZ2）是一款由作者Cuerzor一人所制作的一款《Minecraft》、《植物大战僵尸》和《东方Project》系列的同人游戏。",
-                "",
-                "   本游戏同时具有《植物大战僵尸》的游戏系统、《Minecraft》的要素以及《东方Project》系列的场景和人物，游戏中玩家将扮演机械师史蒂夫，同随他一起的村民一起前往幻想乡解决Minecraft异变。",
-                "",
-                "   本游戏存在两个版本。过去使用Gamemaker Studio 2制作的版本更新到第四章，目前已经被废弃。而现在使用Unity制作的版本目前正处于开发阶段，未来预计会有约112个器械，64个怪物以及132个冒险关卡。"
-            ],
-            "screenshot": 5,
-            "authors": {
-                "Cuerzor58": "https://space.bilibili.com/348514"
-            },
-            "author": [
-                "Cuerzor58"
-            ],
-            "icon": "mvz",
-            "version": "Mvz 0.6.4",
-            "size": 105.68,
-            "execute_name": "MinecraftVSZombies2.exe",
-            "is_recommend": false,
-            "is_new": true,
-            "share_url": "https://pan.huang1111.cn/s/YLmV9iA",
-            "share_password": null,
-            "link_urls": {}
-        },
-        {
-            "name": "植物大战僵尸 Mixed版",
-            "descriptions": [
-                ""
-            ],
-            "screenshot": 5,
-            "authors": {
-                "PVZMixed版运营组": "https://space.bilibili.com/632302171"
-            },
-            "author": [
-                "PVZMixed版运营组"
-            ],
-            "icon": "origin",
-            "version": "Mixed 2.06 Public preview",
-            "size": 109.61,
-            "execute_name": "PVZ Mixed 2.06 PP04-04-005+.exe",
-            "is_recommend": false,
-            "is_new": true,
-            "share_url": "https://pan.huang1111.cn/s/aEKYYTG",
-            "share_password": null,
-            "link_urls": {}
-        },
-        {
             "name": "植物大战僵尸 融合版",
             "descriptions": [
                 "   植物大战僵尸融合版是由B站UP主蓝飘飘fly开发的同人塔防游戏，于2024年6月30日正式发布。它基于原版《植物大战僵尸》核心玩法，使用Unity引擎重制，最大创新在于引入“植物融合”系统，成为2024年最受好评的PvZ同人作品之一。",
@@ -539,7 +421,7 @@
             "size": 474.14,
             "execute_name": "PlantsVsZombiesRH.exe",
             "is_recommend": true,
-            "is_new": true,
+            "is_new": false,
             "share_url": "https://pan.huang1111.cn/s/DVxeyI4",
             "share_password": null,
             "link_urls": {}
@@ -649,6 +531,124 @@
                 "Bilibili": "https://space.bilibili.com/12952765",
                 "官方网站": "https://pvz-beta.site"
             }
+        },
+        {
+            "name": "植物大战僵尸 无双版",
+            "descriptions": [
+                ""
+            ],
+            "screenshot": 4,
+            "authors": {
+                "铜锣戏语": "https://space.bilibili.com/36155819"
+            },
+            "author": [
+                "铜锣戏语"
+            ],
+            "icon": "unparalleled",
+            "version": "Unparalleled Edition 3.0",
+            "size": 67.4,
+            "execute_name": "植物大战僵尸无双.exe",
+            "is_recommend": false,
+            "is_new": false,
+            "share_url": "https://hhzyx.lanzouv.com/iWNfh41nb6zg",
+            "share_password": "2r5t",
+            "link_urls": {
+                "夸克网盘": "https://pan.quark.cn/s/5db04502503e"
+            }
+        },
+        {
+            "name": "垃圾桶军团 (星铁版)",
+            "descriptions": [
+                ""
+            ],
+            "screenshot": 5,
+            "authors": {
+                "房子猫猫": "https://space.bilibili.com/66804103"
+            },
+            "author": [
+                "房子猫猫"
+            ],
+            "icon": "trashcan",
+            "version": "Trash can army 2.5",
+            "size": 230.61,
+            "execute_name": "Trash can army.exe",
+            "is_recommend": false,
+            "is_new": false,
+            "share_url": "https://pan.huang1111.cn/s/8QLGxcQ",
+            "share_password": null,
+            "link_urls": {
+                "Steam": "https://store.steampowered.com/app/2690970"
+            }
+        },
+        {
+            "name": "植物大战僵尸 二战版",
+            "descriptions": [
+                ""
+            ],
+            "screenshot": 2,
+            "authors": {
+                "b站南瓜酱": "https://space.bilibili.com/180277591"
+            },
+            "author": [
+                "b站南瓜酱"
+            ],
+            "icon": "origin",
+            "version": "World War II Edition 1.31",
+            "size": 452.59,
+            "execute_name": "公测三版启动器.exe",
+            "is_recommend": false,
+            "is_new": false,
+            "share_url": "https://pan.huang1111.cn/s/RYB3ZSB",
+            "share_password": null,
+            "link_urls": {}
+        },
+        {
+            "name": "MC大战僵尸2",
+            "descriptions": [
+                "   MC大战僵尸（Minecraft VS Zombies 2，简称MVZ2）是一款由作者Cuerzor一人所制作的一款《Minecraft》、《植物大战僵尸》和《东方Project》系列的同人游戏。",
+                "",
+                "   本游戏同时具有《植物大战僵尸》的游戏系统、《Minecraft》的要素以及《东方Project》系列的场景和人物，游戏中玩家将扮演机械师史蒂夫，同随他一起的村民一起前往幻想乡解决Minecraft异变。",
+                "",
+                "   本游戏存在两个版本。过去使用Gamemaker Studio 2制作的版本更新到第四章，目前已经被废弃。而现在使用Unity制作的版本目前正处于开发阶段，未来预计会有约112个器械，64个怪物以及132个冒险关卡。"
+            ],
+            "screenshot": 5,
+            "authors": {
+                "Cuerzor58": "https://space.bilibili.com/348514"
+            },
+            "author": [
+                "Cuerzor58"
+            ],
+            "icon": "mvz",
+            "version": "Mvz 0.6.4",
+            "size": 105.68,
+            "execute_name": "MinecraftVSZombies2.exe",
+            "is_recommend": false,
+            "is_new": false,
+            "share_url": "https://pan.huang1111.cn/s/YLmV9iA",
+            "share_password": null,
+            "link_urls": {}
+        },
+        {
+            "name": "植物大战僵尸 Mixed版",
+            "descriptions": [
+                ""
+            ],
+            "screenshot": 5,
+            "authors": {
+                "PVZMixed版运营组": "https://space.bilibili.com/632302171"
+            },
+            "author": [
+                "PVZMixed版运营组"
+            ],
+            "icon": "origin",
+            "version": "Mixed 2.06 Public preview",
+            "size": 109.61,
+            "execute_name": "PVZ Mixed 2.06 PP04-04-005+.exe",
+            "is_recommend": false,
+            "is_new": false,
+            "share_url": "https://pan.huang1111.cn/s/aEKYYTG",
+            "share_password": null,
+            "link_urls": {}
         },
         {
             "name": "戴夫大战僵尸",

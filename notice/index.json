@@ -1,3 +1,44 @@
 {
-    "notices": []
+    "notices": [
+        {
+            "title": "2026-08-20 游戏库更新",
+            "contents": [
+                "添加游戏 植物大战僵尸 原神版",
+                "",
+                "添加资源 植物大战僵尸 相关字体整理",
+                "添加资源 植物大战僵尸 游戏资源整合"
+            ],
+            "primary-button": "查看",
+            "secondary-button": null,
+            "primary-actions": [
+                {
+                    "type": "to-page",
+                    "url": "Download"
+                }
+            ],
+            "secondary-actions": []
+        },
+        {
+            "title": "2026-08-20 关于近期更新频率的调整",
+            "contents": [
+                "PvzLauncher 目前已经可以稳定运行 几乎不会出现大型BUG。因此我们决定在近期放缓启动器与游戏库更新频率",
+                "",
+                "如果你有什么有趣的新想法可以加入进启动器的可以随时提出！我们会尽力满足"
+            ],
+            "primary-button": "反馈问题",
+            "secondary-button": "提供新想法",
+            "primary-actions": [
+                {
+                    "type": "to-url",
+                    "url": "https://github.com/PvzLauncher/PvzLauncher/issues/new?template=bug.yml"
+                }
+            ],
+            "secondary-actions": [
+                {
+                    "type": "to-url",
+                    "url": "https://github.com/PvzLauncher/PvzLauncher/issues/new?template=feature.yml"
+                }
+            ]
+        }
+    ]
 }

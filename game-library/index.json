@@ -1508,7 +1508,7 @@
                 "",
                 "   由于技术原因，此资源整合只能通过游戏的方式下载。下载之后可以将资源转移至其他地点并从启动器内删除"
             ],
-            "screenshot": 6,
+            "screenshot": 9,
             "authors": {
                 "PopCap": "https://www.ea.com/ea-studios/popcap",
                 "PvzLauncher": "https://github.com/PvzLauncher"
@@ -1516,12 +1516,12 @@
             "author": [],
             "icon": "origin",
             "version": "Resources Combine",
-            "size": 81.94,
+            "size": 81.52,
             "execute_name": "fo.exe",
             "is_recommend": true,
             "is_new": true,
-            "share_url": "https://hhzyx.lanzouv.com/iu1aT43mw3qb",
-            "share_password": "djer",
+            "share_url": "https://hhzyx.lanzouv.com/iLQ4a43n0ych",
+            "share_password": "3bgu",
             "link_urls": {}
         }
     ]

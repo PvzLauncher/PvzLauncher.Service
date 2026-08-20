@@ -1586,6 +1586,31 @@
     ],
     "other": [
         {
+            "name": "植物大战僵尸 相关字体整理",
+            "descriptions": [
+                "   植物大战僵尸字体整理",
+                "",
+                "   由于技术原因，此资源整合只能通过游戏的方式下载。下载之后可以将资源转移至其他地点并从启动器内删除"
+            ],
+            "screenshot": 1,
+            "authors": {
+                "未知": null
+            },
+            "author": [],
+            "last_update": "2026-08-20 19:51",
+            "icon": "origin",
+            "version": "Font Combine",
+            "size": 35.14,
+            "execute_name": "fo.exe",
+            "is_recommend": true,
+            "is_new": true,
+            "share_url": "https://hhzyx.lanzouv.com/iSKn443nvlsb",
+            "share_password": "6i6b",
+            "link_urls": {
+                "下载站": "https://pvz.10001000.xyz"
+            }
+        },
+        {
             "name": "植物大战僵尸 游戏资源整合",
             "descriptions": [
                 "   包含了植物大战僵尸游戏内所有图像、音频以及动画素材",
@@ -1598,7 +1623,7 @@
                 "PvzLauncher": "https://github.com/PvzLauncher"
             },
             "author": [],
-            "last_update": "",
+            "last_update": "2026-08-20 16:45",
             "icon": "origin",
             "version": "Resources Combine",
             "size": 81.52,

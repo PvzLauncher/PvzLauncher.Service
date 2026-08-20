@@ -1502,26 +1502,26 @@
     ],
     "other": [
         {
-            "name": "植物大战僵尸原版资源整合(带.fla工程文件)",
+            "name": "植物大战僵尸 游戏资源整合",
             "descriptions": [
-                "   包含了植物大战僵尸一代游戏内所有图像、音频以及动画素材",
+                "   包含了植物大战僵尸游戏内所有图像、音频以及动画素材",
                 "",
                 "   由于技术原因，此资源整合只能通过游戏的方式下载。下载之后可以将资源转移至其他地点并从启动器内删除"
             ],
-            "screenshot": 0,
+            "screenshot": 6,
             "authors": {
                 "PopCap": "https://www.ea.com/ea-studios/popcap",
                 "PvzLauncher": "https://github.com/PvzLauncher"
             },
             "author": [],
             "icon": "origin",
-            "version": "Resources Combine 1",
-            "size": 474.14,
-            "execute_name": "PlantsVsZombiesRH.exe",
+            "version": "Resources Combine",
+            "size": 81.94,
+            "execute_name": "fo.exe",
             "is_recommend": true,
             "is_new": true,
-            "share_url": "https://pan.huang1111.cn/s/DVxeyI4",
-            "share_password": null,
+            "share_url": "https://hhzyx.lanzouv.com/iu1aT43mw3qb",
+            "share_password": "djer",
             "link_urls": {}
         }
     ]

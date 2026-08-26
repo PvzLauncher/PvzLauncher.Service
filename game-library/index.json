@@ -414,26 +414,34 @@
     ],
     "zh_revision": [
         {
-            "name": "植物大战僵尸 原神版",
+            "name": "植物大战僵尸2 无尽花园",
             "descriptions": [
-                "  植物大战僵尸原声版有元素反应，史莱姆敌人，地脉异常效果，角色天赋升级系统和角色「刻晴」等等内容"
+                "   完全重制的全桌面平台PvZ2",
+                "",
+                "   此版本为压缩过后的精简版，原始版本因体积过大不便传输(1GB)，如有需求请前往官网自行下载"
             ],
-            "screenshot": 3,
+            "screenshot": 6,
             "authors": {
-                "这里是我的名字哦": "https://space.bilibili.com/408736714"
+                "Gzh0821": null,
+                "IceandFire04": null,
+                "ItsRomeostar": null
             },
-            "author": [],
-            "last_update": "2026-08-20 19:38",
-            "icon": "genshin",
-            "version": "Genshin Edition 2023.1.12",
-            "size": 24.51,
-            "execute_name": "GenshinPvZ_2023.1.12.exe",
+            "author": [
+                "Gzh0821",
+                "IceandFire04",
+                "ItsRomeostar"
+            ],
+            "last_update": "",
+            "icon": "ge",
+            "version": "Pvz2 Gardendless 0.13.0",
+            "size": 298.22,
+            "execute_name": "pvzge-lite.exe",
             "is_recommend": false,
             "is_new": true,
-            "share_url": "https://hhzyx.lanzouv.com/iXBm243nj42b",
-            "share_password": "gxip",
+            "share_url": "https://pan.huang1111.cn/s/byWVdHY",
+            "share_password": null,
             "link_urls": {
-                "宣传视频": "https://www.bilibili.com/video/BV14d4y177Zp"
+                "官方网站": "https://pvzge.com"
             }
         },
         {
@@ -574,6 +582,29 @@
             "link_urls": {
                 "Bilibili": "https://space.bilibili.com/12952765",
                 "官方网站": "https://pvz-beta.site"
+            }
+        },
+        {
+            "name": "植物大战僵尸 原神版",
+            "descriptions": [
+                "  植物大战僵尸原声版有元素反应，史莱姆敌人，地脉异常效果，角色天赋升级系统和角色「刻晴」等等内容"
+            ],
+            "screenshot": 3,
+            "authors": {
+                "这里是我的名字哦": "https://space.bilibili.com/408736714"
+            },
+            "author": [],
+            "last_update": "2026-08-20 19:38",
+            "icon": "genshin",
+            "version": "Genshin Edition 2023.1.12",
+            "size": 24.51,
+            "execute_name": "GenshinPvZ_2023.1.12.exe",
+            "is_recommend": false,
+            "is_new": false,
+            "share_url": "https://hhzyx.lanzouv.com/iXBm243nj42b",
+            "share_password": "gxip",
+            "link_urls": {
+                "宣传视频": "https://www.bilibili.com/video/BV14d4y177Zp"
             }
         },
         {
@@ -957,37 +988,6 @@
             "share_url": "https://pan.huang1111.cn/s/VLvOkUd",
             "share_password": null,
             "link_urls": {}
-        },
-        {
-            "name": "植物大战僵尸2 无尽花园",
-            "descriptions": [
-                "   完全重制的全桌面平台PvZ2",
-                "",
-                "    注意: 此版本体积较大(1.01GB)，启动器下载可能会出现下载中断等问题，如无法下载请跳转官网下载！"
-            ],
-            "screenshot": 6,
-            "authors": {
-                "Gzh0821": null,
-                "IceandFire04": null,
-                "ItsRomeostar": null
-            },
-            "author": [
-                "Gzh0821",
-                "IceandFire04",
-                "ItsRomeostar"
-            ],
-            "last_update": "",
-            "icon": "ge",
-            "version": "Pvz2 Gardendless 0.11.0",
-            "size": 1042.8,
-            "execute_name": "pvzge-0.11.0.exe",
-            "is_recommend": false,
-            "is_new": false,
-            "share_url": "https://pan.huang1111.cn/s/DVYb5f4",
-            "share_password": null,
-            "link_urls": {
-                "官方网站": "https://pvzge.com"
-            }
         },
         {
             "name": "植物大战僵尸 嫁接版",

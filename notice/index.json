@@ -1,6 +1,21 @@
 {
     "notices": [
         {
+            "title": "2026-08-27 游戏库更新",
+            "contents": [
+                "游戏 `植物大战僵尸 Ghtr版` 已升级为 `植物大战僵尸: 远征`"
+            ],
+            "primary-button": "查看",
+            "secondary-button": null,
+            "primary-actions": [
+                {
+                    "type": "to-page",
+                    "url": "Download"
+                }
+            ],
+            "secondary-actions": []
+        },
+        {
             "title": "2026-08-26 游戏库更新",
             "contents": [
                 "更新游戏 植物大战僵尸2 无尽花园 至最新版本 0.13.0"

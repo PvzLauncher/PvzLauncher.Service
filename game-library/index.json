@@ -414,6 +414,33 @@
     ],
     "zh_revision": [
         {
+            "name": "植物大战僵尸: 远征",
+            "descriptions": [
+                "   植物大战僵尸GhTr版，即《植物大战僵尸：远征》，是由GHTR绮想馆独立开发的同人塔防作品。它以经典原作为基础，却讲述了全新的冒险故事：植物们在击退僵尸入侵后，收到指向敌方巢穴的神秘信件，由此踏上从防御转向主动远征的征程。这种叙事驱动的设计，让游戏充满沉浸感和探索张力。",
+                "",
+                "   该版本的核心亮点在于深度创新机制。植物与僵尸种类大幅扩充，新增磁力、闪电连锁、永动轮式等多种原创单位。尤为突出的是基因杂交系统，玩家可定向调整豌豆射手的射击范围、速度与击退效果，从而打造个性化战术。这种可进化、可定制的设计，极大提升了策略深度与重玩价值。",
+                "",
+                "   此外，游戏环境与关卡极具特色。水域、熔岩、沼泽、沙风等多种动态地形要求灵活搭配植物特性。伴随丰富剧情、成就系统及多档难度调节，游戏既保留了原版紧张刺激，又带来更高挑战与新鲜乐趣，成为塔防爱好者独具魅力的佳作。"
+            ],
+            "screenshot": 3,
+            "authors": {
+                "Ghastasaucey": "https://space.bilibili.com/384775811"
+            },
+            "author": [
+                "Ghastasaucey"
+            ],
+            "last_update": "",
+            "icon": "ghtr",
+            "version": "Voyage 0.17q - Beta release",
+            "size": 142.03,
+            "execute_name": "PlantsVsZombies.exe",
+            "is_recommend": false,
+            "is_new": true,
+            "share_url": "https://pan.huang1111.cn/s/G8XWaTW",
+            "share_password": null,
+            "link_urls": {}
+        },
+        {
             "name": "植物大战僵尸2 无尽花园",
             "descriptions": [
                 "   完全重制的全桌面平台PvZ2",
@@ -1406,34 +1433,8 @@
             "share_url": "https://hhzyx.lanzouv.com/iOgML3cp6rod",
             "share_password": "ak2n",
             "link_urls": {}
-        },
-        {
-            "name": "植物大战僵尸 GhTr版",
-            "descriptions": [
-                "   植物大战僵尸GhTr版，即《植物大战僵尸：远征》，是由GHTR绮想馆独立开发的同人塔防作品。它以经典原作为基础，却讲述了全新的冒险故事：植物们在击退僵尸入侵后，收到指向敌方巢穴的神秘信件，由此踏上从防御转向主动远征的征程。这种叙事驱动的设计，让游戏充满沉浸感和探索张力。",
-                "",
-                "   该版本的核心亮点在于深度创新机制。植物与僵尸种类大幅扩充，新增磁力、闪电连锁、永动轮式等多种原创单位。尤为突出的是基因杂交系统，玩家可定向调整豌豆射手的射击范围、速度与击退效果，从而打造个性化战术。这种可进化、可定制的设计，极大提升了策略深度与重玩价值。",
-                "",
-                "   此外，游戏环境与关卡极具特色。水域、熔岩、沼泽、沙风等多种动态地形要求灵活搭配植物特性。伴随丰富剧情、成就系统及多档难度调节，游戏既保留了原版紧张刺激，又带来更高挑战与新鲜乐趣，成为塔防爱好者独具魅力的佳作。"
-            ],
-            "screenshot": 3,
-            "authors": {
-                "Ghastasaucey": "https://space.bilibili.com/384775811"
-            },
-            "author": [
-                "Ghastasaucey"
-            ],
-            "last_update": "",
-            "icon": "ghtr",
-            "version": "GhTr ~ Perfect Voyage 0.17m-Fixed.1",
-            "size": 138.77,
-            "execute_name": "PlantsVsZombies.exe",
-            "is_recommend": false,
-            "is_new": false,
-            "share_url": "https://pan.huang1111.cn/s/75NkoTg",
-            "share_password": null,
-            "link_urls": {}
         }
+        
     ],
     "trainer": [
         {

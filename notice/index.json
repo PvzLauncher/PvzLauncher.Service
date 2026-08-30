@@ -1,6 +1,21 @@
 {
     "notices": [
         {
+            "title": "2026-08-30 游戏库更新2",
+            "contents": [
+                "添加游戏 `植物大战僵尸 冰火版`"
+            ],
+            "primary-button": "查看",
+            "secondary-button": null,
+            "primary-actions": [
+                {
+                    "type": "to-page",
+                    "url": "Download"
+                }
+            ],
+            "secondary-actions": []
+        },
+        {
             "title": "2026-08-30 游戏库更新",
             "contents": [
                 "游戏 `植物大战僵尸 Delturbia` 升级至最新版 2.0"

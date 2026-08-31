@@ -383,28 +383,6 @@
     ],
     "zh_revision": [
         {
-            "name": "植物大战僵尸 冰火版",
-            "descriptions": [
-                ""
-            ],
-            "screenshot": 5,
-            "authors": {
-                "潜艇伟伟迷": "https://space.bilibili.com/97213827"
-            },
-            "last_update": "2026-08-30 10:10",
-            "icon": "origin",
-            "version": "Ice&Fire Edition Beta",
-            "size": 29.49,
-            "execute_name": "PlantsVsZombies.exe",
-            "is_recommend": false,
-            "is_new": true,
-            "share_url": "https://hhzyx.lanzouv.com/iNrGF45fw7xc",
-            "share_password": "fyrw",
-            "link_urls": {
-                "宣传帖": "https://www.bilibili.com/opus/650086550814588947"
-            }
-        },
-        {
             "name": "植物大战僵尸 融合版",
             "descriptions": [
                 "   植物大战僵尸融合版是由B站UP主蓝飘飘fly开发的同人塔防游戏，于2024年6月30日正式发布。它基于原版《植物大战僵尸》核心玩法，使用Unity引擎重制，最大创新在于引入“植物融合”系统，成为2024年最受好评的PvZ同人作品之一。",
@@ -519,6 +497,28 @@
             "link_urls": {
                 "Bilibili": "https://space.bilibili.com/12952765",
                 "官方网站": "https://pvz-beta.site"
+            }
+        },
+        {
+            "name": "植物大战僵尸 冰火版",
+            "descriptions": [
+                ""
+            ],
+            "screenshot": 5,
+            "authors": {
+                "潜艇伟伟迷": "https://space.bilibili.com/97213827"
+            },
+            "last_update": "2026-08-30 10:10",
+            "icon": "origin",
+            "version": "Ice&Fire Edition Beta",
+            "size": 29.49,
+            "execute_name": "PlantsVsZombies.exe",
+            "is_recommend": false,
+            "is_new": true,
+            "share_url": "https://hhzyx.lanzouv.com/iNrGF45fw7xc",
+            "share_password": "fyrw",
+            "link_urls": {
+                "宣传帖": "https://www.bilibili.com/opus/650086550814588947"
             }
         },
         {

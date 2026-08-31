@@ -11,9 +11,6 @@
             "authors": {
                 "PopCap": "https://www.ea.com/ea-studios/popcap"
             },
-            "author": [
-                "PopCap"
-            ],
             "last_update": "",
             "icon": "origin",
             "version": "1.0.0.1051",
@@ -22,7 +19,8 @@
             "is_recommend": true,
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/iJrM03cp553e",
-            "share_password": "cn42"
+            "share_password": "cn42",
+            "link_urls": null
         },
         {
             "name": "植物大战僵尸 v1.2.0.1065",
@@ -38,9 +36,6 @@
             "authors": {
                 "PopCap": "https://www.ea.com/ea-studios/popcap"
             },
-            "author": [
-                "PopCap"
-            ],
             "last_update": "",
             "icon": "origin",
             "version": "1.2.0.1065",
@@ -49,7 +44,8 @@
             "is_recommend": true,
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/i7hlj3cp4uni",
-            "share_password": "28pa"
+            "share_password": "28pa",
+            "link_urls": null
         },
         {
             "name": "植物大战僵尸 年度加强版",
@@ -60,9 +56,6 @@
             "authors": {
                 "PopCap": "https://www.ea.com/ea-studios/popcap"
             },
-            "author": [
-                "PopCap"
-            ],
             "last_update": "",
             "icon": "goty",
             "version": "1.2.0.1073-GOTY-Plus",
@@ -71,7 +64,8 @@
             "is_recommend": true,
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/iB0kz3cp4yaj",
-            "share_password": "94c3"
+            "share_password": "94c3",
+            "link_urls": null
         },
         {
             "name": "植物大战僵尸 Steam年度正版",
@@ -82,9 +76,6 @@
             "authors": {
                 "PopCap": "https://www.ea.com/ea-studios/popcap"
             },
-            "author": [
-                "PopCap"
-            ],
             "last_update": "",
             "icon": "steam",
             "version": "1.2.0.1096-Steam",
@@ -93,7 +84,8 @@
             "is_recommend": false,
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/ir2bY3cp4dgj",
-            "share_password": "dqmq"
+            "share_password": "dqmq",
+            "link_urls": null
         },
         {
             "name": "植物大战僵尸 测试版",
@@ -104,9 +96,6 @@
             "authors": {
                 "PopCap": "https://www.ea.com/ea-studios/popcap"
             },
-            "author": [
-                "PopCap"
-            ],
             "last_update": "",
             "icon": "test",
             "version": "0.9.9.1029",
@@ -115,7 +104,8 @@
             "is_recommend": false,
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/isudb3cp4w3a",
-            "share_password": "gbkb"
+            "share_password": "gbkb",
+            "link_urls": null
         },
         {
             "name": "开花与终结 测试版",
@@ -126,9 +116,6 @@
             "authors": {
                 "PopCap": "https://www.ea.com/ea-studios/popcap"
             },
-            "author": [
-                "PopCap"
-            ],
             "last_update": "",
             "icon": "test",
             "version": "0.1.1.1014",
@@ -137,7 +124,8 @@
             "is_recommend": false,
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/iyslU3cp3o6j",
-            "share_password": "8yyz"
+            "share_password": "8yyz",
+            "link_urls": null
         }
     ],
     "en_revision": [
@@ -154,9 +142,6 @@
             "authors": {
                 "NiqKidd": "https://www.youtube.com/@NiqKidd"
             },
-            "author": [
-                "NiqKidd"
-            ],
             "last_update": "2026-08-30 12:00",
             "icon": "delturbia",
             "version": "Delturbia 2.0",
@@ -182,9 +167,6 @@
             "authors": {
                 "skill_issue": "https://gamebanana.com/members/3161692"
             },
-            "author": [
-                "skill_issue"
-            ],
             "last_update": "",
             "icon": "origin",
             "version": "Expansion Edition 1.0.11",
@@ -212,9 +194,6 @@
             "authors": {
                 "Samen": "https://www.youtube.com/@SamenPvz"
             },
-            "author": [
-                "Samen"
-            ],
             "last_update": "",
             "icon": "origin",
             "version": "Extra Edition 0.2.4",
@@ -223,7 +202,8 @@
             "is_recommend": true,
             "is_new": false,
             "share_url": "https://pan.huang1111.cn/s/gg6WNfQ",
-            "share_password": null
+            "share_password": null,
+            "link_urls": null
         },
         {
             "name": "植物大战僵尸 DLC版",
@@ -238,9 +218,6 @@
             "authors": {
                 "Samen": "https://www.youtube.com/@SamenPvz"
             },
-            "author": [
-                "Samen"
-            ],
             "last_update": "",
             "icon": "dlc",
             "version": "DLC Edition 2.7.2",
@@ -249,7 +226,8 @@
             "is_recommend": true,
             "is_new": false,
             "share_url": "https://pan.huang1111.cn/s/vVz52iE",
-            "share_password": null
+            "share_password": null,
+            "link_urls": null
         },
         {
             "name": "植物大战僵尸 扩展与增强版",
@@ -264,9 +242,6 @@
             "authors": {
                 "Raducu": "https://www.youtube.com/@RaducuDynamite"
             },
-            "author": [
-                "Raducu"
-            ],
             "last_update": "",
             "icon": "eae",
             "version": "Expanded and Enhanced 2.5",
@@ -275,7 +250,8 @@
             "is_recommend": true,
             "is_new": false,
             "share_url": "https://pan.huang1111.cn/s/5X7Lqtl",
-            "share_password": null
+            "share_password": null,
+            "link_urls": null
         }
     ],
     "zh_origin": [
@@ -288,9 +264,6 @@
             "authors": {
                 "urf及其民间汉化团队": null
             },
-            "author": [
-                "urf及其民间汉化团队"
-            ],
             "last_update": "",
             "icon": "origin",
             "version": "1.0.0.1051-ZH1",
@@ -299,7 +272,8 @@
             "is_recommend": true,
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/iIiLN3zdr5mb",
-            "share_password": "3vhx"
+            "share_password": "3vhx",
+            "link_urls": null
         },
         {
             "name": "植物大战僵尸 汉化第二版",
@@ -311,10 +285,6 @@
                 "urf": null,
                 "LMAO汉化组": null
             },
-            "author": [
-                "urf",
-                "LMAO汉化组"
-            ],
             "last_update": "",
             "icon": "origin",
             "version": "1.0.0.1051-ZH2",
@@ -323,7 +293,8 @@
             "is_recommend": true,
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/iPJzt3zdrfgf",
-            "share_password": "1gr5"
+            "share_password": "1gr5",
+            "link_urls": null
         },
         {
             "name": "植物大战僵尸 v1.2.0.1065汉化版",
@@ -334,9 +305,6 @@
             "authors": {
                 "lijingjie": null
             },
-            "author": [
-                "lijingjie"
-            ],
             "last_update": "",
             "icon": "origin",
             "version": "1.2.0.1065-ZH",
@@ -345,7 +313,8 @@
             "is_recommend": true,
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/iDgJR41e3ygd",
-            "share_password": "3551"
+            "share_password": "3551",
+            "link_urls": null
         },
         {
             "name": "植物大战僵尸 年度加强汉化版",
@@ -356,9 +325,6 @@
             "authors": {
                 "民间汉化组": null
             },
-            "author": [
-                "民间汉化组"
-            ],
             "last_update": "",
             "icon": "goty",
             "version": "1.2.0.1073-GOTY-Plus-ZH",
@@ -367,7 +333,8 @@
             "is_recommend": true,
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/ixWBG3zdsifi",
-            "share_password": "9z6h"
+            "share_password": "9z6h",
+            "link_urls": null
         },
         {
             "name": "植物大战僵尸 植吧完美汉化版",
@@ -378,9 +345,6 @@
             "authors": {
                 "植物大战僵尸吧 (百度贴吧)": "https://tieba.baidu.com/f?kw=%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B8"
             },
-            "author": [
-                "植物大战僵尸吧 (百度贴吧)"
-            ],
             "last_update": "",
             "icon": "goty",
             "version": "1.2.0.1073-ZH",
@@ -389,7 +353,8 @@
             "is_recommend": false,
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/iGQPZ3cp5hib",
-            "share_password": "e6xs"
+            "share_password": "e6xs",
+            "link_urls": null
         },
         {
             "name": "祖玛 v1.3 豪华版",
@@ -404,9 +369,6 @@
             "authors": {
                 "PopCap": "https://www.ea.com/ea-studios/popcap"
             },
-            "author": [
-                "PopCap"
-            ],
             "last_update": "",
             "icon": "origin",
             "version": "Zuma Deluxe 1.3",
@@ -415,18 +377,20 @@
             "is_recommend": false,
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/if5PY3jq11md",
-            "share_password": "giqe"
+            "share_password": "giqe",
+            "link_urls": null
         }
     ],
     "zh_revision": [
         {
             "name": "植物大战僵尸 冰火版",
-            "descriptions": [],
+            "descriptions": [
+                ""
+            ],
             "screenshot": 5,
             "authors": {
                 "潜艇伟伟迷": "https://space.bilibili.com/97213827"
             },
-            "author": [],
             "last_update": "2026-08-30 10:10",
             "icon": "origin",
             "version": "Ice&Fire Edition Beta",
@@ -455,11 +419,6 @@
                 "蓝蝶": null,
                 "机鱼吐司": "https://space.bilibili.com/85881762"
             },
-            "author": [
-                "蓝飘飘fly",
-                "蓝蝶",
-                "机鱼吐司"
-            ],
             "last_update": "",
             "icon": "fe",
             "version": "Fusion Edition 3.8.1",
@@ -468,7 +427,7 @@
             "is_recommend": true,
             "is_new": false,
             "share_url": "https://pan.huang1111.cn/s/DVxeyI4",
-            "share_password": null,
+            "share_password": "",
             "link_urls": {}
         },
         {
@@ -487,12 +446,6 @@
                 "AXH弦": "https://space.bilibili.com/1447962088",
                 "一只吴铭仕哒": "https://space.bilibili.com/102697920"
             },
-            "author": [
-                "潜艇伟伟迷",
-                "小小咩MS",
-                "AXH弦",
-                "一只吴铭仕哒"
-            ],
             "last_update": "",
             "icon": "he",
             "version": "Hybridization Edition",
@@ -500,7 +453,8 @@
             "execute_name": null,
             "is_recommend": true,
             "is_new": false,
-            "url": null,
+            "share_url": null,
+            "share_password": null,
             "link_urls": {
                 "官方网站": "https://www.pvzhe.com/hybrid"
             }
@@ -521,12 +475,6 @@
                 "AXH弦": "https://space.bilibili.com/1447962088",
                 "一只吴铭仕哒": "https://space.bilibili.com/102697920"
             },
-            "author": [
-                "潜艇伟伟迷",
-                "小小咩MS",
-                "AXH弦",
-                "一只吴铭仕哒"
-            ],
             "last_update": "",
             "icon": "he",
             "version": "Hybridization Edition-Remake",
@@ -534,7 +482,8 @@
             "execute_name": null,
             "is_recommend": true,
             "is_new": false,
-            "url": null,
+            "share_url": null,
+            "share_password": null,
             "link_urls": {
                 "Bilibili": "https://space.bilibili.com/97213827",
                 "官方网站": "https://www.pvzhe.com/new"
@@ -558,14 +507,6 @@
                 "千羽冰封": null,
                 "Hao_Ge278": null
             },
-            "author": [
-                "Dr`小黑",
-                "此名字不能正常显示",
-                "天谴之羊",
-                "不活跃的罐子",
-                "千羽冰封",
-                "Hao_Ge278"
-            ],
             "last_update": "",
             "icon": "beta",
             "version": "β 6.66-Test.36",
@@ -593,9 +534,6 @@
             "authors": {
                 "Ghastasaucey": "https://space.bilibili.com/384775811"
             },
-            "author": [
-                "Ghastasaucey"
-            ],
             "last_update": "2026-08-27 12:30",
             "icon": "ghtr",
             "version": "Voyage 0.17q - Beta release",
@@ -620,11 +558,6 @@
                 "IceandFire04": null,
                 "ItsRomeostar": null
             },
-            "author": [
-                "Gzh0821",
-                "IceandFire04",
-                "ItsRomeostar"
-            ],
             "last_update": "",
             "icon": "ge",
             "version": "Pvz2 Gardendless 0.13.0",
@@ -647,7 +580,6 @@
             "authors": {
                 "这里是我的名字哦": "https://space.bilibili.com/408736714"
             },
-            "author": [],
             "last_update": "2026-08-20 19:38",
             "icon": "genshin",
             "version": "Genshin Edition 2023.1.12",
@@ -670,9 +602,6 @@
             "authors": {
                 "铜锣戏语": "https://space.bilibili.com/36155819"
             },
-            "author": [
-                "铜锣戏语"
-            ],
             "last_update": "",
             "icon": "unparalleled",
             "version": "Unparalleled Edition 3.0",
@@ -695,9 +624,6 @@
             "authors": {
                 "房子猫猫": "https://space.bilibili.com/66804103"
             },
-            "author": [
-                "房子猫猫"
-            ],
             "last_update": "",
             "icon": "trashcan",
             "version": "Trash can army 2.5",
@@ -720,9 +646,6 @@
             "authors": {
                 "b站南瓜酱": "https://space.bilibili.com/180277591"
             },
-            "author": [
-                "b站南瓜酱"
-            ],
             "last_update": "",
             "icon": "origin",
             "version": "World War II Edition 1.31",
@@ -747,9 +670,6 @@
             "authors": {
                 "Cuerzor58": "https://space.bilibili.com/348514"
             },
-            "author": [
-                "Cuerzor58"
-            ],
             "last_update": "",
             "icon": "mvz",
             "version": "Mvz 0.6.4",
@@ -770,9 +690,6 @@
             "authors": {
                 "PVZMixed版运营组": "https://space.bilibili.com/632302171"
             },
-            "author": [
-                "PVZMixed版运营组"
-            ],
             "last_update": "",
             "icon": "origin",
             "version": "Mixed 2.06 Public preview",
@@ -793,9 +710,6 @@
             "authors": {
                 "m木糖m": "https://space.bilibili.com/33824345"
             },
-            "author": [
-                "m木糖m"
-            ],
             "last_update": "",
             "icon": "dave",
             "version": "Dave Rush 1.1.5.6",
@@ -816,9 +730,6 @@
             "authors": {
                 "m木糖m": "https://space.bilibili.com/33824345"
             },
-            "author": [
-                "m木糖m"
-            ],
             "last_update": "",
             "icon": "dave",
             "version": "Dave Rush 0.2",
@@ -839,9 +750,6 @@
             "authors": {
                 "未知": null
             },
-            "author": [
-                "未知"
-            ],
             "last_update": "",
             "icon": "origin",
             "version": "Jian Edition 0.710",
@@ -862,9 +770,6 @@
             "authors": {
                 "喵喵喵豆子": "https://space.bilibili.com/167141989"
             },
-            "author": [
-                "喵喵喵豆子"
-            ],
             "last_update": "",
             "icon": "card",
             "version": "Card Edition 0.710",
@@ -885,9 +790,6 @@
             "authors": {
                 "宅宅萝卜": "https://space.bilibili.com/38078309"
             },
-            "author": [
-                "宅宅萝卜"
-            ],
             "last_update": "",
             "icon": "radish",
             "version": "Beautiful Town 0.58",
@@ -909,10 +811,6 @@
                 "宅宅萝卜": "https://space.bilibili.com/38078309",
                 "d白了个白b": "https://space.bilibili.com/3546613966441269"
             },
-            "author": [
-                "宅宅萝卜",
-                "d白了个白b"
-            ],
             "last_update": "",
             "icon": "radish",
             "version": "Legend Edition 2.731",
@@ -933,9 +831,6 @@
             "authors": {
                 "庄不纯": "https://space.bilibili.com/3493090151107069"
             },
-            "author": [
-                "庄不纯"
-            ],
             "last_update": "",
             "icon": "girls",
             "version": "Plants Girls Vs. Zombies 1.2.3",
@@ -956,9 +851,6 @@
             "authors": {
                 "一坨馬": "https://space.bilibili.com/102361671"
             },
-            "author": [
-                "一坨馬"
-            ],
             "last_update": "",
             "icon": "rouge",
             "version": "Rouge Edition 1.5.0",
@@ -981,13 +873,10 @@
             "authors": {
                 "2G70大魔王": "https://space.bilibili.com/1842904392"
             },
-            "author": [
-                "2G70大魔王"
-            ],
             "last_update": "",
             "icon": "origin",
             "version": "Crazy Multiverse 2.1.1",
-            "size": 481.60,
+            "size": 481.6,
             "execute_name": "PlantsVsZombies.exe",
             "is_recommend": false,
             "is_new": false,
@@ -1004,9 +893,6 @@
             "authors": {
                 "尤尼维斯工作室": "https://space.bilibili.com/356608228"
             },
-            "author": [
-                "尤尼维斯工作室"
-            ],
             "last_update": "",
             "icon": "universe",
             "version": "Universe Edition 1.1.0.1",
@@ -1029,9 +915,6 @@
             "authors": {
                 "无脸的程序": "https://space.bilibili.com/1230432752"
             },
-            "author": [
-                "无脸的程序"
-            ],
             "last_update": "",
             "icon": "ecology",
             "version": "Ecology Edition 0.7.1",
@@ -1063,16 +946,6 @@
                 "星空浪客小黑(美术)": "https://space.bilibili.com/496254983",
                 "八雲桐(美术)": null
             },
-            "author": [
-                "童话小责(程序策划)",
-                "叶工好学(美术)",
-                "黯月(美术策划)",
-                "架空白音(美术)",
-                "致明笑笑(美术策划)",
-                "机鱼吐司(美术)",
-                "星空浪客小黑(美术)",
-                "八雲桐(美术)"
-            ],
             "last_update": "",
             "icon": "graft",
             "version": "Graft Edition 1.131",
@@ -1097,9 +970,6 @@
             "authors": {
                 "咸威化": "https://space.bilibili.com/1369831472"
             },
-            "author": [
-                "咸威化"
-            ],
             "last_update": "",
             "icon": "wafer",
             "version": "Wafer Edition 0.4.6.1",
@@ -1127,12 +997,6 @@
                 "伴九九": null,
                 "小杰": null
             },
-            "author": [
-                "奇才丿",
-                "末影",
-                "伴九九",
-                "小杰"
-            ],
             "last_update": "",
             "icon": "unnamed",
             "version": "Unnamed 1.3-beta.3",
@@ -1153,9 +1017,6 @@
             "authors": {
                 "los gdi42": null
             },
-            "author": [
-                "los gdi42"
-            ],
             "last_update": "",
             "icon": "random",
             "version": "Original? Edition Final Version",
@@ -1180,9 +1041,6 @@
             "authors": {
                 "未知": null
             },
-            "author": [
-                "未知"
-            ],
             "last_update": "",
             "icon": "origin",
             "version": "Xie Edition Reset 1.24-test.11",
@@ -1208,10 +1066,6 @@
                 "叔丁基_锂": null,
                 "D_2135": null
             },
-            "author": [
-                "叔丁基_锂",
-                "D_2135"
-            ],
             "last_update": "",
             "icon": "random",
             "version": "Random Ultimate Edition",
@@ -1236,9 +1090,6 @@
             "authors": {
                 "头牛o": "https://space.bilibili.com/3546562489748303"
             },
-            "author": [
-                "头牛o"
-            ],
             "last_update": "",
             "icon": "guidance",
             "version": "Guidance 0.37",
@@ -1263,9 +1114,6 @@
             "authors": {
                 "萌新迎风听雨": "https://space.bilibili.com/411256864"
             },
-            "author": [
-                "萌新迎风听雨"
-            ],
             "last_update": "",
             "icon": "ultimate",
             "version": "Ultimate 1.7.2",
@@ -1290,9 +1138,6 @@
             "authors": {
                 "Henry-joestar": "https://space.bilibili.com/431554820"
             },
-            "author": [
-                "Henry-joestar"
-            ],
             "last_update": "",
             "icon": "eagrace",
             "version": "Eagrace 1.9.7",
@@ -1318,10 +1163,6 @@
                 "江南游戏": null,
                 "玩窝头网络工作室": null
             },
-            "author": [
-                "江南游戏",
-                "玩窝头网络工作室"
-            ],
             "last_update": "",
             "icon": "tat",
             "version": "TAT 3.9.9",
@@ -1344,11 +1185,6 @@
                 "神奇的披萨": null,
                 "小小咩MS": "https://space.bilibili.com/262402657"
             },
-            "author": [
-                "潜艇伟伟迷",
-                "神奇的披萨",
-                "小小咩MS"
-            ],
             "last_update": "",
             "icon": "origin",
             "version": "TD Edition",
@@ -1369,9 +1205,6 @@
             "authors": {
                 "b站南瓜酱": "https://space.bilibili.com/180277591"
             },
-            "author": [
-                "b站南瓜酱"
-            ],
             "last_update": "",
             "icon": "origin",
             "version": "Brother Edition",
@@ -1394,9 +1227,6 @@
             "authors": {
                 "麒麟蛋卷": "https://space.bilibili.com/675272258"
             },
-            "author": [
-                "麒麟蛋卷"
-            ],
             "last_update": "",
             "icon": "bedrock",
             "version": "Bedrock Edition 1.0.5",
@@ -1421,9 +1251,6 @@
             "authors": {
                 "冥谷川恋": null
             },
-            "author": [
-                "冥谷川恋"
-            ],
             "last_update": "",
             "icon": "ninefive",
             "version": "Version 95",
@@ -1447,9 +1274,6 @@
             "authors": {
                 "北窗遥望": "https://space.bilibili.com/484494032"
             },
-            "author": [
-                "北窗遥望"
-            ],
             "last_update": "",
             "icon": "dream",
             "version": "Scaredy-Shroom's Dream 0.2.2",
@@ -1464,151 +1288,137 @@
     ],
     "trainer": [
         {
+            "support_version": "全版本",
             "name": "Pvz Toolkit",
             "descriptions": [],
             "screenshot": 5,
             "authors": {
                 "Lmintlcx": null
             },
-            "author": [
-                "Lmintlcx"
-            ],
             "last_update": "",
             "icon": "pvztoolkit",
             "version": "PvzToolkit 1.22.0",
-            "support_version": "全版本",
             "size": 0.56,
             "execute_name": "PvZ_Toolkit_v1.22.0_ZH.exe",
             "is_recommend": true,
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/ihV8j3cp7ovi",
-            "share_password": "983u"
+            "share_password": "983u",
+            "link_urls": null
         },
         {
+            "support_version": "1.0.0.1051",
             "name": "Pvz Tools",
             "descriptions": [],
             "screenshot": 14,
             "authors": {
                 "Lmintlcx": null
             },
-            "author": [
-                "Lmintlcx"
-            ],
             "last_update": "",
             "icon": "pvztoolkit",
             "version": "PvzTools 2.7.5",
-            "support_version": "1.0.0.1051",
             "size": 18.0,
             "execute_name": "PvZ_Tools_v2.7.5.exe",
             "is_recommend": true,
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/iHcq23y64w3i",
-            "share_password": "g27o"
+            "share_password": "g27o",
+            "link_urls": null
         },
         {
+            "support_version": "全版本",
             "name": "植物大战僵尸终极修改器",
             "descriptions": [],
             "screenshot": 6,
             "authors": {
                 "未知": null
             },
-            "author": [
-                "未知"
-            ],
             "last_update": "",
             "icon": "origin",
             "version": "Ultimate Pvz trainer",
-            "support_version": "全版本",
             "size": 2.85,
             "execute_name": "PVZWPF修改器.exe",
             "is_recommend": true,
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/iIBj33fgifqj",
-            "share_password": "3jdu"
+            "share_password": "3jdu",
+            "link_urls": null
         },
         {
+            "support_version": "全版本",
             "name": "Cheat Engine",
             "descriptions": [],
             "screenshot": 1,
             "authors": {
                 "Eric Heijnen (Dark Byte)": null
             },
-            "author": [
-                "Eric Heijnen (Dark Byte)"
-            ],
             "last_update": "",
             "icon": "ce",
             "version": "Cheat engine 7.6",
-            "support_version": "全版本",
             "size": 34.8,
             "execute_name": "Cheat Engine.exe",
             "is_recommend": true,
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/iMNzY3cp7omj",
-            "share_password": "a9t5"
+            "share_password": "a9t5",
+            "link_urls": null
         },
         {
+            "support_version": "1.0.0.1051 ~ 1.2.0.1065",
             "name": "血量显示器",
             "descriptions": [],
             "screenshot": 1,
             "authors": {
                 "未知": null
             },
-            "author": [
-                "未知"
-            ],
             "last_update": "",
             "icon": "origin",
             "version": "血量显示器 1.0.0.0",
-            "support_version": "1.0.0.1051 ~ 1.2.0.1065",
             "size": 19.95,
             "execute_name": "血量显示器.exe",
             "is_recommend": false,
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/iKSGC3cp7ocj",
-            "share_password": "bpbp"
+            "share_password": "bpbp",
+            "link_urls": null
         },
         {
+            "support_version": "1.0.0.1051 ~ 1.2.0.1065",
             "name": "随机数修改器",
             "descriptions": [],
             "screenshot": 3,
             "authors": {
                 "未知": null
             },
-            "author": [
-                "未知"
-            ],
             "last_update": "",
             "icon": "origin",
             "version": "Random trainer 3.2",
-            "support_version": "1.0.0.1051 ~ 1.2.0.1065",
             "size": 11.49,
             "execute_name": "Rnd_3_3.exe",
             "is_recommend": false,
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/iXPlB3cp7q6f",
-            "share_password": "6wpv"
+            "share_password": "6wpv",
+            "link_urls": null
         },
         {
+            "support_version": "全版本",
             "name": "Pvz Toolkit 英文版",
             "descriptions": [],
             "screenshot": 5,
             "authors": {
                 "Lmintlcx": null
             },
-            "author": [
-                "Lmintlcx"
-            ],
             "last_update": "",
             "icon": "pvztoolkit",
             "version": "PvzToolkit-EN 1.22.0",
-            "support_version": "全版本",
             "size": 0.55,
             "execute_name": "PvZ_Toolkit_v1.22.0_EN.exe",
             "is_recommend": false,
             "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/iFQls3cp7ouh",
-            "share_password": "fczc"
+            "share_password": "fczc",
+            "link_urls": null
         }
     ],
     "other": [
@@ -1623,7 +1433,6 @@
             "authors": {
                 "未知": null
             },
-            "author": [],
             "last_update": "2026-08-20 19:51",
             "icon": "origin",
             "version": "Font Combine",
@@ -1649,7 +1458,6 @@
                 "PopCap": "https://www.ea.com/ea-studios/popcap",
                 "PvzLauncher": "https://github.com/PvzLauncher"
             },
-            "author": [],
             "last_update": "2026-08-20 16:45",
             "icon": "origin",
             "version": "Resources Combine",

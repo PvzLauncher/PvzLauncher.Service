@@ -8,6 +8,7 @@
                 "    玩家通过武装多种植物切换不同的功能，快速有效地把僵尸阻挡在入侵的道路上。多达50个的冒险模式关卡设定，从白天到夜晚，从房顶到游泳池，场景变化多样。有26种不同的僵尸敌人，50多种功能强大的植物，而每个场景最多只能选用10种植物，这就需要玩家根据自己的游戏策略来作出取舍；可收集硬币购买宠物蜗牛等多种可选道具。游戏提供五种主要模式：冒险模式；迷你游戏与解谜模式；生存模式；禅境花园。2025年10月24日，《植物大战僵尸：重植版》于Steam开放预购，新增本地联机合作、PvP对战，于同年正式登陆PS5、Xbox 及PC平台。"
             ],
             "screenshot": 6,
+            "tips": null,
             "authors": {
                 "PopCap": "https://www.ea.com/ea-studios/popcap"
             },
@@ -32,6 +33,7 @@
                 "        1.0.0.1051版中，玉米投手单独使用正常（后投玉米核，前发豌豆），但与另一玉米投手并排时，后排双投玉米核，前排额外双发豌豆，造成输出过剩。该bug源于投射逻辑冲突。1.2版修复为标准行为：后排双投，前排单发。"
             ],
             "screenshot": 6,
+            "tips": null,
             "authors": {
                 "PopCap": "https://www.ea.com/ea-studios/popcap"
             },
@@ -51,6 +53,7 @@
                 "    《植物大战僵尸》年度加强版（Game of the Year Edition，简称年度版，1.2.0.1073）于2010年7月11日发布。该版继承1065所有修复（如玉米投手双射、屋顶瞄准），新增成就与自定义功能，并优化平衡与UI，未添加新植物、僵尸或关卡。"
             ],
             "screenshot": 9,
+            "tips": null,
             "authors": {
                 "PopCap": "https://www.ea.com/ea-studios/popcap"
             },
@@ -70,6 +73,7 @@
                 "   《植物大战僵尸》Steam年度正版（GOTY Edition，版本1.2.0.1073或Steam补丁1.2.0.1096）于2010年8月10日在Steam平台发行，为官方英文版，支持Steam生态。年度加强版（基于1.2.0.1073汉化版）为中文社区优化版，常由宝开或植吧汉化，容量约50-90MB，新增便利功能。两者核心内容相同（成就系统、Zombatar、Disco Zombie替换舞王），继承1.2.0.1065修复，无新植物/僵尸。"
             ],
             "screenshot": 5,
+            "tips": null,
             "authors": {
                 "PopCap": "https://www.ea.com/ea-studios/popcap"
             },
@@ -89,6 +93,7 @@
                 "   《植物大战僵尸》测试版0.9.9.1029（Beta）于2009年2月17日发布，为正式版1.0.0.1051（2009年5月5日）前三个月构建。游戏核心机制已趋成熟，但UI、音乐与部分行为存在细微差异，未引入新植物/僵尸/关卡，主要优化视觉与音频。"
             ],
             "screenshot": 5,
+            "tips": null,
             "authors": {
                 "PopCap": "https://www.ea.com/ea-studios/popcap"
             },
@@ -108,6 +113,7 @@
                 "   《植物大战僵尸》测试版0.1.1.1014（Bloom and Doom BETA）于2008年12月2日构建，为已知最早可玩原型，距正式版1.0.0.1051约5个月。游戏核心机制初步成型，但UI、图形、音频粗糙，残留大量未用内容（如Iceberg Lettuce、Stinger植物，Dog Zombie等），无结束动画。冒险模式可通关，但无智慧树和成就系统。"
             ],
             "screenshot": 7,
+            "tips": null,
             "authors": {
                 "PopCap": "https://www.ea.com/ea-studios/popcap"
             },
@@ -133,6 +139,7 @@
                 "   2.0版本重制了部分内容，新增小游戏、档案系统，并对早期关卡进行视觉与机制升级。该改版深受国际PvZ社区好评，为经典游戏注入新鲜活力，适合追求新颖体验的玩家探索。"
             ],
             "screenshot": 5,
+            "tips": null,
             "authors": {
                 "NiqKidd": "https://www.youtube.com/@NiqKidd"
             },
@@ -157,6 +164,7 @@
                 "   《植物大战僵尸：Expansion》是一款主要添加新内容、修复部分漏洞，并在一定程度上提升游戏挑战性的模组，但并不会让难度变得极高。该模组并未对整个游戏进行大规模的全面修改，不过包含了一些平衡性调整和新功能。"
             ],
             "screenshot": 5,
+            "tips": null,
             "authors": {
                 "skill_issue": "https://gamebanana.com/members/3161692"
             },
@@ -183,6 +191,7 @@
                 "   DLC版大幅丰富了单机内容，保留经典塔防玩法的同时提升了挑战性与可玩度，是原作爱好者的优质扩展选择。整体保持原作轻松幽默风格，适合长期游玩。"
             ],
             "screenshot": 7,
+            "tips": null,
             "authors": {
                 "Samen": "https://www.youtube.com/@SamenPvz"
             },
@@ -206,6 +215,7 @@
                 "   DLC版大幅丰富了单机内容，保留经典塔防玩法的同时提升了挑战性与可玩度，是原作爱好者的优质扩展选择。整体保持原作轻松幽默风格，适合长期游玩。"
             ],
             "screenshot": 6,
+            "tips": null,
             "authors": {
                 "Samen": "https://www.youtube.com/@SamenPvz"
             },
@@ -229,6 +239,7 @@
                 "   整体保留原作核心，却通过这些创新改动大幅提高重玩价值与长期可玩性。"
             ],
             "screenshot": 7,
+            "tips": null,
             "authors": {
                 "Raducu": "https://www.youtube.com/@RaducuDynamite"
             },
@@ -250,6 +261,7 @@
                 "   《植物大战僵尸》汉化第一版基于英文原版1.0.0.1051（2009年5月5日发布），由民间汉化组于2009年5月底迅速推出。该版为中国玩家引入简体中文界面与译名，无新内容或bug修复，完全保留原版机制，是最早流传的中文完整版，深受mod与速通社区青睐。"
             ],
             "screenshot": 6,
+            "tips": null,
             "authors": {
                 "urf及其民间汉化团队": null
             },
@@ -269,6 +281,7 @@
                 "   《植物大战僵尸》汉化第一版由游侠网（LMAO汉化组）于2009年5月底基于英文原版1.0.0.1051制作，为中国玩家最早完整中文版。汉化第二版由同一团队迅速推出，同为基础版本，无新内容、植物、僵尸或bug修复，完全保留原版机制（如玉米投手双射、屋顶瞄准偏移），译名与对话一致。"
             ],
             "screenshot": 4,
+            "tips": null,
             "authors": {
                 "urf": null,
                 "LMAO汉化组": null
@@ -289,6 +302,7 @@
                 "   《植物大战僵尸》v1.2.0.1065汉化版（又称汉化第三版）于2010年3月由游侠网社区基于英文修复版1.2.0.1065制作。该版移植1.0.0.1051汉化第二版资源，实现全简体中文界面与译名，继承官方bug修复，无新内容、成就或Zombatar。"
             ],
             "screenshot": 3,
+            "tips": null,
             "authors": {
                 "lijingjie": null
             },
@@ -308,6 +322,7 @@
                 "   《植物大战僵尸》年度加强汉化版（简称年度加强版）基于英文GOTY版1.2.0.1073，由社区汉化优化。该版继承1065修复及年度新增（成就、Zombatar、Disco舞王），全简体中文，无广告崩溃。"
             ],
             "screenshot": 7,
+            "tips": null,
             "authors": {
                 "民间汉化组": null
             },
@@ -327,6 +342,7 @@
                 "   《植物大战僵尸》植吧完美汉化版（简称植吧年度版）由植物大战僵尸吧（植吧）社区制作，基于英文年度加强版1.2.0.1073（2010年7月）制作。该版全简体中文优化，继承1065修复（玉米投手双射、屋顶瞄准），新增成就、Zombatar、Disco舞王等年度内容，无广告、无崩溃，推荐避开“粘汗版”年度汉化bug。"
             ],
             "screenshot": 6,
+            "tips": null,
             "authors": {
                 "植物大战僵尸吧 (百度贴吧)": "https://tieba.baidu.com/f?kw=%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B8"
             },
@@ -350,6 +366,7 @@
                 "(不过它为什么会出现在植物大战僵尸启动器内？)"
             ],
             "screenshot": 3,
+            "tips": null,
             "authors": {
                 "PopCap": "https://www.ea.com/ea-studios/popcap"
             },
@@ -375,6 +392,7 @@
                 "   此外，融合版包含冒险、挑战、解谜、生存及独特的旅行模式（Roguelike究极对战），还设有副卡选卡、肥料增益等特色玩法。画面保留原作风趣，更新持续活跃，因平衡性优秀且无争议而备受玩家推崇，成为融合种植塔防的代表之作。"
             ],
             "screenshot": 5,
+            "tips": null,
             "authors": {
                 "蓝飘飘fly": "https://space.bilibili.com/3546619314178489",
                 "蓝蝶": null,
@@ -400,6 +418,7 @@
                 "   杂交版也包含了冒险、挑战、迷你游戏、生存及隐藏副本等多种模式，僵尸AI与出场机制优化明显，画面音效完全忠于原作。虽因原版引擎限制偶有闪退，但支持经典鼠标操作与后台运行，作者持续更新优化，使其成为原版引擎改版中平衡性与可玩性兼备的典范之作。"
             ],
             "screenshot": 8,
+            "tips": null,
             "authors": {
                 "潜艇伟伟迷": "https://space.bilibili.com/97213827",
                 "小小咩MS": "https://space.bilibili.com/262402657",
@@ -428,6 +447,7 @@
                 "   此外，杂交重置版包含冒险、挑战、生存、每日挑战及自制关卡社区等多种模式，新增昼夜更替机制与丰富收集要素。画面音效忠于原作风趣却更流畅，支持经典鼠标操作，成为老玩家重温杂交策略深度与新玩家无障碍入坑的首选优化版本。"
             ],
             "screenshot": 5,
+            "tips": null,
             "authors": {
                 "潜艇伟伟迷": "https://space.bilibili.com/97213827",
                 "小小咩MS": "https://space.bilibili.com/262402657",
@@ -457,6 +477,7 @@
                 "   此外，β版支持后台运行，调整墓碑出怪机制并引入刺激波次，进一步提升可玩性与紧张感。它在传承原作幽默轻松氛围的同时，通过这些独特创新营造出更高策略性和挑战性的体验，深受喜爱新鲜塔防乐趣的玩家青睐，成为探索植物僵尸世界的新窗口。"
             ],
             "screenshot": 8,
+            "tips": null,
             "authors": {
                 "Dr`小黑": "https://space.bilibili.com/12952765",
                 "此名字不能正常显示": "https://space.bilibili.com/98965051",
@@ -484,6 +505,7 @@
                 ""
             ],
             "screenshot": 5,
+            "tips": null,
             "authors": {
                 "潜艇伟伟迷": "https://space.bilibili.com/97213827"
             },
@@ -492,7 +514,7 @@
             "size": 29.49,
             "execute_name": "PlantsVsZombies.exe",
             "is_recommend": false,
-            "is_new": true,
+            "is_new": false,
             "share_url": "https://hhzyx.lanzouv.com/iNrGF45fw7xc",
             "share_password": "fyrw",
             "link_urls": {
@@ -509,6 +531,7 @@
                 "   此外，游戏环境与关卡极具特色。水域、熔岩、沼泽、沙风等多种动态地形要求灵活搭配植物特性。伴随丰富剧情、成就系统及多档难度调节，游戏既保留了原版紧张刺激，又带来更高挑战与新鲜乐趣，成为塔防爱好者独具魅力的佳作。"
             ],
             "screenshot": 3,
+            "tips": null,
             "authors": {
                 "Ghastasaucey": "https://space.bilibili.com/384775811"
             },
@@ -530,6 +553,7 @@
                 "   此版本为压缩过后的精简版，原始版本因体积过大不便传输(1GB)，如有需求请前往官网自行下载"
             ],
             "screenshot": 6,
+            "tips": null,
             "authors": {
                 "Gzh0821": null,
                 "IceandFire04": null,
@@ -553,6 +577,7 @@
                 "  植物大战僵尸原声版有元素反应，史莱姆敌人，地脉异常效果，角色天赋升级系统和角色「刻晴」等等内容"
             ],
             "screenshot": 3,
+            "tips": null,
             "authors": {
                 "这里是我的名字哦": "https://space.bilibili.com/408736714"
             },
@@ -574,6 +599,7 @@
                 ""
             ],
             "screenshot": 4,
+            "tips": null,
             "authors": {
                 "铜锣戏语": "https://space.bilibili.com/36155819"
             },
@@ -595,6 +621,7 @@
                 ""
             ],
             "screenshot": 5,
+            "tips": null,
             "authors": {
                 "房子猫猫": "https://space.bilibili.com/66804103"
             },
@@ -616,6 +643,7 @@
                 ""
             ],
             "screenshot": 2,
+            "tips": null,
             "authors": {
                 "b站南瓜酱": "https://space.bilibili.com/180277591"
             },
@@ -639,6 +667,7 @@
                 "   本游戏存在两个版本。过去使用Gamemaker Studio 2制作的版本更新到第四章，目前已经被废弃。而现在使用Unity制作的版本目前正处于开发阶段，未来预计会有约112个器械，64个怪物以及132个冒险关卡。"
             ],
             "screenshot": 5,
+            "tips": null,
             "authors": {
                 "Cuerzor58": "https://space.bilibili.com/348514"
             },
@@ -658,6 +687,7 @@
                 ""
             ],
             "screenshot": 5,
+            "tips": null,
             "authors": {
                 "PVZMixed版运营组": "https://space.bilibili.com/632302171"
             },
@@ -677,6 +707,7 @@
                 ""
             ],
             "screenshot": 7,
+            "tips": null,
             "authors": {
                 "m木糖m": "https://space.bilibili.com/33824345"
             },
@@ -696,6 +727,7 @@
                 ""
             ],
             "screenshot": 7,
+            "tips": null,
             "authors": {
                 "m木糖m": "https://space.bilibili.com/33824345"
             },
@@ -715,6 +747,7 @@
                 ""
             ],
             "screenshot": 0,
+            "tips": null,
             "authors": {
                 "未知": null
             },
@@ -734,6 +767,7 @@
                 ""
             ],
             "screenshot": 5,
+            "tips": null,
             "authors": {
                 "喵喵喵豆子": "https://space.bilibili.com/167141989"
             },
@@ -753,6 +787,7 @@
                 ""
             ],
             "screenshot": 5,
+            "tips": null,
             "authors": {
                 "宅宅萝卜": "https://space.bilibili.com/38078309"
             },
@@ -772,6 +807,7 @@
                 ""
             ],
             "screenshot": 5,
+            "tips": null,
             "authors": {
                 "宅宅萝卜": "https://space.bilibili.com/38078309",
                 "d白了个白b": "https://space.bilibili.com/3546613966441269"
@@ -792,6 +828,7 @@
                 ""
             ],
             "screenshot": 5,
+            "tips": null,
             "authors": {
                 "庄不纯": "https://space.bilibili.com/3493090151107069"
             },
@@ -811,6 +848,7 @@
                 ""
             ],
             "screenshot": 4,
+            "tips": null,
             "authors": {
                 "一坨馬": "https://space.bilibili.com/102361671"
             },
@@ -832,6 +870,7 @@
                 "(暂无描述)"
             ],
             "screenshot": 5,
+            "tips": null,
             "authors": {
                 "2G70大魔王": "https://space.bilibili.com/1842904392"
             },
@@ -851,6 +890,7 @@
                 "   PVZUniverse是一款制作非常精良的同人游戏，作为从0开始的作品能够达到今天的质量真的令人惊喜，在所有改版/同人作品中都能排到超大杯中起步，由于关卡设计略显平庸导致有些减分，但无伤大雅，游戏的美术、植物与僵尸的创意和平衡性均非常优秀。"
             ],
             "screenshot": 4,
+            "tips": null,
             "authors": {
                 "尤尼维斯工作室": "https://space.bilibili.com/356608228"
             },
@@ -872,6 +912,7 @@
                 "   新机制-多人联机，目前支持合作模式任何关卡1-4人一起玩，卡槽数多人平分，多余的给房主，目前只有不可重复选卡的合作模式，多地图关卡，任何玩家都可以随意察看每个地图，左边玩家列表会显示该玩家所在地图，玩家右边方块点，黄色表示房主，绿色表示选卡完成并准备。阳光共享，场上的阳光每个玩家都可以去收集，总数不变。"
             ],
             "screenshot": 5,
+            "tips": null,
             "authors": {
                 "无脸的程序": "https://space.bilibili.com/1230432752"
             },
@@ -895,6 +936,7 @@
                 "   面对不断变化的僵尸阵容，合理选择嫁接组合、灵活调整布局，发挥植物间的协同效果，在策略与创意的结合中体验焕然一新的塔防乐趣。"
             ],
             "screenshot": 6,
+            "tips": null,
             "authors": {
                 "童话小责(程序策划)": "https://space.bilibili.com/124524440",
                 "叶工好学(美术)": null,
@@ -925,6 +967,7 @@
                 "   相比原版，《植物大战僵尸 威化版》拥有更加丰富的战术组合和更高的策略性。不同关卡加入了新的地图设计、敌人配置和玩法机制，考验玩家的临场应变能力。无论是喜欢研究阵容搭配，还是挑战高难度关卡，都能在游戏中体验到独特而有趣的塔防乐趣。"
             ],
             "screenshot": 5,
+            "tips": null,
             "authors": {
                 "咸威化": "https://space.bilibili.com/1369831472"
             },
@@ -948,6 +991,7 @@
                 "   此外，无名版包含冒险、生存、隐藏关卡等多种模式，BGM大量采用PVZ音乐区UP主虽华的原创曲目。虽因高难度与原版引擎限制偶有兼容问题，但支持后台运行与经典鼠标操作，保留原作风趣画风与轻松节奏，成为老玩家心中经久不衰的魔改典范之一。"
             ],
             "screenshot": 10,
+            "tips": null,
             "authors": {
                 "奇才丿": null,
                 "末影": null,
@@ -970,6 +1014,7 @@
                 "(暂无描述)"
             ],
             "screenshot": 4,
+            "tips": null,
             "authors": {
                 "los gdi42": null
             },
@@ -993,6 +1038,7 @@
                 "   与原版相比，屑版在平衡性上更注重挑战性与乐趣的结合：火力输出更极致，策略深度更丰富，既适合追求爽快的玩家，也考验老玩家的战术布局能力。整体而言，这是一款极具创意与重玩价值的魔改作品，为经典塔防注入全新活力。"
             ],
             "screenshot": 6,
+            "tips": null,
             "authors": {
                 "未知": null
             },
@@ -1016,6 +1062,7 @@
                 "   此外，随机版包含原版全部模式（冒险50关、迷你游戏、解谜、生存及禅境花园），僵尸种类、场景与音效完全忠于经典。虽因高随机性导致通关难度极大，但支持经典鼠标操作与后台运行，成为B站“能否通关”挑战视频的常客与老玩家重温原版乐趣的新窗口。"
             ],
             "screenshot": 6,
+            "tips": null,
             "authors": {
                 "叔丁基_锂": null,
                 "D_2135": null
@@ -1040,6 +1087,7 @@
                 "   此外，新指导版提供简单、普通、困难、地狱四种难度模式，包含冒险与挑战玩法，并新增约20种原创植物与特色僵尸。画面音效忠于原作风趣，离线即可畅玩，牛头的毒舌吐槽与恶搞互动极大提升趣味性与策略变数，成为玩家体验“被AI指导”魔性乐趣的独特版本。"
             ],
             "screenshot": 3,
+            "tips": null,
             "authors": {
                 "头牛o": "https://space.bilibili.com/3546562489748303"
             },
@@ -1063,6 +1111,7 @@
                 "   此外，精华版支持Windows、安卓、iOS等多平台互通存档，画面音效忠于原作并提供高清优化，包含冒险、生存、迷你游戏等多种模式。虽为个人为爱发电作品，但更新活跃、兼容性强且内容海量，成为老玩家圆梦童年与新玩家体验全系列精华的首选经典改版。"
             ],
             "screenshot": 6,
+            "tips": null,
             "authors": {
                 "萌新迎风听雨": "https://space.bilibili.com/411256864"
             },
@@ -1086,6 +1135,7 @@
                 "   此外，Eagrace Max保留原作全部经典模式（冒险、生存、小游戏、拼图等），画面音效忠于原作风趣，支持后台运行与经典鼠标操作。尽管高难度常令玩家止步中后期，但作者持续优化更新，使其成为B站硬核通关视频的常客与老玩家磨炼策略的魔改典范。"
             ],
             "screenshot": 10,
+            "tips": null,
             "authors": {
                 "Henry-joestar": "https://space.bilibili.com/431554820"
             },
@@ -1109,6 +1159,7 @@
                 "   此外，TAT版包含完整冒险模式、植物装扮系统、月球章节等扩展内容，并支持隐藏关卡与自定义难度。画面音效融合原作幽默与二代精致，支持后台运行与经典鼠标操作，完全免费开放，成为老玩家体验全新PVZ故事与高难度挑战的经典改版之选。"
             ],
             "screenshot": 6,
+            "tips": null,
             "authors": {
                 "江南游戏": null,
                 "玩窝头网络工作室": null
@@ -1129,6 +1180,7 @@
                 ""
             ],
             "screenshot": 2,
+            "tips": null,
             "authors": {
                 "潜艇伟伟迷": "https://space.bilibili.com/97213827",
                 "神奇的披萨": null,
@@ -1150,6 +1202,7 @@
                 ""
             ],
             "screenshot": 1,
+            "tips": null,
             "authors": {
                 "b站南瓜酱": "https://space.bilibili.com/180277591"
             },
@@ -1171,6 +1224,7 @@
                 ""
             ],
             "screenshot": 4,
+            "tips": null,
             "authors": {
                 "麒麟蛋卷": "https://space.bilibili.com/675272258"
             },
@@ -1194,6 +1248,7 @@
                 "   此外，95版将原版隐藏小游戏全部改为直接可见，修复多处bug关卡（如坚果保龄球、保护传送门），并优化生存、无尽等模式。画面音效完全忠于原作风趣，支持后台运行与经典鼠标操作，虽整体难度极高（适合已获金色向日葵奖杯的玩家），但平衡性与挑战性备受认可，成为中文玩家圈中经久不衰的魔改典范之一。"
             ],
             "screenshot": 1,
+            "tips": null,
             "authors": {
                 "冥谷川恋": null
             },
@@ -1216,6 +1271,7 @@
                 "   此外，胆小菇之梦包含完整主线冒险关卡、多地图挑战与Bug修复（如磁力菇拐弯、多植物显示错误），并可集成至融合版作为迷你游戏模式。画面音效忠于原作风趣，支持离线游玩与经典操作，成为玩家体验“植物互相连接”弹幕式塔防乐趣的创意之作。"
             ],
             "screenshot": 5,
+            "tips": null,
             "authors": {
                 "北窗遥望": "https://space.bilibili.com/484494032"
             },
@@ -1236,6 +1292,7 @@
             "name": "Pvz Toolkit",
             "descriptions": [],
             "screenshot": 5,
+            "tips": null,
             "authors": {
                 "Lmintlcx": null
             },
@@ -1254,6 +1311,7 @@
             "name": "Pvz Tools",
             "descriptions": [],
             "screenshot": 14,
+            "tips": null,
             "authors": {
                 "Lmintlcx": null
             },
@@ -1272,6 +1330,7 @@
             "name": "植物大战僵尸终极修改器",
             "descriptions": [],
             "screenshot": 6,
+            "tips": null,
             "authors": {
                 "未知": null
             },
@@ -1290,6 +1349,7 @@
             "name": "Cheat Engine",
             "descriptions": [],
             "screenshot": 1,
+            "tips": null,
             "authors": {
                 "Eric Heijnen (Dark Byte)": null
             },
@@ -1308,6 +1368,7 @@
             "name": "血量显示器",
             "descriptions": [],
             "screenshot": 1,
+            "tips": null,
             "authors": {
                 "未知": null
             },
@@ -1326,6 +1387,7 @@
             "name": "随机数修改器",
             "descriptions": [],
             "screenshot": 3,
+            "tips": null,
             "authors": {
                 "未知": null
             },
@@ -1344,6 +1406,7 @@
             "name": "Pvz Toolkit 英文版",
             "descriptions": [],
             "screenshot": 5,
+            "tips": null,
             "authors": {
                 "Lmintlcx": null
             },
@@ -1367,6 +1430,7 @@
                 "   由于技术原因，此资源整合只能通过游戏的方式下载。下载之后可以将资源转移至其他地点并从启动器内删除"
             ],
             "screenshot": 1,
+            "tips": null,
             "authors": {
                 "未知": null
             },
@@ -1390,6 +1454,7 @@
                 "   由于技术原因，此资源整合只能通过游戏的方式下载。下载之后可以将资源转移至其他地点并从启动器内删除"
             ],
             "screenshot": 9,
+            "tips": null,
             "authors": {
                 "PopCap": "https://www.ea.com/ea-studios/popcap",
                 "PvzLauncher": "https://github.com/PvzLauncher"

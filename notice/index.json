@@ -1,6 +1,23 @@
 {
     "notices": [
         {
+            "title": "2026-09-13 游戏库更新",
+            "contents": [
+                "添加改版 `植物大战僵尸 幼儿园版`"
+            ],
+            "start": "2026-09-13T12:00:00+08:00",
+            "end": "2026-09-16T00:00:00+08:00",
+            "primary-button": "查看",
+            "secondary-button": null,
+            "primary-actions": [
+                {
+                    "type": "to-page",
+                    "url": "Download"
+                }
+            ],
+            "secondary-actions": []
+        },
+        {
             "title": "2026-09-06 游戏库更新",
             "contents": [
                 "添加改版 `植物大战僵尸 恐怖版`"

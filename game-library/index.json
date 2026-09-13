@@ -383,24 +383,23 @@
     ],
     "zh_revision": [
         {
-            "name": "植物大战僵尸 恐怖版",
+            "name": "植物大战僵尸 幼儿园版",
             "descriptions": [],
-            "screenshot": 5,
-            "tips": "此改版包含恐怖元素，请慎重选择游玩",
+            "screenshot": 6,
+            "tips": null,
             "authors": {
-                "对不起贱笑了": "https://space.bilibili.com/3546614316665044"
+                "菊长大人本人": "https://space.bilibili.com/345047054"
             },
-            "icon": "eagrace",
-            "version": "Horror Edition 1.0.1",
-            "size": 197.35,
-            "execute_name": "PVZ-Scared.exe",
+            "icon": "kid",
+            "version": "Kindergarten Edition 0.9.5",
+            "size": 161.99,
+            "execute_name": "PlantsVsZombiesCUTEv0.9.5.exe",
             "is_recommend": false,
             "is_new": true,
-            "share_url": "https://pan.huang1111.cn/s/QzZlZtm",
+            "share_url": "https://pan.huang1111.cn/s/Wzjmof3",
             "share_password": "",
             "link_urls": {
-                "下载帖子": "https://www.bilibili.com/opus/1236453443093135382",
-                "宣传视频": "https://www.bilibili.com/video/BV1F2gj6GEMw"
+                "宣传帖": "https://www.bilibili.com/opus/965914093077659656"
             }
         },
         {
@@ -518,6 +517,27 @@
             "link_urls": {
                 "Bilibili": "https://space.bilibili.com/12952765",
                 "官方网站": "https://pvz-beta.site"
+            }
+        },
+        {
+            "name": "植物大战僵尸 恐怖版",
+            "descriptions": [],
+            "screenshot": 5,
+            "tips": "此改版包含恐怖元素，请慎重选择游玩",
+            "authors": {
+                "对不起贱笑了": "https://space.bilibili.com/3546614316665044"
+            },
+            "icon": "eagrace",
+            "version": "Horror Edition 1.0.1",
+            "size": 197.35,
+            "execute_name": "PVZ-Scared.exe",
+            "is_recommend": false,
+            "is_new": false,
+            "share_url": "https://pan.huang1111.cn/s/QzZlZtm",
+            "share_password": "",
+            "link_urls": {
+                "下载帖子": "https://www.bilibili.com/opus/1236453443093135382",
+                "宣传视频": "https://www.bilibili.com/video/BV1F2gj6GEMw"
             }
         },
         {

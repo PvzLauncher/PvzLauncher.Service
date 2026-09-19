@@ -130,6 +130,31 @@
     ],
     "en_revision": [
         {
+            "name": "植物大战僵尸 2 Native",
+            "descriptions": [
+                "   《植物大战僵尸2》（英语：Plants vs. Zombies 2），原名为《植物大战僵尸2：奇妙时空之旅》（英语：Plants vs. Zombies 2: It Is About Time），是由宝开游戏开发、美国艺电发行的一款塔防类电子游戏。它是2009年大获成功的《植物大战僵尸》的续作。",
+                "",
+                "   此版本是由 OptiJuegos 制作的平台原生版，使仅安卓的游戏扩展到其他平台原生运行"
+            ],
+            "screenshot": 5,
+            "tips": null,
+            "authors": {
+                "PopCap": "https://www.ea.com/ea-studios/popcap",
+                "OptiJuegos": "https://github.com/OptiJuegos"
+            },
+            "icon": "ge",
+            "version": "Plants Vs Zombies 2 Native",
+            "size": 601.51,
+            "execute_name": "pvz2native.exe",
+            "is_recommend": false,
+            "is_new": true,
+            "share_url": "https://pan.huang1111.cn/s/k27jDcB",
+            "share_password": "",
+            "link_urls": {
+                "Github": "https://github.com/OptiJuegos/PvZ2Native"
+            }
+        },
+        {
             "name": "植物大战僵尸 Delturbia",
             "descriptions": [
                 "   植物大战僵尸 Delturbia 版是由开发者NiqKidd创作的《植物大战僵尸》大型改版，于2025年发布1.0版本，2025年12月推出2.0更新。该模组对原作进行全面改造，采用全新画风，视觉风格独特且精致，被玩家誉为“最接近PvZ3的民间作品”。",
@@ -383,26 +408,6 @@
     ],
     "zh_revision": [
         {
-            "name": "植物大战僵尸 幼儿园版",
-            "descriptions": [],
-            "screenshot": 6,
-            "tips": null,
-            "authors": {
-                "菊长大人本人": "https://space.bilibili.com/345047054"
-            },
-            "icon": "kid",
-            "version": "Kindergarten Edition 0.9.5",
-            "size": 161.99,
-            "execute_name": "PlantsVsZombiesCUTEv0.9.5.exe",
-            "is_recommend": false,
-            "is_new": true,
-            "share_url": "https://pan.huang1111.cn/s/Wzjmof3",
-            "share_password": "",
-            "link_urls": {
-                "宣传帖": "https://www.bilibili.com/opus/965914093077659656"
-            }
-        },
-        {
             "name": "植物大战僵尸 融合版",
             "descriptions": [
                 "   植物大战僵尸融合版是由B站UP主蓝飘飘fly开发的同人塔防游戏，于2024年6月30日正式发布。它基于原版《植物大战僵尸》核心玩法，使用Unity引擎重制，最大创新在于引入“植物融合”系统，成为2024年最受好评的PvZ同人作品之一。",
@@ -517,6 +522,26 @@
             "link_urls": {
                 "Bilibili": "https://space.bilibili.com/12952765",
                 "官方网站": "https://pvz-beta.site"
+            }
+        },
+        {
+            "name": "植物大战僵尸 幼儿园版",
+            "descriptions": [],
+            "screenshot": 6,
+            "tips": null,
+            "authors": {
+                "菊长大人本人": "https://space.bilibili.com/345047054"
+            },
+            "icon": "kid",
+            "version": "Kindergarten Edition 0.9.5",
+            "size": 161.99,
+            "execute_name": "PlantsVsZombiesCUTEv0.9.5.exe",
+            "is_recommend": false,
+            "is_new": false,
+            "share_url": "https://pan.huang1111.cn/s/Wzjmof3",
+            "share_password": "",
+            "link_urls": {
+                "宣传帖": "https://www.bilibili.com/opus/965914093077659656"
             }
         },
         {

@@ -1,11 +1,8 @@
 ## 更新
 
-* 添加游戏图标 `植物大战僵尸 幼儿园版` [#260](https://github.com/PvzLauncher/PvzLauncher/issues/260)
+* 添加对 `Wine` 环境的特殊判断
 
 ## 更改
 
-* 解析游戏图标失败时，显示原版游戏图标，而非骇人的紫黑方格
-
-## 修复
-
-* 修复了Overlay信息窗口可能在关闭后被调整可见性的问题
+* 日志文件名结构由 `pvzl.log.[时间戳].log` 改为 `pvzl.[时间戳].log`
+* `Release` 构建不会输出 `DEBUG` 等级的日志

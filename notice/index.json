@@ -1,12 +1,26 @@
 {
     "notices": [
         {
+            "title": "2026-10-13 关于更新频率调整的公告",
+            "contents": [
+                "   接下来，PvzLauncher 的更新频率将会明显放缓，预计不会再有较大规模的功能更新。视实际情况，可能推出一些补丁与修复，以解决已知问题、改善现有体验。",
+                "",
+                "   感谢大家一直以来对 PvzLauncher 的支持与理解。项目不会因此立即停止维护，只是后续开发将以我的实际时间和精力为准，恳请大家理解。"
+            ],
+            "start": "2026-10-13T21:00:00+08:00",
+            "end": "2099-12-31T23:59:59+08:00",
+            "primary-button": "我已知晓",
+            "secondary-button": null,
+            "primary-actions": [],
+            "secondary-actions": []
+        },
+        {
             "title": "2026-10-07 更新告知",
             "contents": [
                 "PvzLauncher在近期不会有更新推出，除非遇到灾难性的安全漏洞。\n\n感谢您一直以来对PvzLauncher的支持，如果时间充足，我们会继续维护PvzLauncher!"
             ],
-            "start": "2026-10-07T00:00:00+08:00",
-            "end": "2026-11-01T00:00:00+08:00",
+            "start": "1970-01-01T00:00:00+08:00",
+            "end": "1970-01-01T00:00:01+08:00",
             "primary-button": null,
             "secondary-button": null,
             "primary-actions": [],

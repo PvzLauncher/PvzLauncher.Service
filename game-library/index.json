@@ -408,6 +408,28 @@
     ],
     "zh_revision": [
         {
+            "name": "植物大战僵尸 数学版",
+            "descriptions": [
+                "  非常的烧脑，特别地烧脑"
+            ],
+            "screenshot": 5,
+            "tips": null,
+            "authors": {
+                "NurlMe": "https://space.bilibili.com/405288318"
+            },
+            "icon": "math",
+            "version": "Math Edition",
+            "size": 30.32,
+            "execute_name": "PVZ MATH.exe",
+            "is_recommend": false,
+            "is_new": true,
+            "share_url": "https://hhzyx.lanzouv.com/i9Qfq4c8x5oh",
+            "share_password": "75ja",
+            "link_urls": {
+                "宣传视频": "https://www.bilibili.com/video/BV1VxJqzfE8j"
+            }
+        },
+        {
             "name": "植物大战僵尸 融合版",
             "descriptions": [
                 "   植物大战僵尸融合版是由B站UP主蓝飘飘fly开发的同人塔防游戏，于2024年6月30日正式发布。它基于原版《植物大战僵尸》核心玩法，使用Unity引擎重制，最大创新在于引入“植物融合”系统，成为2024年最受好评的PvZ同人作品之一。",

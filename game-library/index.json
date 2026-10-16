@@ -446,14 +446,16 @@
                 "机鱼吐司": "https://space.bilibili.com/85881762"
             },
             "icon": "fe",
-            "version": "Fusion Edition 3.8.1",
-            "size": 474.14,
+            "version": "Fusion Edition 4.0.5",
+            "size": 398.06,
             "execute_name": "PlantsVsZombiesRH.exe",
             "is_recommend": true,
-            "is_new": false,
-            "share_url": "https://pan.huang1111.cn/s/DVxeyI4",
+            "is_new": true,
+            "share_url": "https://pan.huang1111.cn/s/YL7Q9sA",
             "share_password": "",
-            "link_urls": {}
+            "link_urls": {
+                "Wiki": "https://wiki.biligame.com/pvzrh"
+            }
         },
         {
             "name": "植物大战僵尸 杂交版 (经典)",

@@ -408,52 +408,6 @@
     ],
     "zh_revision": [
         {
-            "name": "植物大战僵尸2 无尽花园",
-            "descriptions": [
-                "   完全重制的全桌面平台PvZ2"
-            ],
-            "screenshot": 6,
-            "tips": "启动器提供的版本为压缩过后的精简版(~300MB)，原始版本因体积过大不便传输(>1GB)，如有需求请前往官网自行下载",
-            "authors": {
-                "Gzh0821": null,
-                "IceandFire04": null,
-                "ItsRomeostar": null
-            },
-            "icon": "ge",
-            "version": "Pvz2 Gardendless 0.15.0",
-            "size": 298.22,
-            "execute_name": "pvzge-lite.exe",
-            "is_recommend": false,
-            "is_new": true,
-            "share_url": "https://pan.huang1111.cn/s/xbRX7uV",
-            "share_password": null,
-            "link_urls": {
-                "官方网站": "https://pvzge.com"
-            }
-        },
-        {
-            "name": "植物大战僵尸 数学版",
-            "descriptions": [
-                "  非常的烧脑，特别地烧脑"
-            ],
-            "screenshot": 5,
-            "tips": null,
-            "authors": {
-                "NurlMe": "https://space.bilibili.com/405288318"
-            },
-            "icon": "math",
-            "version": "Math Edition",
-            "size": 30.32,
-            "execute_name": "PVZ MATH.exe",
-            "is_recommend": false,
-            "is_new": true,
-            "share_url": "https://hhzyx.lanzouv.com/i9Qfq4c8x5oh",
-            "share_password": "75ja",
-            "link_urls": {
-                "宣传视频": "https://www.bilibili.com/video/BV1VxJqzfE8j"
-            }
-        },
-        {
             "name": "植物大战僵尸 融合版",
             "descriptions": [
                 "   植物大战僵尸融合版是由B站UP主蓝飘飘fly开发的同人塔防游戏，于2024年6月30日正式发布。它基于原版《植物大战僵尸》核心玩法，使用Unity引擎重制，最大创新在于引入“植物融合”系统，成为2024年最受好评的PvZ同人作品之一。",
@@ -474,7 +428,7 @@
             "size": 398.06,
             "execute_name": "PlantsVsZombiesRH.exe",
             "is_recommend": true,
-            "is_new": true,
+            "is_new": false,
             "share_url": "https://pan.huang1111.cn/s/YL7Q9sA",
             "share_password": "",
             "link_urls": {
@@ -570,6 +524,52 @@
             "link_urls": {
                 "Bilibili": "https://space.bilibili.com/12952765",
                 "官方网站": "https://pvz-beta.site"
+            }
+        },
+        {
+            "name": "植物大战僵尸2 无尽花园",
+            "descriptions": [
+                "   完全重制的全桌面平台PvZ2"
+            ],
+            "screenshot": 6,
+            "tips": "启动器提供的版本为压缩过后的精简版(~300MB)，原始版本因体积过大不便传输(>1GB)，如有需求请前往官网自行下载",
+            "authors": {
+                "Gzh0821": null,
+                "IceandFire04": null,
+                "ItsRomeostar": null
+            },
+            "icon": "ge",
+            "version": "Pvz2 Gardendless 0.15.0",
+            "size": 298.22,
+            "execute_name": "pvzge-lite.exe",
+            "is_recommend": false,
+            "is_new": false,
+            "share_url": "https://pan.huang1111.cn/s/xbRX7uV",
+            "share_password": null,
+            "link_urls": {
+                "官方网站": "https://pvzge.com"
+            }
+        },
+        {
+            "name": "植物大战僵尸 数学版",
+            "descriptions": [
+                "  非常的烧脑，特别地烧脑"
+            ],
+            "screenshot": 5,
+            "tips": null,
+            "authors": {
+                "NurlMe": "https://space.bilibili.com/405288318"
+            },
+            "icon": "math",
+            "version": "Math Edition",
+            "size": 30.32,
+            "execute_name": "PVZ MATH.exe",
+            "is_recommend": false,
+            "is_new": false,
+            "share_url": "https://hhzyx.lanzouv.com/i9Qfq4c8x5oh",
+            "share_password": "75ja",
+            "link_urls": {
+                "宣传视频": "https://www.bilibili.com/video/BV1VxJqzfE8j"
             }
         },
         {

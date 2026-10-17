@@ -408,6 +408,28 @@
     ],
     "zh_revision": [
         {
+            "name": "植物大战僵尸 Universe",
+            "descriptions": [
+                "   PVZUniverse是一款制作非常精良的同人游戏，作为从0开始的作品能够达到今天的质量真的令人惊喜，在所有改版/同人作品中都能排到超大杯中起步，由于关卡设计略显平庸导致有些减分，但无伤大雅，游戏的美术、植物与僵尸的创意和平衡性均非常优秀。"
+            ],
+            "screenshot": 4,
+            "tips": null,
+            "authors": {
+                "闪熠Flashine(原尤尼维斯工作室)": "https://space.bilibili.com/356608228"
+            },
+            "icon": "universe",
+            "version": "Universe Edition 1.2.1.1",
+            "size": 1008.53,
+            "execute_name": "PVZUniverse2.exe",
+            "is_recommend": false,
+            "is_new": true,
+            "share_url": "https://pan.huang1111.cn/s/YLAkQhA",
+            "share_password": null,
+            "link_urls": {
+                "宣传视频": "https://www.bilibili.com/video/BV11f8u6UEnR"
+            }
+        },
+        {
             "name": "植物大战僵尸 融合版",
             "descriptions": [
                 "   植物大战僵尸融合版是由B站UP主蓝飘飘fly开发的同人塔防游戏，于2024年6月30日正式发布。它基于原版《植物大战僵尸》核心玩法，使用Unity引擎重制，最大创新在于引入“植物融合”系统，成为2024年最受好评的PvZ同人作品之一。",
@@ -969,26 +991,6 @@
             "is_recommend": false,
             "is_new": false,
             "share_url": "https://pan.huang1111.cn/s/xbQ1qtV",
-            "share_password": null,
-            "link_urls": {}
-        },
-        {
-            "name": "植物大战僵尸 Universe",
-            "descriptions": [
-                "   PVZUniverse是一款制作非常精良的同人游戏，作为从0开始的作品能够达到今天的质量真的令人惊喜，在所有改版/同人作品中都能排到超大杯中起步，由于关卡设计略显平庸导致有些减分，但无伤大雅，游戏的美术、植物与僵尸的创意和平衡性均非常优秀。"
-            ],
-            "screenshot": 4,
-            "tips": null,
-            "authors": {
-                "尤尼维斯工作室": "https://space.bilibili.com/356608228"
-            },
-            "icon": "universe",
-            "version": "Universe Edition 1.1.0.1",
-            "size": 1263.99,
-            "execute_name": "PVZUniverse2.exe",
-            "is_recommend": false,
-            "is_new": false,
-            "share_url": "https://pan.huang1111.cn/s/YLAkQhA",
             "share_password": null,
             "link_urls": {}
         },

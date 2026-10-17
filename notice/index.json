@@ -1,6 +1,23 @@
 {
     "notices": [
         {
+            "title": "2026-10-17 游戏库变更",
+            "contents": [
+                "更新 `植物大战僵尸 Universe` 1.1.0.1 -> 1.2.1.1"
+            ],
+            "start": "2026-10-17T15:00:00+08:00",
+            "end": "2099-10-20T23:59:59+08:00",
+            "primary-button": "查看",
+            "secondary-button": null,
+            "primary-actions": [
+                {
+                    "type": "to-page",
+                    "ur": "Download"
+                }
+            ],
+            "secondary-actions": []
+        },
+        {
             "title": "2026-10-16 游戏库变更",
             "contents": [
                 "添加 `植物大战僵尸 数学版`",

@@ -1,17 +1,48 @@
 {
     "notices": [
-    	{
-                "title": "2026-10-30 更新暂停",
-                "contents": [
-                    "   由于个人原因，开发PvzLauncher使用的Windows系统所在的硬盘已经损坏，在硬盘修复或更换之前，PvzLauncher将暂停更新。",
-                    "	此公告将一直保留到更新恢复。"
-                ],
-                "start": "2026-10-30T19:00:00+08:00",
-                "end": "2099-01-01T00:00:00+08:00",
-                "primary-button": null,
-                "secondary-button": null,
-                "primary-actions": [],
-                "secondary-actions": []
+        {
+            "title": "2026-11-20 更新策略调整",
+            "contents": [
+                "   经深思熟虑，我们决定调整PvzLauncher的更新策略。此后，将无新功能添加，仅有必要的漏洞修复发布。感谢理解"
+            ],
+            "start": "2026-11-20T00:00:00+08:00",
+            "end": "2027-01-01T00:00:00+08:00",
+            "primary-button": "我已知晓",
+            "secondary-button": null,
+            "primary-actions": [],
+            "secondary-actions": []
+        },
+        {
+            "title": "2026-11-20 关于游戏下载问题的通知",
+            "contents": [
+                "   提供大体积游戏下载的云盘添加了人机验证，这导致由PvzLauncher发出的请求被拒绝。因此，大体积(>100MB)游戏将无法下载。我们仍在寻找解决方案，尽快解决下载问题！",
+                "",
+                "   您可以前往 `https://github.com/PvzLauncher/PvzLauncher/issues/299` 查看进度"
+            ],
+            "start": "2026-11-20T00:00:00+08:00",
+            "end": "2026-12-01T00:00:00+08:00",
+            "primary-button": "查看进度",
+            "secondary-button": null,
+            "primary-actions": [
+                {
+                    "type": "to-url",
+                    "ur": "https://github.com/PvzLauncher/PvzLauncher/issues/299"
+                }
+            ],
+            "secondary-actions": []
+        },
+        {
+            "title": "2026-10-30 更新暂停",
+            "contents": [
+                "   由于个人原因，开发PvzLauncher使用的Windows系统所在的硬盘已经损坏，在硬盘修复或更换之前，PvzLauncher将暂停更新。",
+                "   此公告将一直保留到更新恢复。"
+            ],
+            "start": "1970-01-01T00:00:00+08:00",
+            "end": "1970-01-01T00:00:01+08:00",
+            "primary-button": null,
+            "secondary-button": null,
+            "primary-actions": [],
+            "secondary-actions": []
         },
         {
             "title": "2026-10-17 游戏库变更",
